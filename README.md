@@ -4,6 +4,9 @@ Norwegian translations for ProcessWire modules.
 ## default-site
 Theres are json-files to be placed in default-site.
 
+## What about ProcessWire Core translations?
+Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-no
+
 ## Module translations included
 * 404 Logger
 * Admin Actions
