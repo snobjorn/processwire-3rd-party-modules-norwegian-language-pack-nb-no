@@ -1,5 +1,5 @@
-# processwire-3rd-party-modules-norwegian-language-pack-nb-no
-Norwegian translations for 3rd party ProcessWire modules.
+# ProcessWire-Modules-Norwegian-Language-Pack-nb-NO
+Norwegian translations for ProcessWire modules.
 
 ## default-site
 Theres are json-files to be placed in default-site.
