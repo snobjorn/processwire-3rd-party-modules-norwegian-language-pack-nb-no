@@ -12,6 +12,7 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * Admin Actions
 * Admin Restrict Branch
 * Autolinks
+* Color: (FieldtypeColor)[https://modules.processwire.com/modules/fieldtype-color/]
 * Custom Upload Names
 * Dynamic Roles
 * Fieldset group

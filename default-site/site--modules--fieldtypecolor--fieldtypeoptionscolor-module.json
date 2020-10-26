@@ -1,0 +1,27 @@
+{
+    "file": "site\/modules\/FieldtypeColor\/FieldtypeOptionsColor.module",
+    "textdomain": "site--modules--fieldtypecolor--fieldtypeoptionscolor-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "Konfigurert forh\u00e5ndsvalg ikke fylt ut siden verdi ikke alltid er n\u00f8dvendig. Korriger denne feltkonfigurasjonen."
+        },
+        "499b2821002c6f6151f92e29103c9dff": {
+            "text": "Avhengig av hvilken inndatatype du velger, vil brukeren kunne velge enten et enkelt alternativ eller flere alternativer. Fargen du spesifiserte vises som bakgrunnsfarge p\u00e5 etiketten eller selve inntastingsfeltet."
+        },
+        "587b3d562b5f1e9fc186d6fd0726668a": {
+            "text": "Den relaterte fargen trekkes fra tittelen eller verdien, hvis spesifisert. Du kan bruke 6- eller 8-sifrede hex-koder med eller uten ledende # eller navngitte farger (HTML). Feltet gjenkjenner forskjellige stavem\u00e5ter for navngitte farger (f. eks. Darkolivegreen, DarkOliveGreen eller Dark Olive Green). Bruk '0' eller 'null' som tittel hvis du vil skjule tittelen og bare vise fargen som etikett. Inkluder alfakanal via de to ledende sifrene i en hex-koden p\u00e5 8 tegn."
+        },
+        "5d82181f713c3318bbc9a68982b6279d": {
+            "text": "Ekstra utdataformater"
+        },
+        "ab92ff612e95aa8b680259dd7e5b9e96": {
+            "text": "Velg ditt foretrukne utdataformat for front-end, som alltid leveres via verdiegenskapen"
+        },
+        "a4d09f30698021739fa2ea88bab38a70": {
+            "text": "Velg fargealternativer"
+        },
+        "71713863f15bc4602d8c96c2e10b3e19": {
+            "text": "Felt som lagrer farger som enkelt- og multivalgsalternativer."
+        }
+    }
+}

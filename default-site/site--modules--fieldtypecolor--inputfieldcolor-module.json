@@ -1,0 +1,78 @@
+{
+    "file": "site\/modules\/FieldtypeColor\/InputfieldColor.module",
+    "textdomain": "site--modules--fieldtypecolor--inputfieldcolor-module",
+    "translations": {
+        "0cd98c89e1936cfaa5310d625f067d65": {
+            "text": "Inndatafeltype"
+        },
+        "ee8f904b543ac0b5bd68dbfa4ba8f24f": {
+            "text": "Inndatafelt type='color' (HTML5 - begrenset nettleserst\u00f8tte)"
+        },
+        "7d04b9bc1fa0f1992d3ff7f58d3617d9": {
+            "text": "Inndatafelt type='text' forventer 24-biters hex-kodestrenger"
+        },
+        "086915d852ff69c9f63eae364311b9f0": {
+            "text": "Inndatafelt type='text' forventer 32-biters hex-kodestrenger (alfakanal)"
+        },
+        "4a2c59bf61213cf378e60b72805c42b8": {
+            "text": "Inndatafelt med Spectrum-fargevelger (JavaScript)"
+        },
+        "41dea20f5bb7d4b0a32a874832d492c4": {
+            "text": "Inndatafelt type='text' med tilpasset JavaScript og\/eller CSS"
+        },
+        "4bddfd98c694c455ad5eaf07ac4ee59b": {
+            "text": "Alternativer for fargevalg"
+        },
+        "741fc5342dc015981afca252bb7aeb70": {
+            "text": "Angi eller endre alternativer for **Spectrum Color Picker**. (Les mer)[https:\/\/bgrins.github.io\/spectrum\/#options]"
+        },
+        "8e97bce8c052edb086c52c8230b421ed": {
+            "text": "Ett alternativ per linje i formatet: 'alternativ: verdi'. Alternativene: \"farge\" og \"endring\" brukes av systemet og kan ikke endres."
+        },
+        "fbceccf369440bfa5b491a9258842c70": {
+            "text": "F\u00f8rste JS"
+        },
+        "c32b39fced685d412caf092a4caa7606": {
+            "text": "JavaScript-kode som starter den tilpassede JS-fargevelgeren. Bruk {id} og {value} som plassholdere for de relaterte feltattributtene i velgeren din"
+        },
+        "4d81e7e8721eefe8124f47af27396029": {
+            "text": "{id} vil bli erstattet av strengen \"%s\""
+        },
+        "adfd42fe843a2b4b5ac2436fca598cad": {
+            "text": "Inkluder JS-fil"
+        },
+        "795474f1d8ee3097c6c7463ef3ed1a49": {
+            "text": "Angi banen til den egendefinerte JavaScript-filen."
+        },
+        "c3480d9b0a16b04cd144cb3c894f20ba": {
+            "text": "URL-streng relativ til \"%s\""
+        },
+        "d49024813d214721261191c17230a4d7": {
+            "text": "Inkluder CSS-fil"
+        },
+        "12c3237f3af4d9e1c22993acc03b5a79": {
+            "text": "Angi banen til den tilpassede stilarkfilen."
+        },
+        "4bf32f9c88f07a29789cfcf0e3123df6": {
+            "text": "6 sifre \"#ff0000\""
+        },
+        "18a764b4708898d987b866c12e258458": {
+            "text": "8 sifre \"#ffff0000\" (ledende alfakanal)"
+        },
+        "cb5feb1b7314637725a2e73bdc9f7295": {
+            "text": "="
+        },
+        "f6bf8c4cae8b140d57a688ee0f490717": {
+            "text": "Inndatafelt for farger"
+        },
+        "73af42e970084af0b4c895a25098cc29": {
+            "text": "Aktiver JqueryCore"
+        },
+        "9b9c3ef22ecf99577997f490fd3a1ffc": {
+            "text": "Aktiver JqueryUI"
+        },
+        "80de24159095092e157b7f541bea4c86": {
+            "text": "Velg verditype"
+        }
+    }
+}
