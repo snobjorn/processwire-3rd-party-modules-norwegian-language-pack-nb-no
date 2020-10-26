@@ -8,9 +8,9 @@ Theres are json-files to be placed in default-site.
 Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-no
 
 ## Module translations included
-* 404 Logger
-* Admin Actions
-* Admin Restrict Branch
+* 404 Logger: [Process404Logger](https://modules.processwire.com/modules/process404-logger/)
+* Admin Actions: [ProcessAdminActions](https://modules.processwire.com/modules/process-admin-actions/)
+* Admin Restrict Branch: [AdminRestrictBranch](https://modules.processwire.com/modules/admin-restrict-branch/)
 * Autolinks
 * Color: [FieldtypeColor](https://modules.processwire.com/modules/fieldtype-color/)
 * Custom Upload Names

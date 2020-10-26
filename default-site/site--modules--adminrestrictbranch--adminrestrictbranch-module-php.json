@@ -22,6 +22,75 @@
         },
         "88766c93eadc0ade73d6daa62f20284d": {
             "text": "Endre br\u00f8dsmulesti"
+        },
+        "9c612a5ecc17cf9a899e656b65600488": {
+            "text": "Du har ikke tillatelse til \u00e5 se denne grenen av sidetreet."
+        },
+        "14eb74d88ed9bf5c62b87506786b179b": {
+            "text": "Hvordan matche bruker til gren"
+        },
+        "c92706365d1d034309bac18cc11b819e": {
+            "text": "'Brukerspesifisert grenforelder' er spesifikt angitt p\u00e5 hver brukers profilside ved \u00e5 bruke feltet 'Overordnet gren for \u00e5 begrense tilgang til'."
+        },
+        "f53327542bb178f84f7697c33178b990": {
+            "text": "ADVARSEL!! Hvis du bruker \"Rollenavn\" eller \"Egendefinert PHP-kode (returnerer et sidenavn eller sti)\", m\u00e5 du v\u00e6re sikker p\u00e5 \u00e5 velge \"Ingen tilgang\" for \"Hvis det ikke samsvarer, gi all tilgang eller ingen tilgang\", fordi en redakt\u00f8r kan endre navnet p\u00e5 grenens foreldre, noe som resulterer i ingen samsvar, og derfor f\u00e5 full tilgang."
+        },
+        "65259f42acaffc4691ddce27d24c724f": {
+            "text": "Brukerspesifisert grenforelder"
+        },
+        "b3f54174b748f4300d8c92c56cd13924": {
+            "text": "Rollespesifisert grenforelder"
+        },
+        "d872b1c9f3f3dc0e6019c7ec7671fbe1": {
+            "text": "Forelder som skal begrense rollenavn og tilpasset PHP-kode samsvarer med."
+        },
+        "4fd4b7c32428701ffeaee327a08b49f8": {
+            "text": "Rollenavnalternativet samsvarer med et sidenavn (ikke en bane), s\u00e5 dette alternativet begrenser samsvar med grener under den valgte overordnede. Dette kan ogs\u00e5 brukes til alternativet Egendefinert PHP-kode hvis du velger \u00e5 returnere et navn i stedet for en bane. Merk: En sti anbefales."
+        },
+        "ad30e4b9f81b5b522fa3163dd0962091": {
+            "text": "Denne innstillingen er valgfri, men anbefales hvis du pr\u00f8ver \u00e5 matche et sidenavn (i stedet for en bane). Hvis ingen side er valgt, vil velgeren s\u00f8ke i hele sidetreet etter samsvarende sidenavn. Merk at det er merket av med \"has_parent\" slik at den valgte siden kan v\u00e6re lenger oppe i treet enn en direkte foreldre."
+        },
+        "a69b90dd366c60400b6e0e84e0f7d47e": {
+            "text": "Dette kan returnere et navn eller en bane. En sti anbefales."
+        },
+        "ad5de001b408a8255d47afdbe9bdfe1d": {
+            "text": "Har tilgang til $user- og $pages-variablene."
+        },
+        "79749b310b5f22a192b9710af3e8800d": {
+            "text": "Hvis ingen treff, gi all tilgang eller ingen tilgang?"
+        },
+        "47343e0e355e3c19882c8223a460baef": {
+            "text": "Hvis brukeren ikke samsvarer basert p\u00e5 den definerte regelen, vil du at brukeren skal ha tilgang til hele sidetreet eller ikke ha tilgang?"
+        },
+        "5b3048fd46b6ec9127b4c38289967e91": {
+            "text": "ADVARSEL!! Hvis du bruker \"Rollenavn\" eller \"Tilpasset PHP-kode (returnerer et sidenavn eller en bane)\", m\u00e5 du v\u00e6re sikker p\u00e5 \u00e5 velge \"Ingen tilgang\", fordi en redakt\u00f8r kan endre navnet p\u00e5 grenforelderen, noe som resulterer i ingen samsvar, og derfor gir full tilgang."
+        },
+        "cbe180136fb857713fa04097f764037e": {
+            "text": "Begrens redigering og listevisning, eller bare redigering."
+        },
+        "b5d9e31458683b0a3d803aa566da7e3d": {
+            "text": "Med 'Bare redigering' valgt, vil brukerne fremdeles se alle grener i sidetreet, men redigeringstilgangen deres vil fortsatt v\u00e6re begrenset."
+        },
+        "7709589eb86c8ef72ec68b4aa828254f": {
+            "text": "Redigering og listevisning"
+        },
+        "7c6be435624522cfa9e66d7aa4b1cb60": {
+            "text": "Utestenginger for grenredigering"
+        },
+        "45268066378a17dd79e8dcdcd8d2c8c4": {
+            "text": "Valgte grense vil v\u00e6re ekskludert fra begrensninger for redigering av gren. De vises fremdeles ikke i sidelisten, men de vil forbli redigerbare, noe som er nyttig for eksterne sidetabellgrener osv."
+        },
+        "e555a53c06bb62c0f8062727bf5da00c": {
+            "text": "Begrens fra s\u00f8keresultatene"
+        },
+        "948000a66942602560d3f8ebee21e68c": {
+            "text": "Merk av for \u00e5 forhindre at s\u00f8keresultatene i administratorgrensesnittet finner sider utenfor den begrensede grenen. Dette er f\u00f8rst og fremst for autofullf\u00f8rsvaret n\u00e5r du setter inn en lenke til en URL fra et CKEditor-felt."
+        },
+        "7f9b2a3d5dc696ccbb48635d600b9557": {
+            "text": "Merk av for \u00e5 fjerne sider fra br\u00f8dsmulene utenfor den begrensede grenen."
+        },
+        "d70ee4cba4c118a58975fb71d561bdc5": {
+            "text": "Dette fungerer bare hvis dette konfigurasjonsalternativet til Admin Restrict Branch-modulen er satt til 'Spesifisert grenforelder'."
         }
     }
 }

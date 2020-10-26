@@ -31,6 +31,30 @@
         },
         "3bc5cc768f2582e1d34ec81ff16a0fb3": {
             "text": "Handlingsinnstillinger"
+        },
+        "b79c54c6d1712d4469f367db1bacfe95": {
+            "text": "Sikkerhetskopiering av databasen"
+        },
+        "cbe62643c35b34f9f07607fe7e76bd2c": {
+            "text": "Vil du ta sikkerhetskopi av databasen automatisk f\u00f8r du utf\u00f8rer denne handlingen?"
+        },
+        "a016d9d86117faa265cb06e03b64d40a": {
+            "text": "Vil du ta sikkerhetskopi av databasen f\u00f8r hver handling utf\u00f8res?"
+        },
+        "ed39ae627e4746fb46b2b4a4cbb3c01a": {
+            "text": "Du kan overstyre denne innstillingen i dine egendefinerte handlinger ved \u00e5 angi: protected $dbBackup = \"automatic\", \"optional\", or \"disabled\"."
+        },
+        "7ac6aa301b41fea1bf7da7d6b5dba80b": {
+            "text": "Vis koden til executeAction()-funksjonen til superbrukere."
+        },
+        "625437b2eae33cee59076acea00acc9b": {
+            "text": "I%sMeny"
+        },
+        "7f8ab2c54d2acc60b974b436c914d6d5": {
+            "text": "handlingen var"
+        },
+        "b1ee28278ff6f600cd4e1d4805d11605": {
+            "text": "handlingene var"
         }
     }
 }
