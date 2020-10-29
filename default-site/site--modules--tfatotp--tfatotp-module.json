@@ -37,6 +37,15 @@
         },
         "336e57256d4f23fcf3b90a503fc1f9d8": {
             "text": "En verdi p\u00e5 1 betyr at gjeldende kode pluss 1 tidligere og neste kode blir akseptert (i 90 sekunder)."
+        },
+        "eae2641e18ade5434f7b88474b4c3cdc": {
+            "text": "="
+        },
+        "682b4ae129149d9b733c1b168ee6fd6b": {
+            "text": "TOTP tofaktorautentisering"
+        },
+        "ad1e2428bff89a305f101785dbbc54b1": {
+            "text": "Fungerer med Authy, Google Authenticator, Microsoft Authenticator eller en hvilken som helst TOTP-app."
         }
     }
 }
