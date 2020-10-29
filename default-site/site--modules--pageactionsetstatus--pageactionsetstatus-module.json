@@ -28,6 +28,18 @@
         },
         "ec53a8c4f07baed5d8825072c89799be": {
             "text": "="
+        },
+        "b6ccca8ca216674b535f5d28d26697a1": {
+            "text": "Fjernet statusen \"%1\" fra siden: %2"
+        },
+        "5d81529d99dedcabd4643e2a9adedf9f": {
+            "text": "La status \"%1\" til siden: %2"
+        },
+        "356bb3b986989855b3969d920ea04724": {
+            "text": "="
+        },
+        "af66ff21fdb3df84b5229546e6c9511a": {
+            "text": "Handling som legger til eller fjerner en status fra en side."
         }
     }
 }
