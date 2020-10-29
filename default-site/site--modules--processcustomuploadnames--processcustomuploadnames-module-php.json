@@ -10,6 +10,12 @@
         },
         "193def347362ab0ca44b3167a545687d": {
             "text": "Automatisk gi nytt navn til fil\/bilde-opplastinger i henhold til et konfigurerbart format"
+        },
+        "7334eefce135370f6a6cbb0a481e263d": {
+            "text": "Dette forhindrer at bilder lagt til av Get Video Thumbs-modulen blir omd\u00f8pt."
+        },
+        "e8a1cd68dfd3ab8d60c9a8ac5994c9e7": {
+            "text": "Merk at hvis du har merket av for dette, forhindres det \u00e5 endre navn p\u00e5 bilder som inneholder \"youtube\" eller \"vimeo\" i filnavnet."
         }
     }
 }
