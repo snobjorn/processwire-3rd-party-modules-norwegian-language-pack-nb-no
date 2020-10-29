@@ -4,6 +4,18 @@
     "translations": {
         "6dde913a28ff17ddf50ac0e9870a0918": {
             "text": "Denne siden oppfyller ikke brukergruppekriteriene for \u00e5 bli publisert."
+        },
+        "a93fccf5deeb16ca92f2df28cca2647d": {
+            "text": "Siden %s ble automatisk avpublisert fordi den ikke lenger samsvarer med redigeringskriteriene dine. Rett den, lagre den og publiser siden p\u00e5 nytt n\u00e5r det er mulig."
+        },
+        "ca119b6e632fbeae2d9a2bb1698c1e84": {
+            "text": "Multiplikatorantall"
+        },
+        "a1ae820f163e2c311db329768b724bf5": {
+            "text": "Vi har oppdaget at du har Multiplier ProField installert! Dette gj\u00f8r at du kan vedlikeholde ELLER-forhold (seksjoner) for velgerne dine som definerer dynamiske roller, og gir dem st\u00f8rre fleksibilitet. Imidlertid bruker den noe *overhead* (hastighet) n\u00e5r du definerer dynamiske roller."
+        },
+        "cfadff99c934ef90a260a5e710a50126": {
+            "text": "Angi det maksimale antallet ELLER-forhold du vil tillate, eller 1 for \u00e5 deaktivere. Hvis du vil bruke denne funksjonen, anbefaler vi at du starter sm\u00e5tt (som 2 eller 3) og \u00f8ker den n\u00e5r\/hvis dine behov tilsier det."
         }
     }
 }
