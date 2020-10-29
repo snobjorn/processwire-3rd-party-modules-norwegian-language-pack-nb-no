@@ -13,15 +13,13 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * Admin Restrict Branch: [AdminRestrictBranch](https://modules.processwire.com/modules/admin-restrict-branch/)
 * Autolinks
 * Color: [FieldtypeColor](https://modules.processwire.com/modules/fieldtype-color/)
-* Custom Upload Names [ProcessCustomUploadNames](https://modules.processwire.com/modules/process-custom-upload-names/)
-* Dynamic Roles [DynamicRoles](https://github.com/ryancramerdesign/DynamicRoles)
+* Custom Upload Names: [ProcessCustomUploadNames](https://modules.processwire.com/modules/process-custom-upload-names/)
+* Dynamic Roles: [DynamicRoles](https://github.com/ryancramerdesign/DynamicRoles)
+* Email/SMS Two-Factor Authentication [TfaEmail](https://modules.processwire.com/modules/tfa-email/)
 * Fieldset group
 * Form Builder
 * Functional fields
 * Funky Functions
-* Hanna Code
-* Hanna Code Helper
-* Hanna Code Text Formatter
 * Import External Images
 * Import Pages from CSV
 * Jumplinks
@@ -30,31 +28,32 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * Load an RSS feed
 * Map Marker
 * Markup RSS Feed enhanced
-* Page Action: Clear Image Variations
-* Page Action: Delete/Trash Pages
-* Page Action: Move Pages [PRO: PageActionMove](https://processwire.com/talk/topic/7898-listerpro-page-action-move-pages/)
-* Page Action: Set Field Value
-* Page Action: Set Page Status [PRO: PageActionSetStatus](https://processwire.com/talk/topic/7894-listerpro-page-action-set-page-status/)
+* Page Action: Clear Image Variations [PRO: PageActionClearImageVariations](https://processwire.com/talk/topic/20471-listerpro-page-action-clear-image-variations/)
+* Page Action: Delete/Trash Pages [PRO: PageActionDelete](https://processwire.com/talk/topic/7893-listerpro-page-action-deletetrash-pages/)
+* Page Action: Export page to CSV file [PRO: PageActionExporCSV](https://processwire.com/talk/topic/7895-listerpro-page-action-export-pages-to-csv-file/)
+* Page Action: Move Pages; [PRO: PageActionMove](https://processwire.com/talk/topic/7898-listerpro-page-action-move-pages/)
+* Page Action: Send Email
+* Page Action: Set Field Value [PRO: PageActionSetField](https://processwire.com/talk/topic/7896-listerpro-page-action-set-field-value/)
+* Page Action: Set Page Status: [PRO: PageActionSetStatus](https://processwire.com/talk/topic/7894-listerpro-page-action-set-page-status/)
 * Page Field Edit Links
-* PageAction: Export to CSV
-* PDF Fieldtype
-* Persistent Login for users.
+* PDF Fieldtype [FieldtypePDF](https://modules.processwire.com/modules/fieldtype-pdf/)
+* Persistent Login for users [LoginPersist](https://modules.processwire.com/modules/login-persist/)
 * ProCache
 * ProCache Buster
 * ProcessWire API Explorer
+* ProcessWire Upgrade [ProcessWireUpgrade]https://modules.processwire.com/modules/process-wire-upgrade/
 * ProFields: Multiplier
 * ProFields: Table
 * ProFields: Text Blocks
 * ProFields: Textareas
 * ProfilerPro
 * ProMailer
-* Range Slider
+* Range Slider [FieldtypeRangeSlider](https://modules.processwire.com/modules/range-slider/)
 * Repeater Matrix
 * Select Fields
 * Swift Mailer
 * Templates Reference (multiple)
 * TOTP two-factor authentication [TfaTotp](https://modules.processwire.com/modules/tfa-totp/)
-* Upgrades
 * Verified URL
 * Version Control
-* Video embed for YouTube/Vimeo
+* Video embed for YouTube/Vimeo [TextFormatterVideoEmbed](https://modules.processwire.com/modules/textformatter-video-embed/)
