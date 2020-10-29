@@ -7,6 +7,18 @@
         },
         "1b8d8ccb60f3200527e41aced0b73f6b": {
             "text": "Spesifiser en URL\/bane relativt til rotniv\u00e5et til ProcessWires installasjon."
+        },
+        "5ae991b97dcea9543e7e1f63fb38a880": {
+            "text": "Nettadresse til CSS-fil som gir stil til dette skjemaet"
+        },
+        "0c251cba6906ea207e512bf5c546edca": {
+            "text": "Bakgrunnsfarge p\u00e5 knapp"
+        },
+        "cb6243636b3d31c5006833fbda3ffe18": {
+            "text": "Angi CSS-verdi for hex-farge eller CSS-fargenavn. Utelat for \u00e5 bruke fargen fra rammeverkets CSS-fil."
+        },
+        "890c2c692506febbaefb16238c6dc180": {
+            "text": "Legg merke til at knappens forgrunnsfarge (tekst) er hvit, s\u00e5 det er best \u00e5 unng\u00e5 lyse bakgrunnsfarger."
         }
     }
 }

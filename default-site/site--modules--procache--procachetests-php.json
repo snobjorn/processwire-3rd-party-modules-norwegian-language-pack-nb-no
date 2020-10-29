@@ -1,5 +1,27 @@
 {
     "file": "site\/modules\/ProCache\/ProCacheTests.php",
     "textdomain": "site--modules--procache--procachetests-php",
-    "translations": []
+    "translations": {
+        "f9c7939a8397ee022fefee2bdb3407af": {
+            "text": "Ugyldig nettadresse"
+        },
+        "505a83f220c02df2f85c3810cd9ceb38": {
+            "text": "Suksess"
+        },
+        "aee9784c03b80d38d3271cde2b252b8d": {
+            "text": "Ukjent feil"
+        },
+        "64044028e927aa4857268b5a2b21b84f": {
+            "text": "%d iterasjoner"
+        },
+        "98e1da96da68f9a7dabb5727ec3a0af1": {
+            "text": "Feil: Denne testen krever CURL"
+        },
+        "fa02f7790a024382291cb492d420d608": {
+            "text": "Forsikre deg om at testnettadressen starter med enten http:\/\/ eller https:\/\/"
+        },
+        "b44438450817aa81bf98738c7f17af76": {
+            "text": "Testnettadressen validerte ikke. Pr\u00f8v p\u00e5 nytt."
+        }
+    }
 }

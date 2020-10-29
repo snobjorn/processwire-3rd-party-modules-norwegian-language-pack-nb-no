@@ -73,6 +73,9 @@
         },
         "b883862607697e2929a941d82bf69a46": {
             "text": "Antall innlogginger i databasen: %d."
+        },
+        "850db46cf4d10e18c1c7a3bf8d2459bf": {
+            "text": "Dette bruker nettstedskonfigurasjonsverdien til `$config->sessionFingerprint`."
         }
     }
 }

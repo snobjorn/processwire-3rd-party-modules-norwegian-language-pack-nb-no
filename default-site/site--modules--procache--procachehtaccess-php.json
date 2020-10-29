@@ -1,5 +1,51 @@
 {
     "file": "site\/modules\/ProCache\/ProCacheHtaccess.php",
     "textdomain": "site--modules--procache--procachehtaccess-php",
-    "translations": []
+    "translations": {
+        "3b9ba8376f70a4d04250ba1307bec526": {
+            "text": ".htaccess-filen din med et eksempel p\u00e5 fullf\u00f8rte oppdateringer finner du i: %s"
+        },
+        "8a9b34e495b97b676fdd7bd351961280": {
+            "text": "Flere PROCACHE-regelsett funnet i %s. Fjern dem som ikke er i bruk"
+        },
+        "746e10bb985abe2ff0801caaf2e9359e": {
+            "text": "Kunne ikke finne noen landemerker i %s-filen for foresl\u00e5tt plassering av ProCache-regler"
+        },
+        "3094ebc457c30b330bb0fb9fb761d7b8": {
+            "text": "Sett den inn umiddelbart etter linjen som sier: %s."
+        },
+        "8a19884dac793e7038221dfd3446d576": {
+            "text": "Sett den inn rett f\u00f8r linjen som sier: %s."
+        },
+        "4065cc8df0ffdaebfe788f5e2bbce824": {
+            "text": ".htaccess-filen din krever muligens en oppdatering (se Status-fanen)."
+        },
+        "3d6623b8d5249788a0d797d4bbc5e5a1": {
+            "text": "Handling kreves"
+        },
+        "48fb536a3c32d3af4a84839a37a4a7f7": {
+            "text": ".htaccess-filen din trenger en oppdatering"
+        },
+        "c66f9b648cf580e75bd9b1fe88c9cce0": {
+            "text": "N\u00e5r du er ferdig med \u00e5 konfigurere ProCache (og har lagret innstillingene), kan du kopiere og lime inn teksten nedenfor i .htaccess-filen."
+        },
+        "0999c482fa0b4185ecaf2398dfeb4456": {
+            "text": "Du b\u00f8r fjerne og erstatte dine eldre ProCache .htaccess-direktiver."
+        },
+        "63362ef2062a7b0be3a9001b0dc2f6b4": {
+            "text": "(se fanen \"Tilpasninger\" for \u00e5 sl\u00e5 eksempler p\u00e5 .htaccess-filer p\u00e5 eller av.)"
+        },
+        "7df29cfd42599ca7724b96c53a35b8f6": {
+            "text": "For din referanse har vi ogs\u00e5 utarbeidet en allerede oppdatert kopi av .htaccess i: %s"
+        },
+        "47f1e725c3ccd7e3071f62ddf4e37683": {
+            "text": "Tekst som skal kopieres \/ limes inn i .htaccess-filen"
+        },
+        "3df80ba129cd8c898986413aebef54c3": {
+            "text": "Det er en kopi av den oppdaterte .htaccess-filen i: %s"
+        },
+        "29925efb8373bc82363baa5882bb129f": {
+            "text": "Sikkerhetskopierte eksisterende .htaccess-fil til: %s"
+        }
+    }
 }

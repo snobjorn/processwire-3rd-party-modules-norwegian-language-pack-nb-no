@@ -19,6 +19,12 @@
         },
         "497d4cd80cdaff2649be49b0c3e15548": {
             "text": "Ikke last jQuery UI n\u00e5r det blir forespurt av inndatafeltet*"
+        },
+        "e8145a7ca1066bc778cd73ab7c83721b": {
+            "text": "Hvis nettstedet ditt allerede laster inn noen av disse ressursene, kan du be dette skjemaet om ikke \u00e5 laste dem inn automatisk ved \u00e5 merke av i de aktuelle rutene nedenfor."
+        },
+        "7416243e06ac2754dd12e5149d510cb1": {
+            "text": "*Dette alternativet gjelder bare for innbyggingsmetoder C og D."
         }
     }
 }

@@ -325,6 +325,153 @@
         },
         "e3b481d5297f475abc283227bedbd9b9": {
             "text": "1 dag"
+        },
+        "81c001a7caaa6afa3e8267ad497af076": {
+            "text": "(Brukertilpassede innstillinger definert med mal)"
+        },
+        "0c71b61dc1ee1cc118866cec2d40230a": {
+            "text": "ProCache trenger konfigurering i modulseksjonen"
+        },
+        "aa64cdbeceb4d74b2f29bc0c8eb0bde5": {
+            "text": "Katalogen %s er ikke skrivbar \u2014 vennligst gj\u00f8r den skrivbar for \u00e5 bruke ProCache"
+        },
+        "9329c2d73dd1daab1f9941a89159e9f0": {
+            "text": "Denne innstillingen p\u00e5virker ProCache-reglene i .htaccess-filen."
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
+        },
+        "8346db516e5f3aa534827e7d6c166744": {
+            "text": "Optimaliser"
+        },
+        "90792de52961c34118f976ebe4af3a75": {
+            "text": "Tester"
+        },
+        "cb19b38cef9543dc73da1d043ab6c154": {
+            "text": "For \u00e5 teste om hurtigbufferen fungerer, kan du se i fanen \"Tester\"."
+        },
+        "9f2cb925132a6e06685ba42d8c5b5660": {
+            "text": "Fjernet %d fil(er) fra sammensl\u00e5tt\/minifisert filbuffer"
+        },
+        "66c2fb3ef67000fd59a296d9823321f3": {
+            "text": "Fjernet %1$d CSS- og %2$d JS-filer fra filbufferen (de nyeste versjonene blir igjen p\u00e5 plass)"
+        },
+        "e9eb20f26bfe2ccc17e47035cd4de436": {
+            "text": "Rydde filer?"
+        },
+        "e6aeddebe682ed30201aaf11df902478": {
+            "text": "Rydde ALLE filer"
+        },
+        "195bdb89dee56184d7f7712b9bf462ff": {
+            "text": "Fjernet %s eller eldre filer"
+        },
+        "a06cacb493c854457fae4dacc8ba8e7f": {
+            "text": "Hvis du bruker b\u00e5de HTTP og HTTPS p\u00e5 serveren din, kan det v\u00e6re lurt \u00e5 hurtigbufre HTTPS-foresp\u00f8rsler separat fra HTTP-foresp\u00f8rsler hvis det er noen endringer i visningen mellom HTTP og HTTPS-foresp\u00f8rsler."
+        },
+        "463723ff4f4967913c954f20861d1243": {
+            "text": "Hvis du bare leverer via bare HTTPS (eller bare HTTP), skal du ikke huke av i denne boksen."
+        },
+        "883b8f192af709c719e6c6bac27dcba5": {
+            "text": "Hurtigbufre maler"
+        },
+        "fa53546663f35beecb3be88b1e22d521": {
+            "text": "Sider som bruker avmerkede maler vil bli levert med ProCache n\u00e5r det er aktuelt."
+        },
+        "551a37f93d8d02903a4a958f50028145": {
+            "text": "Indikerte maler har ProCache aktivert og konfigurert fra malinnstillingene."
+        },
+        "adfb7269324fa6dd904a5957c7c48913": {
+            "text": "Hvis du vil endre innstillinger eller deaktivere hurtigbufring, redigerer du malen og klikker p\u00e5 fanen Mellomlager (Oppsett > Maler)."
+        },
+        "da71dd0c5705054b00c3e896fdcc92d6": {
+            "text": "Linjer som begynner med \"#\" blir kommentert ut og ignorert \u2014 de er for din egen del, eller du kan fjerne kommentarene og endre hvilken som helst linje for \u00e5 inkludere den i dine tilpassede regler."
+        },
+        "f98fbf79c3e06fcc2a3fd414fbca5e23": {
+            "text": "Tilbakestill hurtigbuffer for alle (hele nettstedet)"
+        },
+        "1719ef57a673e3d26aa8ce0efbf09e31": {
+            "text": "Tilbakestill hurtigbufferen for barn til den lagrede siden (og alle underliggende)"
+        },
+        "0dd7c5da5021366ae067bce996689ad2": {
+            "text": "Tilbakestill hurtigbufferen til familien til den lagrede siden \u2014 foreldre, s\u00f8sken, barn (og alle underliggende)"
+        },
+        "a0b61a8632ef6cbc10b4b74a3c40c363": {
+            "text": "Tilbakestill hurtigbufferen til alle foreldre til den lagrede siden, unntatt hjemsiden"
+        },
+        "6449b5723a036cbfd089aec4e1358877": {
+            "text": "Tilbakestill hurtigbufferen til sider som refererer til den lagrede siden"
+        },
+        "e965af8d5451da94e18ed2840f9453e4": {
+            "text": "Ikke tilbakestill hurtigbufferen til den lagrede siden (fungerer ikke med A, C eller F)"
+        },
+        "9dc5f29e33152e708c742dcce68c3b03": {
+            "text": "T\u00f8mningsadferd til hurtigbuffer"
+        },
+        "fadc3e181bd0c62d4899d4521ad132fc": {
+            "text": "For \u00e5 teste atferdsinnstillingene dine, se \u201cTester\u201d-fanen."
+        },
+        "5d4f5522b19a64587587e84dad5c7103": {
+            "text": "Hva skal skje n\u00e5r en side lagres?"
+        },
+        "185830f6149d8ca4424ae1d2a32ff9c9": {
+            "text": "N\u00e5r en side lagres, vil dens egen hurtigbuffer alltid bli tilbakestilt \/ t\u00f8mt (hvis den har en)."
+        },
+        "65b673a65f689d5542d9fd33b0d1c664": {
+            "text": "Velg hvilke andre sider som skal tilbakestilles\/t\u00f8mmes nedenfor."
+        },
+        "48126f2d800c49dd1524fd73f5f2e8b3": {
+            "text": "(tilpassede regler per mal)"
+        },
+        "f4ffc8c7eb32141b0dd9a07a96fce95d": {
+            "text": "Hvis du vil bruke en annen oppf\u00f8rsel per mal, skriv inn en per linje med `template=C`, der \"template \"er navnet p\u00e5 malen, og \"C\" er en eller flere atferdskoder, som angitt ovenfor."
+        },
+        "943d97294a6cc06e8ce96eb346dd81af": {
+            "text": "Linjer som begynner med `#`, indikerer hurtigbufrede maler som ikke har tilpassede regler. Fjern `#` og rediger linjen for \u00e5 legge til tilpassede regler."
+        },
+        "1db5ec0d626d4abacf00bec9f3e5f665": {
+            "text": "Avanserte instillinger:"
+        },
+        "d0c24e1c68d789aaeb3bfa02970d123a": {
+            "text": "(navn)"
+        },
+        "004bf6c9a40003140292e97330236c53": {
+            "text": "Handling"
+        },
+        "783e8e29e6a8c3e22baa58a19420eb4f": {
+            "text": "sekunder"
+        },
+        "23f2658a8c4f53da75ed73721ed0e254": {
+            "text": "Hurtigbuffer AV"
+        },
+        "33f3525a7c2f6f9ed6b1ebaad52ba88b": {
+            "text": "Hurtigbuffer P\u00c5"
+        },
+        "8af14af87a5f6f80b50c5b12a33356af": {
+            "text": "Tid lagret"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Fil"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "St\u00f8rrelse"
+        },
+        "eafdb361bd4180075eaf32e95ac05c78": {
+            "text": "Dato"
+        },
+        "e8e2485382f759e57c0c22462f45e8b6": {
+            "text": "Alder"
+        },
+        "af0237a26acbd7c7d0478c9f073bd24c": {
+            "text": "Familie"
+        },
+        "2922db512b4d1766acb22a21f36d2ef8": {
+            "text": "Referanser"
+        },
+        "71e5ffa3268b1edbc3c79f1e9083753c": {
+            "text": "(%d nettadresse)"
+        },
+        "59f07b0e5722a0974d92c3532a19d187": {
+            "text": "(%d nettadresser)"
         }
     }
 }

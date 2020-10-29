@@ -1,5 +1,9 @@
 {
     "file": "site\/modules\/FormBuilder\/FormBuilderPartialEntriesDatabase.php",
     "textdomain": "site--modules--formbuilder--formbuilderpartialentriesdatabase-php",
-    "translations": []
+    "translations": {
+        "88b665c4d429fe3b2c6293f3fcb66621": {
+            "text": "Forespurt oppf\u00f8ring er allerede sendt eller ikke funnet"
+        }
+    }
 }

@@ -73,6 +73,18 @@
         },
         "5b176800a4fa5f818733bbc47bf50c58": {
             "text": "Inndatast\u00f8rrelse"
+        },
+        "cb13fc9385a05438eec0d718221c32fa": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at individuelle feltkolonnebredder (hvis de brukes) ikke gjelder n\u00e5r du bruker den horisontale stilen."
+        },
+        "2ad27a22d98d3c948d3c1c21f8077006": {
+            "text": "Prosentbredde for etikettkolonner (bare horisontal stil)"
+        },
+        "7524e33af67149a6f4295a4632c3abd9": {
+            "text": "Angi en verdi mellom 5 % og 90 % for \u00e5 bestemme bredden p\u00e5 etikettkolonnen. Inndatakolonnen vil ha den resterende prosentandelen, det vil si at hvis du angir 30 % her, vil merkekolonnen ha 30 % bredde og inndatakolonnen vil ha 70 % bredde."
+        },
+        "3eb4ff7452edbaf86f11b2490a618c99": {
+            "text": "Bruk fetere etiketter?"
         }
     }
 }

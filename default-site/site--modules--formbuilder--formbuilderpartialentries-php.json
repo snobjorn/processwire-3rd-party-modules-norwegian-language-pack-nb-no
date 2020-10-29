@@ -1,5 +1,12 @@
 {
     "file": "site\/modules\/FormBuilder\/FormBuilderPartialEntries.php",
     "textdomain": "site--modules--formbuilder--formbuilderpartialentries-php",
-    "translations": []
+    "translations": {
+        "9bcb3af6de255e8e96f1889d4859b133": {
+            "text": "(side %d)"
+        },
+        "3346ac44926414b1f4d522b3c25d9a1f": {
+            "text": "Forel\u00f8pig ikke sendt inn"
+        }
+    }
 }

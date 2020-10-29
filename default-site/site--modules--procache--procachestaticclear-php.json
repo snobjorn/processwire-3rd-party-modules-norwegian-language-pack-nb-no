@@ -1,5 +1,42 @@
 {
     "file": "site\/modules\/ProCache\/ProCacheStaticClear.php",
     "textdomain": "site--modules--procache--procachestaticclear-php",
-    "translations": []
+    "translations": {
+        "25e6ae366b383ada8ee5594eb3784e7f": {
+            "text": "Fjern alle hurtigbufferfiler (fullstendig rydding)"
+        },
+        "f45dfa8a2f1601439c07c4ee372a44d0": {
+            "text": "ProCache ryddet alle sidene"
+        },
+        "530578fee8f54b7763f684bb02feb1b4": {
+            "text": "slett sti"
+        },
+        "17b07089821ce823967324d1058ab7c9": {
+            "text": "slett fil"
+        },
+        "d0af0cdf3a8acfaf8faa2aaa702bcea0": {
+            "text": "slett grensti"
+        },
+        "e17a84d386cab18b91ffd65a088af6e1": {
+            "text": "slett segementsti"
+        },
+        "050fe45571dafd67f549e10eb354e822": {
+            "text": "slett segmentfil"
+        },
+        "24cbfd66eeb2df2c94a9b2969ca7eb27": {
+            "text": "ProCache-ryddet side:"
+        },
+        "ef5d511b2a5dc5a93ce455a624e2edca": {
+            "text": "1 katalog\/fil"
+        },
+        "5936edca264963c38ccad3f3adaf07b0": {
+            "text": "%d kataloger\/filer"
+        },
+        "1dfff85bd1556bff3fbb9e8c46c2334b": {
+            "text": "1 rad"
+        },
+        "f8c04e40dde1df67abadc74a7460570f": {
+            "text": "%d rader"
+        }
+    }
 }

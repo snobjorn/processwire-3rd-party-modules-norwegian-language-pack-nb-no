@@ -1,5 +1,18 @@
 {
     "file": "site\/modules\/ProCache\/ProCacheHooker.php",
     "textdomain": "site--modules--procache--procachehooker-php",
-    "translations": []
+    "translations": {
+        "26b100c80461c3b12459409a037cbc67": {
+            "text": "Denne siden er ikke hurtigbufret av ProCache."
+        },
+        "cff5cc3753df9a5784ddb77359cc44d4": {
+            "text": "Denne siden er satt til \u00e5 bli hurtigbufret, men det finnes forel\u00f8pig ingen hurtigbufferfiler."
+        },
+        "f290c043a566395a8e015f5dd12589c7": {
+            "text": "F\u00f8lgende filer er for \u00f8yeblikket hurtigbufret for denne siden."
+        },
+        "48b4638e7843e382255731bf630e7ec1": {
+            "text": "Hurtigbufret nettadresse"
+        }
+    }
 }

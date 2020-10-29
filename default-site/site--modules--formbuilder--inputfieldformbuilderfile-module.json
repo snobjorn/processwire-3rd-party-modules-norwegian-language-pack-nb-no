@@ -34,6 +34,12 @@
         },
         "53275fc526e43e61ab39bc8fb78f68d0": {
             "text": "Skriv inn alle filetternavn som tillatelse i dette opplastingsfeltet. Skill hvert filetternavn med et mellomrom. Ingen punktumer eller kommaer."
+        },
+        "44b0433ff903fcae0e41e4408b1c84a2": {
+            "text": "Overstiger maks filst\u00f8rrelse p\u00e5 %d byte."
+        },
+        "a8c7be94131212f13ae752d4d9619ea7": {
+            "text": "Antall filinnganger"
         }
     }
 }
