@@ -25,7 +25,6 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * Jumplinks
 * Link Checker
 * ListerPro
-* Load an RSS feed
 * Map Marker
 * Markup RSS Feed enhanced
 * Page Action: Clear Image Variations [PRO: PageActionClearImageVariations](https://processwire.com/talk/topic/20471-listerpro-page-action-clear-image-variations/)
