@@ -79,6 +79,30 @@
         },
         "284ec04c0a661f721735f0c4c5d3ce89": {
             "text": "Handlingen vil p\u00e5virke f\u00f8lgende mal(er): %s"
+        },
+        "6c7467f18e09ff134343a4915d69dc48": {
+            "text": "(i malen %1$s\u201d for feltene: %2$s)"
+        },
+        "cc4be9e3e79c8dbecb44d1a3ba5a961b": {
+            "text": "Malen \u201c%1$s\u201d har ekstra felt(er) i feltsettet: %2$s"
+        },
+        "940ad6955f2ff1705d53ca071e58a517": {
+            "text": "Du kan legge til dette feltsettet i malen fra Handlinger-fanen her, eller redigere en mal og legge til dette feltsettet derfra."
+        },
+        "03f630b601f9be52b78502c55bce4864": {
+            "text": "N\u00e5r du legger til fra en mal, v\u00e6r oppmerksom p\u00e5 at feltene i feltsettet vises etter at du har klikket for \u00e5 lagre malen."
+        },
+        "fbedfeaadf7009218bcbf9dce3526b87": {
+            "text": "\"Fane\"-alternativet gjelder ikke-nestet bruk i sideditoren."
+        },
+        "b773b2c55b81e8eb1c7a5d355d6d66e3": {
+            "text": "Det \"kantl\u00f8se feltoppsettet\" er et usynlig feltoppsett uten ramme, topptekst, etikett, beskrivelse eller synlighetskonfigurasjon \u2014 bare feltene innenfor vises."
+        },
+        "ecbe28f8ddb2507b0da9c32740dcc54a": {
+            "text": "Dette fjerner feltene fra feltsettet og sletter feltdata til alle maler som bruker det permanent."
+        },
+        "d339f3c63373639151fe2856bfdc910c": {
+            "text": "Dette vil fjerne feltene fra feltsettdefinisjonen, men la dem ligge som de er i hver mal."
         }
     }
 }
