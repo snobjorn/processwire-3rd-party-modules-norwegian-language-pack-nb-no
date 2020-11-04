@@ -76,6 +76,36 @@
         },
         "6f2719e2b19787d3e9990ae8ecd47879": {
             "text": "(forutsatt at $title og $body er felt i matriseelementtypen)"
+        },
+        "791eb6d210a65fa9ea80c3cc8df846eb": {
+            "text": "Bruk `echo $page->render(\"%s\");`"
+        },
+        "737cdc05a80ac3fca9c4769dd02c0e35": {
+            "text": "Valgfri gjengivelsesfil for denne matrisetypen: %s (mottar `$page` som matriseelement)"
+        },
+        "549311b99c13a17d8b4baeecf5d63c2d": {
+            "text": "Etiketten som brukes til \u00e5 identifisere denne typen for personen som redigerer dette feltet."
+        },
+        "d91111dfcaca21980f791621ac5f38e3": {
+            "text": "Velg feltene som vises i denne matrisetypen. Du kan ogs\u00e5 dra og slippe felt til \u00f8nsket rekkef\u00f8lge."
+        },
+        "467c0465569619c64b9cda3fd76664c8": {
+            "text": "N\u00e5r et felt er lagret i matrisen, kan du ogs\u00e5 klikke p\u00e5 etiketten for \u00e5 bruke flere tilpasninger i feltet."
+        },
+        "5259d416a993fba905d84b780d0f8ed3": {
+            "text": "Skriv inn formatet som brukes for vareoverskrifter i sideredigereren. Omr\u00e5desidefelt i {sl\u00f8yfeparentes}."
+        },
+        "5557b077c963af37c2174e353c776a6d": {
+            "text": "Du kan ogs\u00e5 skrive inn {matrix_label} for \u00e5 vise etiketten som er definert ovenfor, og\/eller {matrix_summary} for \u00e5 automatisk oppsummere elementets innhold. Tekst omgitt av [hakeparenteser] vil bli lagt vekt p\u00e5."
+        },
+        "7e797c53765da47d2d128b6345cf1888": {
+            "text": "Velg type du vil importere\u2026"
+        },
+        "9e3a2bd6885b880d42f5844510a7c9d1": {
+            "text": "Velg et annet navn for matrisetypen \u201c%s\u201d da dette navnet allerede brukes av et felt."
+        },
+        "af4a394f7984c297fefffccaf6945801": {
+            "text": "Det finnes flere matrisetyper som bruker navnet \u201c%s\u201d, vennligst korriger dette slik at navnene er unike."
         }
     }
 }
