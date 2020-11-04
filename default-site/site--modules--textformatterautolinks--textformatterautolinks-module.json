@@ -10,6 +10,84 @@
         },
         "b69414e22fe6e1f72e43b9d25a6a7f6a": {
             "text": "Eksempel: p li h3"
+        },
+        "0d1a3b3a182613e27c87faf05585ebf5": {
+            "text": "Kobler automatisk alle de konfigurerte tekstuttrykkene til en nettadresse, n\u00e5r som helst n\u00e5r de vises."
+        },
+        "a10b001a1ed4ce5b5705c2b504a5f2d9": {
+            "text": "Begreper som skal lenkes"
+        },
+        "eb11621f0e236bbc53830d5d3fb876a2": {
+            "text": "Skriv inn en per linje med: \"term=URL\", hvor \"term\" er teksten\/uttrykket du vil koble automatisk til, og \"URL\" er nettadressen\/banen du vil at den skal lenke til. Hvis ProcessWire-installasjonen din kj\u00f8rer fra en underkatalog, m\u00e5 du ikke ta med den i banen, da den automatisk blir forh\u00e5ndsinstallert. Du kan ogs\u00e5 spesifisere en side-ID (nummer) for nettadressen for \u00e5 bestemme den automatisk ved kj\u00f8retid."
+        },
+        "8483e9e1e5b61b78d5a751455d7ea782": {
+            "text": "Hvis du vil utvide begrepet automatisk til \u00e5 omfatte andre ord som begynner med de samme tegnene, legger du til en stjerne * til slutten av perioden."
+        },
+        "d2f731fd5d4996fef06586d29c8de44b": {
+            "text": "Eksempel: **Hallo verden=\/hallo\/verden\/** - Dette vil knytte begrepet \"Hallo verden\" til \/hallo\/verden\/."
+        },
+        "92966af9de4c87216430b19a3f200cfa": {
+            "text": "Eksempel: **verden*=\/hallo\/verden\/** \u2013 Dette vil knytte alle ord som begynner med \"Verden\" (dvs. \"Verden\", \"Verden over hele verden, osv.) Til \/hallo\/verden\/."
+        },
+        "7735f10fabbb893ce600c0f5ebf7c179": {
+            "text": "Begrepsteksten skiller ikke mellom store og sm\u00e5 bokstaver. Hvis foretrukket kan begrepet ogs\u00e5 spesifiseres manuelt via `$config->TextformatterAutolinks = array(\"term\" => \"URL\");` i \/site\/config.php-filen."
+        },
+        "88e411c334c141da43912e57fe788111": {
+            "text": "Setninger \u00e5 utelukke"
+        },
+        "9bae035bc8d73a82953582da91b47fa2": {
+            "text": "Noen ganger vises et begrep i et uttrykk der du ikke vil at det skal lenkes. Skriv inn eventuelle setninger (som inneholder begrepene ovenfor) der lenken skal forhindres."
+        },
+        "6b90c6534eb7858f6409589712e2f665": {
+            "text": "Hvis du for eksempel vil ha begrepet \"kontakt\" knyttet, men ikke n\u00e5r det vises i \"kontakt sport\", vil du angi \"kontakt sport\" her."
+        },
+        "448a31e0a40ecf62fa5333adc7fa26c3": {
+            "text": "Maksimum lenker per begrep"
+        },
+        "c7423038011072e973d388f85f5fca4e": {
+            "text": "Bruk dette alternativet for \u00e5 forhindre at det samme begrepet blir koblet for mange ganger i samme tekstblokk."
+        },
+        "8a0256f0e158f4cbce0f994bf1773a51": {
+            "text": "Maksimum begreper \u00e5 koble til"
+        },
+        "ad250af7b5a1c1ade397d6111b269682": {
+            "text": "Bruk dette alternativet for \u00e5 forhindre at for mange termer kobles i samme tekst."
+        },
+        "00817d6ab157e4322eabbeddbc29d82e": {
+            "text": "La st\u00e5 tomt (eller 0) for \u00e5 slippe \u00e5 ha et maksimum (anbefalt)."
+        },
+        "02884eda7e1667051f110bda048ef9ed": {
+            "text": "Minimum koblingsavstand"
+        },
+        "b4d7e0c1fddb6497196b343c0ffd2e17": {
+            "text": "Bruk dette alternativet for \u00e5 forhindre at det samme begrepet blir koblet til mer enn en gang n\u00e5r det vises i n\u00e6rheten."
+        },
+        "e2d0cbacd3587a74e9e2dc27ce518f1e": {
+            "text": "Angi verdi i antall tegn."
+        },
+        "0980dbff02cc91a71fb509394bcde647": {
+            "text": "Hviteliste for tillatte koder"
+        },
+        "ab1ce5bc082a6e9cf2fa35828632ad65": {
+            "text": "Skriv inn en liste over HTML-koder (uten parentes) som AutoLinks har lov til \u00e5 generere lenker i, hver atskilt med et mellomrom. N\u00e5r det er spesifisert, genereres koblinger bare hvis vilk\u00e5rene vises et sted innenfor en av de gitte HTML-kodene. Hvis det er tomt, vil begrepeene bli lenket i alle HTML-koder."
+        },
+        "031794b2efced56671bce0a734ed938f": {
+            "text": "Markering til lenker"
+        },
+        "5a06a2ebeb5e02a9e90f9a99837f0014": {
+            "text": "Variabler: {href} er nettadressen som skal lenkes, og {text} er ankerteksten."
+        },
+        "3bee19257a95e8b39ed1325bb5d51b0e": {
+            "text": "Lenkemarkering (interne lenker)"
+        },
+        "83ba687b67556fa9120aa85ebb5e7562": {
+            "text": "Koblinger som IKKE begynner med et skjema \/ en protokoll."
+        },
+        "9770b2e255d87798672ef113c2275e6d": {
+            "text": "Lenkemarkering (eksterne lenker)"
+        },
+        "cb4bcef530990eba5bb0f67c498330ad": {
+            "text": "Koblinger som begynner med et skjema \/ en protokoll som http:\/\/."
         }
     }
 }
