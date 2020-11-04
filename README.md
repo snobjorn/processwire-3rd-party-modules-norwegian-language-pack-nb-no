@@ -40,7 +40,7 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * ProCache
 * ProCache Buster
 * ProcessWire API Explorer
-* ProcessWire Upgrade [ProcessWireUpgrade]https://modules.processwire.com/modules/process-wire-upgrade/
+* ProcessWire Upgrade [ProcessWireUpgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
 * ProFields: Multiplier
 * ProFields: Table
 * ProFields: Text Blocks
@@ -48,7 +48,7 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * ProfilerPro
 * ProMailer
 * Range Slider [FieldtypeRangeSlider](https://modules.processwire.com/modules/range-slider/)
-* Repeater Matrix
+* Repeater Matrix [FieldtypeRepeaterMatrix](https://processwire.com/talk/forum/43-repeater-matrix/)
 * Select Fields
 * Swift Mailer
 * Templates Reference (multiple)
