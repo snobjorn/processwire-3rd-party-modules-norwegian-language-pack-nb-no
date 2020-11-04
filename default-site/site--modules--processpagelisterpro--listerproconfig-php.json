@@ -190,6 +190,114 @@
         },
         "2ae845095d1779256e820f5a73cb0785": {
             "text": "Vis kun f\u00f8rste bilde n\u00e5r det er flere?"
+        },
+        "87581c67e12eda20e8dc57966225a203": {
+            "text": "**Sorteringsfelter angitt med en stjerne kan gi betydelig \u00f8kt ytelse**, spesielt med store resultatsett. Vi anbefaler at du velger et av disse feltene som standard."
+        },
+        "2e53cca369f270f5082625e9facc574e": {
+            "text": "Feltnavn refererer til API-navnet, slik det ville v\u00e6rt brukt i utviklingen. Feltetiketter refererer til teksten brukerne ser i administrasjonsgrensesnittet, og st\u00f8tter ogs\u00e5 flerspr\u00e5klig visning."
+        },
+        "e62cacb4df1043de57b373c98fd2839e": {
+            "text": "Brukeren kan ogs\u00e5 bytte til det ene eller det andre ved \u00e5 velge det siste elementet i en hvilken som helst inndatavelger."
+        },
+        "9b65b68549b50cafc25d24af1d52dc67": {
+            "text": "Denne funksjonen muliggj\u00f8r redigering av sider direkte i ListerPro-resultattabellen."
+        },
+        "13d81f77a0799d7f794f687cba8bbf52": {
+            "text": "Vil du tillate innebygd redigering av sider direkte i ListerPro-resultatene?"
+        },
+        "cbd21a6f4f43a16c1ade0de92af63bd3": {
+            "text": "Forh\u00e5ndslast redigering i Lister-resultater?"
+        },
+        "3b079afbdbd82d969307c62a7ac056ce": {
+            "text": "N\u00e5r dette er avhuket, vil markeringen for feltredigering alltid v\u00e6re inkludert (skjult) i Lister-resultattabellen. Dette gir raskere tilgang til redigering, men gir ogs\u00e5 langsommere generering av resultattabeller."
+        },
+        "92191dcf8a2222854b873c86df0cc751": {
+            "text": "N\u00e5r det ikke er merket av (standard), vil ListerPro dynamisk laste inn inndatamuligheten etter behov med ajax. Dette gir raskere generering av resultattabeller, men langsommere tilgang til \u00e5 redigere."
+        },
+        "53cb4116ee94cd7f0834ed7bfcee7b40": {
+            "text": "Hvis denne Lister-en i stor grad brukes til redigering av sider, foretrekker du kanskje \u00e5 ha alternativet forh\u00e5ndslastet. Ellers er den generelle ytelsen til Lister bedre ved at denne ikke er merket av ."
+        },
+        "396f99c92efaff58d71949ece08bf9b5": {
+            "text": "Denne valgfrie foreldreinnstillingen gj\u00f8r at \"Legg til ny\"-knappen vises i Lister. Denne innstillingen forteller Lister hvor nye sider skal g\u00e5."
+        },
+        "a7119b660a7babadd3c3b25579beefdf": {
+            "text": "Kryss av for hver av handlingene du vil at skal tillates med denne Lister-en."
+        },
+        "ba075dec85ad0662e1e11adfd024908c": {
+            "text": "Hvis en handling har den n\u00f8dvendige tillatelsen oppf\u00f8rt, m\u00e5 brukeren ogs\u00e5 ha en rolle med den tillatelsen f\u00f8r handlingen vil v\u00e6re tilgjengelig for brukeren."
+        },
+        "8001a33f01071f05d348558dd2e8329b": {
+            "text": "For \u00e5 legge til flere handlinger, kan du installere flere PageAction-moduler fra modulskjermbildet."
+        },
+        "a4aece2d7b04035306182ffc47787e30": {
+            "text": "Visningsstil til bilde"
+        },
+        "807be94754d28d53e4bb491c67e2db73": {
+            "text": "Visning eller redigering av lenker vises bare p\u00e5 en side n\u00e5r brukeren har tilgang til \u00e5 se eller redigere den."
+        },
+        "6c41649fbf185eff06be2a02e09fe30c": {
+            "text": "Denne Lister-en er for tiden tilgjengelig for f\u00f8lgende roller:"
+        },
+        "d9561e68ab0f80f8a19ba7f3593cb0f9": {
+            "text": "Denne tillatelsen er forel\u00f8pig ikke tildelt noen roller."
+        },
+        "82be8af0ef2614061dabbb577cec5b7e": {
+            "text": "For \u00e5 legge til eller fjerne roller, g\u00e5 til Tilgang > Roller, og merk av eller fjern merket for tillatelsen %s."
+        },
+        "27391693b2291e3dc36a8cd7452ad8fa": {
+            "text": "Som standard er denne Lister-en tilgjengelig for alle roller som har %s-tillatelsen."
+        },
+        "48d75d39376ddffeff4ae8ea94ee92f0": {
+            "text": "Hvis du vil begrense tilgangen ytterligere, oppretter du en ny tillatelse som heter %s."
+        },
+        "31dd874dc26f3bcd5244c7fc3a4767b4": {
+            "text": "Tilordne denne tillatelsen til en eller flere roller under Tilgang > Roller."
+        },
+        "bebafcc1d9fd333a2eea3445f617f77b": {
+            "text": "Avanserte brytere"
+        },
+        "5618ddb186389240576cea9dc8cbb886": {
+            "text": "De fleste av disse bryterne p\u00e5virker utseendet og oppf\u00f8rselen til feltsettene Filtre, Kolonner og Handlinger."
+        },
+        "2de2dc11c8b4cef8bc63a44095fbb400": {
+            "text": "Skjul \"Filtre\"?"
+        },
+        "3edb92d812e2faa4967dca77f63fc546": {
+            "text": "Skjul \"Kolonner\"?"
+        },
+        "fcfac8f2739adde59741cbe295ab33a1": {
+            "text": "Skjul \"Handlinger\"?"
+        },
+        "12105b6e39009d9e78f901bbea14c039": {
+            "text": "Vil du deaktivere det \u00e5 legge til og fjerne filtre?"
+        },
+        "233f9c14ec1cd6e8ac8b8f947f9af976": {
+            "text": "Vil du deaktivere hele kolonnefanen?"
+        },
+        "b87dd5a177f9b6a87bb862b1abc9ee5f": {
+            "text": "Hvilke ekstra filtre og kolonner kan brukerne legge til?"
+        },
+        "20e704cc7c427cf2d5ea53268ccf3270": {
+            "text": "Hvis ingen er valgt, kan brukeren legge til noen av filtrene\/kolonnene som kan velges her. Hvis du konfigurerer denne Lister-en for f\u00f8rste gang, anbefaler vi at du konfigurerer denne igjen senere hvis du vil begrense de valgbare feltene."
+        },
+        "c3c74e5471013d05972aee1176b9e1fd": {
+            "text": "Hvordan skal verdiene i flerverdifeltene\/-kolonnene skilles?"
+        },
+        "4e5c0ec0f707248f7bfc2cc1750ff65f": {
+            "text": "Flerverdifelter\/-kolonner valgt ovenfor (som flersidige referanser) avgrenses av et linjeskift. Hvis du vil skille verdiene for noen av de valgte kolonnene ovenfor med noe annet, angir du en per linje med: felt=skilletegn."
+        },
+        "0311cb9107c542938f7f7d54c51006de": {
+            "text": "Innstillinger for inndatafeltvelger"
+        },
+        "e2f556e49325f03cada9918b40bdfa72": {
+            "text": "Bruk en per linje med n\u00f8kkel=verdi for hver tilpassede innstilling."
+        },
+        "e984393da835387628d91224eef8b5fd": {
+            "text": "Potensielle innstillinger og gjeldende verdier er oppf\u00f8rt nedenfor. Beskrivelser av hver innstilling finner du i [InputfieldSelector](%s)."
+        },
+        "65a17e253916f6301250ac8cdbd0336f": {
+            "text": "Legg til en ny Lister eller administrer eksisterende fra [ListerPro-modulkonfigurasjonsskjermen](%s)."
         }
     }
 }
