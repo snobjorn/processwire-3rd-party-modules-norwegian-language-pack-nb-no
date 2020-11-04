@@ -3,7 +3,7 @@
     "textdomain": "site--modules--textformattervideoembed--textformattervideoembed-module",
     "translations": {
         "186b41321d80bdded69c38a535254341": {
-            "text": "Videoinnebygger av YouTube\/Vimeo"
+            "text": "="
         },
         "760bd7fc66330a2b435b3d6c436b7605": {
             "text": "Skriv inn en hel YouTube- eller Vimeo-URL i et hvilket som helst avsnitt (eksempel: https:\/\/www.youtube.com\/watch?v=Wl4XiYadV_k), og dette vil automatisk konvertere URL-en til en innebygd video. Denne formateringen er ment \u00e5 bli kj\u00f8rt p\u00e5 klarerte inndata. Anbefales for bruk med et TinyMCE tekstomr\u00e5defelt."

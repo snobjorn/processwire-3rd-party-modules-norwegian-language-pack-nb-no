@@ -472,6 +472,30 @@
         },
         "59f07b0e5722a0974d92c3532a19d187": {
             "text": "(%d nettadresser)"
+        },
+        "d13469739d93c7a0b788e8096a8bb78f": {
+            "text": "Banen brukes i stedet for Apache `%{DOCUMENT_ROOT}`-variabelen i .htaccess-filen."
+        },
+        "ac02e19c37f3670105a564d323cba5ce": {
+            "text": "For eksempel vil `basic-page=CHP` henvise til \u00e5 rydde barn (C), hjemside (H) og foreldre (P) for sider ved hjelp av \"basic-page\"-malen."
+        },
+        "040a34a75bf0c73332271e94f8a6cb8f": {
+            "text": "For \u00e5 fjerne side-ID 123 og 456 (for eksempel), spesifiser `template=pages:123,456`."
+        },
+        "0b8196cb503660efee523efa086325b9": {
+            "text": "For \u00e5 fjerne sider som samsvarer med velgeren `a=b, c=d`, spesifiser `template=pages:a=b,c=d`."
+        },
+        "f730551d40c2917b1016cdf4fc4c5ce8": {
+            "text": "For eksempel vil linjen `basic-page=FH pages:parent=\/produkter\/,include=all` t\u00f8mme familie og hjemside, samt alle sider som har foreldre`\/produkter\/`, n\u00e5r en side som har mal `basic-page` er lagret."
+        },
+        "03c9dbec3ea4ca7cf464e57c1548c71d": {
+            "text": "Innstillinger som er angitt her, overstyrer standardinnstillingen ovenfor."
+        },
+        "d1bef6dda940719e55c77adf592e22bd": {
+            "text": "Du kan ogs\u00e5 konfigurere atferd per mal fra maleditoren \"Hurtigbuffer\"-fanen."
+        },
+        "1e855aa0e213cc1014b6e9cdc706ab5f": {
+            "text": "N\u00e5r vil du hoppe over (deaktivere) atferden for t\u00f8mming av hurtigbuffer?"
         }
     }
 }
