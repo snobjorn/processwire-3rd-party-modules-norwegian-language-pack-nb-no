@@ -16,6 +16,48 @@
         },
         "039caf3273a212b542f292d8c2d57e33": {
             "text": "Andre fil(er) i \/site\/templates\/"
+        },
+        "5a82f1711aa18fd8fa86530e830a21e9": {
+            "text": "Dette feltet kan administrere redigerbar tekst som finnes i malfilen til siden som vises, eller det kan administrere den fra en annen fil (eller filer) du velger."
+        },
+        "85e966c57cd584092fa4dddaa37fe34c": {
+            "text": "Velg nedenfor hva du vil at dette feltet skal fokusere p\u00e5:"
+        },
+        "5660afcce455cd32f3520738bfffa032": {
+            "text": "Hvilke fil(er) skal dette feltet se etter tekst i?"
+        },
+        "525b2c6f1788547306a6fe02200edd9e": {
+            "text": "Advarsel: N\u00e5r du bruker andre filer, foresl\u00e5r vi at du bare legger til dette feltet i en (1) mal, og det kan bare redigeres p\u00e5 en (1) side."
+        },
+        "63682c86df741387806d77434da2d805": {
+            "text": "Ellers kan det hende du har flere sider som konkurrerer om \u00e5 administrere den samme teksten."
+        },
+        "3d58285fffaa6558c17f3cac52fa1146": {
+            "text": "For eksempel kan du legge til dette feltet p\u00e5 hjemsiden din, eller til en verkt\u00f8yside for innstillinger som gjelder hele nettstedet."
+        },
+        "85587c2fac83a2ada2c77fe82e7c2f2e": {
+            "text": "Tekst (enkeltlinje) feltinnstillinger"
+        },
+        "41d534244071f567ec8887353f125f86": {
+            "text": "Tekstformat\u00f8rer"
+        },
+        "85ef4a7b9cd08557980c369790ddb181": {
+            "text": "\"HTML Entity Encoder\" anbefales i de fleste tilfeller."
+        },
+        "bef58767904e0d545ced60751856b259": {
+            "text": "Tekstomr\u00e5de (flerlinje) feltinnstillinger"
+        },
+        "9fab7f71c7409141f11974db3714420c": {
+            "text": "Arv innstillinger fra eksisterende felt"
+        },
+        "ffab627eef6b93ea202e6bc0cecb6736": {
+            "text": "Fordi det kan v\u00e6re mange innstillinger knyttet til denne typen, kan du arve dem fra et eksisterende felt."
+        },
+        "94dcdee00309d5eb526b31f813b9732f": {
+            "text": "Hvis ikke noe felt er valgt, vil standardinnstillingene brukes."
+        },
+        "aa3b413923f21b36ef9c73c3eca5d2ea": {
+            "text": "Rik tekst (CKEditor) feltinnstillinger"
         }
     }
 }
