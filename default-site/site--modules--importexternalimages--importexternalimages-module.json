@@ -34,6 +34,21 @@
         },
         "b881c60329675a0d2d056ec2cb4e1268": {
             "text": "URL-felter"
+        },
+        "373f130f57ce009c5f891ac98fd92722": {
+            "text": "For at denne modulen skal fungere, vennligst velg feltene som denne modulen kan utf\u00f8re utskifte for, samt navnet p\u00e5 bildefeltet p\u00e5 den samme siden som du vil legge til bildene i."
+        },
+        "5de449ba1cc90567c643371db4d2ec15": {
+            "text": "<span style=\"font-style:italic;color:red\">Hvis du importerer bilder fra et tredjeparts nettsted, m\u00e5 du s\u00f8rge for at du har tillatelse til \u00e5 lagre og vise disse bildene p\u00e5 nettstedet ditt.<\/span>"
+        },
+        "2c60838493258e7867a35c0c04b645ed": {
+            "text": "Nettadresseskanning vil bare forekomme p\u00e5 de valgte malene. Hvis ingen er valgt, vil skanning skje p\u00e5 alle malene."
+        },
+        "50043a82aeea9fbef41646267e5b3f92": {
+            "text": "Velg et nettadressefelt som skal brukes til \u00e5 hente et eksternt bilde."
+        },
+        "fe47f87091636c803a36fe34abc57bf7": {
+            "text": "Det er ingen nettadressefelter tilgjengelige for henting av bilder."
         }
     }
 }
