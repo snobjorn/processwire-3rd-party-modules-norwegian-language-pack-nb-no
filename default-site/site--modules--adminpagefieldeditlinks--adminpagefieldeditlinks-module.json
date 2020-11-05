@@ -13,6 +13,24 @@
         },
         "4351cfebe4b61d8aa5efa1d020710005": {
             "text": "Vis"
+        },
+        "a766d90c60876ae5567e6820ec407f6e": {
+            "text": "Hvis dette er avhuket, kan sider som er valgt med dette feltet vises og redigeres i et modalt vindu."
+        },
+        "ca34cbe224447500c9f3809a726dccac": {
+            "text": "Aktivere lenke for \u00e5 opprette nye sider?"
+        },
+        "2cd57188e7c034bab947652825a3bf13": {
+            "text": "Dette vil legge til en \"+ Ny\"-lenke til feltet for \u00e5 muliggj\u00f8re oppretting av nye sider i et modalt vindu. Nye sider vil automatisk bli lagt til i feltet."
+        },
+        "51e4ed578b5f1d5cdc9d9f62fec69908": {
+            "text": "Dette er forskjellig fra alternativet \"Tillat at nye sider opprettes fra felt\" ovenfor. I stedet for \u00e5 kreve lagring, vil nye sider opprettes umiddelbart og gj\u00f8res tilgjengelige for redigering i et modalvindu."
+        },
+        "3dfe0d68f2fb9b5d9e000d9ea721bbbd": {
+            "text": "Velg foreldre som skal brukes n\u00e5r du legger til nye sider (hvis du vil begrense til en enslig forelder)."
+        },
+        "ae2752afb5300b394abe1f47776229f1": {
+            "text": "Dette er valgfritt. Hvis \"Foreldre til valgbar(e) side(r)\" er angitt ovenfor, vil feltet bruke den siden som foreldre til nye sider. Hvis bare en mal er spesifisert, vil den nye siden oppf\u00f8re seg som ProcessWires opprinnelige \"Legg til ny\"-knapp og tillate deg \u00e5 velge foreldre n\u00e5r du oppretter en ny side."
         }
     }
 }
