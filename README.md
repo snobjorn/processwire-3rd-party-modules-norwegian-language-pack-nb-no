@@ -19,9 +19,8 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * Fieldset group – [PRO: FieldtypeFieldsetGroup](https://processwire.com/talk/topic/6413-profields-download/)
 * Form Builder
 * Functional fields – [PRO: FieldtypeFunctional](https://processwire.com/talk/topic/6413-profields-download/)
-* Funky Functions
-* Import External Images
-* Import Pages from CSV
+* Funky Functions – [TextFormatterFunkyFunctions](https://github.com/blynx/TextformatterFunkyFunctions)
+* Import External Images – [ImportExternalImages](https://modules.processwire.com/modules/import-external-images/)
 * Jumplinks
 * Link Checker
 * ListerPro – [PRO: ProcessPageListerPro](https://processwire.com/talk/topic/7793-listerpro-latest-version-download/)
@@ -34,7 +33,7 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * Page Action: Send Email
 * Page Action: Set Field Value – [PRO: PageActionSetField](https://processwire.com/talk/topic/7896-listerpro-page-action-set-field-value/)
 * Page Action: Set Page Status – [PRO: PageActionSetStatus](https://processwire.com/talk/topic/7894-listerpro-page-action-set-page-status/)
-* Page Field Edit Links
+* Page Field Edit Links – [AdminPageFieldEditLinks](https://modules.processwire.com/modules/admin-page-field-edit-links/)
 * PDF Fieldtype – [FieldtypePDF](https://modules.processwire.com/modules/fieldtype-pdf/)
 * Persistent Login for users – [LoginPersist](https://modules.processwire.com/modules/login-persist/)
 * ProCache
