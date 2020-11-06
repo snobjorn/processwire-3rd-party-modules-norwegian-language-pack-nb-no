@@ -40,18 +40,18 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * ProCache Buster
 * ProcessWire API Explorer
 * ProcessWire Upgrade – [ProcessWireUpgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
-* ProFields: Multiplier
+* ProFields: Multiplier – [PRO: FieldtypeMultiplier](https://processwire.com/talk/forum/45-multiplier/)
 * ProFields: Table
 * ProFields: Text Blocks
-* ProFields: Textareas
+* ProFields: Textareas – [PRO: TextformatterTextBlocks](https://processwire.com/talk/forum/46-autolinks-text-blocks-textformatters/)
 * ProfilerPro
 * ProMailer
 * Range Slider – [FieldtypeRangeSlider](https://modules.processwire.com/modules/range-slider/)
 * Repeater Matrix – [FieldtypeRepeaterMatrix](https://processwire.com/talk/forum/43-repeater-matrix/)
 * Select Fields
-* Swift Mailer
+* Swift Mailer – [WireMailSwiftMailer](https://modules.processwire.com/modules/wire-mail-swift-mailer/)
 * Templates Reference (multiple)
 * TOTP two-factor authentication – [TfaTotp](https://modules.processwire.com/modules/tfa-totp/)
 * Verified URL
-* Version Control
+* Version Control – [VersionControl](https://modules.processwire.com/modules/version-control/)
 * Video embed for YouTube/Vimeo – [TextFormatterVideoEmbed](https://modules.processwire.com/modules/textformatter-video-embed/)
