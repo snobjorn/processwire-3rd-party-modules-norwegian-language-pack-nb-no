@@ -82,6 +82,96 @@
         },
         "b1c94ca2fbc3e78fc30069c8d0f01680": {
             "text": "Alle"
+        },
+        "a97330dffd1d694a229fbf933a01c021": {
+            "text": "Aktiver versjonskontroll for disse malene"
+        },
+        "b696a9b16e7f378f992d49ba02555df7": {
+            "text": "Denne innstillingen har ingen effekt fordi versjonskontroll for \u00f8yeblikket er aktivert for alle maler via avanserte innstillinger."
+        },
+        "499c7d7575db417553a10bcacce77255": {
+            "text": "Hvis du fjerner en mal herfra, fjernes ogs\u00e5 data som er lagret for den."
+        },
+        "269f6a19a5b90e2852df2e70a0136f0c": {
+            "text": "Aktiver versjonskontroll for disse feltene"
+        },
+        "b43a2280c8b2605c8bf9219914ab5435": {
+            "text": "Bare felter med kompatible felttyper kan velges. Hvis ingen felter er valgt, anses alle felter med kompatible felttyper som aktivert. Hvis du fjerner et felt herfra, fjernes ogs\u00e5 alle data som er lagret for det."
+        },
+        "719f87659763b80e4c73d5854f36ef5b": {
+            "text": "La st\u00e5 tom for \u00e5 deaktivere automatisk tidsbasert opprydding."
+        },
+        "fef36c3c742678daad1e4e4076fe206c": {
+            "text": "Automatisk opprydding krever Lazy Cron-modulen."
+        },
+        "336f9c65317f2f65b1e8fac040528252": {
+            "text": "Hvor lenge skal vi beholde innsamlede data?"
+        },
+        "c5166cdbb9fc07aa73a1bab827e90c7e": {
+            "text": "Revisjoner beholdes for hvert felt + sidekombinasjon"
+        },
+        "edf0566ec3045f830eb0550e5249a24f": {
+            "text": "La det v\u00e6re tomt for ikke \u00e5 innf\u00f8re grenser for lagrede revisjoner."
+        },
+        "ca072f08e58c7a9b702c6d4099d22226": {
+            "text": "Ytterligere oppryddingsmetoder"
+        },
+        "8a0d72383387ad4f274bcffeef251aff": {
+            "text": "Slett alle lagrede data for slettede sider"
+        },
+        "703cff7892d93652c3b055dceb754fcc": {
+            "text": "Slett alle lagrede data for slettede felter"
+        },
+        "d54cd57a1cdc9b12d5fc934aca054019": {
+            "text": "Slett data som er lagret i ikke-eksisterende felter etter at malen er endret"
+        },
+        "a98afe2de1bdfec8158b67b31d5fc00e": {
+            "text": "Slett data som er lagret i felter som er fjernet fra sidens feltgruppe"
+        },
+        "1ad66bae8e85e16d6cf2e09864ddc03a": {
+            "text": "Felttyper som anses kompatible med denne modulen."
+        },
+        "dd940b9edae894d8e3a5eca78a7953d4": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at valg av felttyper som ikke er valgt som standard, kan f\u00f8re til ulike problemer."
+        },
+        "6ecc2774d58329572acaaad363839cf4": {
+            "text": "Aktiver versjonskontroll i alle maler"
+        },
+        "7e0d50273d74f2f0ebd6ba8307b596db": {
+            "text": "Hvis dette alternativet er valgt, vil Version Control spore endringene i alle malene."
+        },
+        "381c6f7a283486bf587a570ce84106af": {
+            "text": "Dette kan f\u00f8re til sv\u00e6rt store mengder innsamlede data, og for\u00e5rsake andre uventede bivirkninger!"
+        },
+        "7990e195793caf681d24e5f4af990015": {
+            "text": "Redigering av disse dataene er for \u00f8yeblikket deaktivert. Gjenopprett den ved \u00e5 lagre siden eller bytte til gjeldende versjon f\u00f8rst."
+        },
+        "545e1ee2896ebcef3b64540041ab3a96": {
+            "text": "Skriv inn kommentartekst til denne revisjonen (maks 255 tegn)"
+        },
+        "987acaaa32b1db07e88f9a19842ec181": {
+            "text": "Dette er siden som den dukket opp p\u00e5 %s. Klikk her for \u00e5 lukke forh\u00e5ndsvisningen."
+        },
+        "9dbc97d60acf88417376db408a0030ed": {
+            "text": "Er du sikker p\u00e5 at du vil tilbakestille denne siden til en tidligere revisjon?"
+        },
+        "912cc439d3b3073997709b48283e2eb2": {
+            "text": "N\u00e5r dette er valgt, vises bare revisjoner som er skrevet av en bestemt bruker."
+        },
+        "95f76904d9652e36b767992ee566ee92": {
+            "text": "Fjernet lagrede data for feltet %s"
+        },
+        "bb85c534be0ee55f5a92386b3a92fb31": {
+            "text": "Befolket data for %d side ved bruk av malen %s"
+        },
+        "1d6f3cc256f9da6d04df92fde113efef": {
+            "text": "Befolket data for %d sider ved bruk av malen %s"
+        },
+        "d7301b4418f8458b6d4d93563df8ef5f": {
+            "text": "Fjernet lagrede data for %d side ved hjelp av malen %s"
+        },
+        "c3e885b12858224da7568f7f734924b1": {
+            "text": "Fjernet lagrede data for %d sider ved hjelp av malen %s"
         }
     }
 }
