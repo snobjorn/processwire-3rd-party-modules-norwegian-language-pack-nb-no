@@ -42,8 +42,8 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * ProcessWire Upgrade – [ProcessWireUpgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
 * ProFields: Multiplier – [PRO: FieldtypeMultiplier](https://processwire.com/talk/forum/45-multiplier/)
 * ProFields: Table
-* ProFields: Text Blocks
-* ProFields: Textareas – [PRO: TextformatterTextBlocks](https://processwire.com/talk/forum/46-autolinks-text-blocks-textformatters/)
+* ProFields: Text Blocks – [PRO: TextformatterTextBlocks](https://processwire.com/talk/forum/46-autolinks-text-blocks-textformatters/)
+* ProFields: Textareas
 * ProfilerPro
 * ProMailer
 * Range Slider – [FieldtypeRangeSlider](https://modules.processwire.com/modules/range-slider/)
