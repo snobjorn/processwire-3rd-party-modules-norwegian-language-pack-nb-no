@@ -28,6 +28,30 @@
         },
         "1f56183f460ff5904ff853b38992f917": {
             "text": "%d dupliserte verdier ble fjernet"
+        },
+        "3f25b86af6e80057e74b377e5060e12b": {
+            "text": "Minimum\/standard antall innganger"
+        },
+        "d3af59820397c1a9dca2b432d4f4a5c4": {
+            "text": "Denne mengden innganger vil alltid v\u00e6re synlig."
+        },
+        "349376eb6a02ed077bb2fbe13db7065d": {
+            "text": "Maksimalt antall innganger"
+        },
+        "15fc2f3a37f6abbeefd345d79766ce36": {
+            "text": "Disse er forh\u00e5ndsutlevert, s\u00e5 ikke spesifiser mer enn du trenger."
+        },
+        "1da64b9c9a970ee8ec12c3cac3dc9a4b": {
+            "text": "Dette alternativet gj\u00f8r at elementer i multiplikatoren din kan sorteres."
+        },
+        "a299f3fe0bdfab659d8b94adc788f1e4": {
+            "text": "*Merk at ikke alle inndatatyper kan sorteres etter dra og slipp. Rik tekst-redigering som for eksempel CKEditor, fungerer ikke med dra og slipp. I slike tilfeller bruker du alternativet \"Sorter etter antall inndata\"."
+        },
+        "8f7803272b55b328165eb13e1e18dbf0": {
+            "text": "N\u00e5r dette er avhuket, kan elementer slettes ved \u00e5 klikke p\u00e5 s\u00f8ppelikonet."
+        },
+        "5fc755aa16d8a848152b96c94ff68533": {
+            "text": "Multipliserer enkeltinnganger med en fast mengde."
         }
     }
 }
