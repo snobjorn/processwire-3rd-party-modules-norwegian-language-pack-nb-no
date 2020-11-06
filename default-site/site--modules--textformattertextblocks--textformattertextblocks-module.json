@@ -4,6 +4,45 @@
     "translations": {
         "8e205067d554e732195f2249a48e1df2": {
             "text": "="
+        },
+        "dd312c31fafbc7f83ee754ebb236ddce": {
+            "text": "Blokken \"%1$s\" eksisterer allerede p\u00e5 en annen side, s\u00e5 den ble konvertert til en flerverdiblokk \"%2$s\"."
+        },
+        "1c207040ef7ba630c42ec8a403cc77c7": {
+            "text": "Blokkprefikser"
+        },
+        "34e6972a8c003bdb6a8c31b77f58088d": {
+            "text": "Definerer ordene som starter, stopper, viser blokker."
+        },
+        "8dca42c3482304f5d0dbe447c1a7746a": {
+            "text": "N\u00e5r du bruker det i et tekstomr\u00e5de, legger du til \u201c_\u201d og et blokknavn til prefikset, for eksempel \u201cstart_adresse\u201d."
+        },
+        "ada0a943f767013912ff301302fa09d3": {
+            "text": "Bruk bare alfanumeriske tegn som blokkord."
+        },
+        "be28b606a17440f534149a25f7dbc174": {
+            "text": "Unng\u00e5 endringer i disse etter at du allerede har begynt \u00e5 bruke tekstblokker."
+        },
+        "02952ecf9949d1bd2829d2d3eba90bf3": {
+            "text": "Startord til blokk"
+        },
+        "b6debb1aee5debe3f4ffd0df01594499": {
+            "text": "Ord som identifiserer begynnelsen p\u00e5 en blokk."
+        },
+        "becaaab4919b75ed62c217e82fe6e3d8": {
+            "text": "Stoppord til blokk"
+        },
+        "553c9c1b0d6acb56755abec67a7d20a0": {
+            "text": "Ord som definerer slutten p\u00e5 en blokk"
+        },
+        "0aa66fbb1bfcdc2dc6822f511ad9febd": {
+            "text": "Visord til blokk"
+        },
+        "e1e88f8df8df6b59f6389c8f8a733bd6": {
+            "text": "Ord som brukes til \u00e5 vise en definert blokk"
+        },
+        "e91fb3e038daccde07f726163dc677da": {
+            "text": "Definer blokker i tekstomr\u00e5defelter og hent dem inn i andre tekstomr\u00e5defelter eller med en API-handling."
         }
     }
 }
