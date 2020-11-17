@@ -13,6 +13,7 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * Admin Restrict Branch – [AdminRestrictBranch](https://modules.processwire.com/modules/admin-restrict-branch/)
 * Autolinks – [PRO: TextformatterAutoLinks](https://processwire.com/talk/topic/6214-autolinks/)
 * Color – [FieldtypeColor](https://modules.processwire.com/modules/fieldtype-color/)
+* ConnectPageFields – [ConnectPageFields](https://processwire.com/modules/connect-page-fields/)
 * Custom Upload Names– [ProcessCustomUploadNames](https://modules.processwire.com/modules/process-custom-upload-names/)
 * Dynamic Roles – [DynamicRoles](https://github.com/ryancramerdesign/DynamicRoles)
 * Email/SMS Two-Factor Authentication – [TfaEmail](https://modules.processwire.com/modules/tfa-email/)

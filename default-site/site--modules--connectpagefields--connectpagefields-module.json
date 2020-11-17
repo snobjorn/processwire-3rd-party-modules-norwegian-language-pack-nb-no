@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/ConnectPageFields\/ConnectPageFields.module",
+    "textdomain": "site--modules--connectpagefields--connectpagefields-module",
+    "translations": {
+        "c7dcc33843411302982084457e960646": {
+            "text": "Legg til en rad"
+        },
+        "3b4a39fce5a79b5289811659e9d231a9": {
+            "text": "Koble feltpar"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "+"
+        },
+        "bf081a2ea07c379ae21e5af75978634f": {
+            "text": "Sidefelt"
+        }
+    }
+}
