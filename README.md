@@ -38,7 +38,6 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * PDF Fieldtype – [FieldtypePDF](https://modules.processwire.com/modules/fieldtype-pdf/)
 * Persistent Login for users – [LoginPersist](https://modules.processwire.com/modules/login-persist/)
 * ProCache
-* ProCache Buster
 * ProcessWire API Explorer
 * ProcessWire Upgrade – [ProcessWireUpgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
 * ProFields: Multiplier – [PRO: FieldtypeMultiplier](https://processwire.com/talk/forum/45-multiplier/)
