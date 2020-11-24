@@ -496,6 +496,63 @@
         },
         "1e855aa0e213cc1014b6e9cdc706ab5f": {
             "text": "N\u00e5r vil du hoppe over (deaktivere) atferden for t\u00f8mming av hurtigbuffer?"
+        },
+        "dc5d4dd7f1304f75d0b12b327d7abba0": {
+            "text": "N\u00e5r lagret side bruker mal som ikke er konfigurert til \u00e5 bli bufret i ProCache"
+        },
+        "460d95032385fe1e35d892ecdbcf5a92": {
+            "text": "N\u00e5r en lagret side bruker en systemmal (admin, user, role, permission, osv.)"
+        },
+        "a742f97c96b9cc11b3487e85cd0291c2": {
+            "text": "N\u00e5r siden er lagret fra API p\u00e5 nettstedet (i stedet for interaktivt i administratoren)"
+        },
+        "9662c4ca70bfb5af50acb5669831c75f": {
+            "text": "Skriv inn en liste over GET-variabelnavn (1 per linje) som vil omg\u00e5 hurtigbufferen. Du kan ogs\u00e5 la v\u00e6re tom for \u00e5 ignorere alle GET-variabler, eller angi en stjerne \"*\" for \u00e5 omg\u00e5 hurtigbufferen for alle GET-variabler."
+        },
+        "207056a6ce02d7fe53c8a2b9ab820e4b": {
+            "text": "Det anbefales \u00e5 starte \u00e5 angi en stjerne \"*\". Hvis du spesifiserer dine egne GET-variabler og bruker ProcessWire-kommentarmodulen, b\u00f8r du skrive inn \"comment_success\" som en av dem nedenfor."
+        },
+        "9aa393cf05fcf931c83dffff2f11f873": {
+            "text": "Skriv inn en liste over informasjonskapselnavn (1 per linje) som vil omg\u00e5 hurtigbufferen. N\u00e5r brukeren har noen av disse informasjonskapslene tilstede, blir hurtigbufferen deaktivert for dem."
+        },
+        "987b2cad7d2fe15f22253c7ee9c8c65c": {
+            "text": "Vi anbefaler at du i det minste har ProcessWire-\u00f8ktinformasjonskapsel(er):"
+        },
+        "5bf2fa488880657425f4a775d4d96e7a": {
+            "text": "Innstillingen \u201c%s\u201d mangler \u00f8ktinformasjonskapsel(er):"
+        },
+        "1ed4090858fcd650c91807ea7889480c": {
+            "text": "Sl\u00e5 sammen og minifiser lokale CSS %1$s-filer i dokument %2$s"
+        },
+        "c1621bb2b482fb9481f1f81a34268e94": {
+            "text": "(fungerer ogs\u00e5 med SCSS- eller LESS-filer)"
+        },
+        "32320908bcaf2f4f47a27d248c3cb468": {
+            "text": "Sl\u00e5 sammen og minifiser lokale Javascript %1$s filer i dokument %2$s"
+        },
+        "16ecebca0cf249cb4479c06a78ab73d8": {
+            "text": "Dette alternativet gir en god balanse for ytelse siden det er en liten *overhead* med HTML-minifisering. N\u00e5r den brukes, overstyrer den alternativene \"Minifiser HTML for gjester\" og \"Minifiser HTML for p\u00e5loggede brukere\"."
+        },
+        "77e720715f03fe45de9c362b59d329dd": {
+            "text": "CSS- og JS-minifieringsalternativer gjelder uavhengig av Minifiser HTML-alternativer."
+        },
+        "29f9a6c9d38312ad8a103f2c3e26f97c": {
+            "text": "Hvis det er en CSS\/JS-fil du vil at sl\u00e5 sammen- \/ minifiseringsalternativene skal ignorere, legg til \"?NoMinify\" til slutten av filnavnet i HTML-en."
+        },
+        "b9fe52bd5471d43b059f6d6eb87a8d61": {
+            "text": "Hvis du foretrekker \u00e5 bruke CSS\/JS sl\u00e5 sammen- \/ minifiseringsalternativer fra API i stedet (for mer kontroll), se API-bruk av sl\u00e5 sammen og minifisere nedenfor."
+        },
+        "395a8d201cce41eb62b8bdbd67025b40": {
+            "text": "Ikke bruk denne innstillingen hvis JS\/CSS-filene endres fra side til side."
+        },
+        "3e3d267e7685f1845d16a5f1b33a4096": {
+            "text": "N\u00e5r dette er merket av, vises det en rute lenger nede p\u00e5 denne siden der du kan velge malene. Hvis det ikke er merket av, gjelder alle innstillinger ovenfor alle maler som sender inn innholdstypen \"text\/html\" (som er det vi anbefaler)."
+        },
+        "5d34f265b6f13f767f2f27aa18f5f6d3": {
+            "text": "Hvordan bruke minifisering fra API for JS-, CSS-, SCSS- eller LESS-filer"
+        },
+        "cc4bcaf502b12124f1a29e3e48471089": {
+            "text": "Filer kan sl\u00e5s sammen og minifiseres fra API, noe som gir deg mer kontroll sammenlignet med automatisk gjenkjenning av %s- eller %s-koder."
         }
     }
 }
