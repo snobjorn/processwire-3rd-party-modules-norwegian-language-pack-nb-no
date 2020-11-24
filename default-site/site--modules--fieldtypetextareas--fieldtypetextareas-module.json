@@ -43,6 +43,51 @@
         },
         "c184a615035da08a246bec921bd72aad": {
             "text": "="
+        },
+        "bc9c7ee6f877f72680da225e568b06d2": {
+            "text": "Felttypen som skal brukes til \u00e5 samle inndata. Valget kan ogs\u00e5 bestemme verdien(e) som feltet produserer."
+        },
+        "05814c038fe0e158d716a74a363092df": {
+            "text": "Etter \u00e5 ha endret dette, b\u00f8r du lagre umiddelbart ettersom alle andre konfigurasjonsalternativer under dette (s\u00e5 vel som i kategorien Inndata) kan endres."
+        },
+        "0191b1c83e42ef25662d047e49060bf0": {
+            "text": "Definer ett tekstomr\u00e5de per linje i formatet: \"navn\" eller \"navn=etikett\", \"navn=etikett=beskrivelse\", \"navn=etikett=beskrivelse=notater\". \"Navnet\" f\u00f8lger de samme reglene som ethvert annet ProcessWire-feltnavn (som bare betyr alfanumeriske tegn og understrekninger). \"Etiketten\" kan v\u00e6re hvilken som helst tekst. \"Beskrivelsen\" (og \/ eller \"merknader\") er valgfri og representerer vanligvis en lengre versjon av etiketten, n\u00e5r den er nyttig."
+        },
+        "da9f8fe71f19f72114b8b8c8078ddbc4": {
+            "text": "Legg til en stjerne \"`*`\" i feltet \"navn\" for \u00e5 gj\u00f8re det n\u00f8dvendig."
+        },
+        "a3a06be482c0e18aa1604e637cbe4c6b": {
+            "text": "Legg til \"=50%\" til et av de nevnte formatene for \u00e5 spesifisere en bredde for feltet. 50% kan v\u00e6re en hvilken som helst verdi mellom 10% og 100%."
+        },
+        "27dc3330fb756110089078391f126a5a": {
+            "text": "Legg til \"=if (selector)\" for \u00e5 gj\u00f8re dette feltet aktuelt bare hvis siden som redigeres samsvarer med den gitte velgerstrengen."
+        },
+        "7a14fb954d47bd88da45ccb728eb5a59": {
+            "text": "Legg til \"=showIf (selector)\" eller \"=requiredIf (selector)\" for \u00e5 bruke kj\u00f8retid-\"show\" eller -\"required\" feltavhengigheter."
+        },
+        "6f1e6c315ccf29bf008127f020d4cb98": {
+            "text": "**Flerspr\u00e5klig merknad:** N\u00e5r den brukes, m\u00e5 feltdelen \"navn\" stemme overens p\u00e5 hvert spr\u00e5k. Etiketten og\/eller beskrivelsen kan og b\u00f8r selvf\u00f8lgelig v\u00e6re unik for hvert spr\u00e5k."
+        },
+        "9728b6d6d4982e6f96f5190d27174a95": {
+            "text": "Aktiver \/ deaktiver felt (valgfritt)"
+        },
+        "ff4e49d37b59a0c402e6015d0b94e1d5": {
+            "text": "For \u00e5 bruke feltdefinisjoner ovenfor bare hvis den redigerte siden samsvarer med visse betingelser, angir du \"field: betingelser\" nedenfor, der \"betingelser\" er en *selector*-streng."
+        },
+        "659bdc75ea9693cc9a3e508a7765b3d8": {
+            "text": "For eksempel vil f\u00f8lgende bruke et \"adresse\"-felt bare hvis malen var \"arrangement\" eller \"sted\":"
+        },
+        "85fc533a12db81a677ebf9cc78597f13": {
+            "text": "Se ogs\u00e5 flere konfigurasjonsinnstillinger for denne typen i kategorien Inngang."
+        },
+        "2680f21192868126b7b0514500a0ccb9": {
+            "text": "Flere tekst-\/tekstfeltfelter kombinert i ett felt."
+        },
+        "4f0ad65d5ccf06560651bb0688c84335": {
+            "text": "Tillatte inngangsbasetyper for tekstomr\u00e5der"
+        },
+        "f791deb835dc37365bd8c0f63bfc16df": {
+            "text": "Typer som utvider en annen blir automatisk lagt til uavhengig av ditt valg her (dvs. \u00e5 velge *Text* vil ogs\u00e5 gj\u00f8re *Textarea* og *CKEditor* til alternativer osv.)"
         }
     }
 }
