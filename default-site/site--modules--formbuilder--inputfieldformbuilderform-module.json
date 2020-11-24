@@ -1,5 +1,33 @@
 {
     "file": "site\/modules\/FormBuilder\/InputfieldFormBuilderForm.module",
     "textdomain": "site--modules--formbuilder--inputfieldformbuilderform-module",
-    "translations": []
+    "translations": {
+        "c692d12cb09166de29a48d849aa71c4a": {
+            "text": "Skjema for \u00e5 legge til som felt"
+        },
+        "226ce5e95bf4674ef483e16b478a7d3e": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at alle feltene i det valgte skjemaet vil ha navnene foran dette navnet."
+        },
+        "f3191208476e6dcf5334d1de38f0a82e": {
+            "text": "Som et resultat kan du legge til s\u00e5 mange eksemplarer av samme skjema som du trenger."
+        },
+        "c6568e77f61109390e82d035aaacaef0": {
+            "text": "Overskrift"
+        },
+        "1ca83672206c28e209344caf672a09eb": {
+            "text": "Etikettype"
+        },
+        "81417763e49898e0f9650c28a5b4b347": {
+            "text": "Ikke vis etikett"
+        },
+        "b5bdf31bdec5ac45c29323b758e90375": {
+            "text": "Normal etikett"
+        },
+        "9ae278da993b8c4e2a113a63a105cb23": {
+            "text": "Ikke vis feltets etikket over skjemaet"
+        },
+        "c4dfddc347167df7708758129fea7a22": {
+            "text": "Vis som feltsett"
+        }
+    }
 }

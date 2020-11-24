@@ -4,6 +4,21 @@
     "translations": {
         "49eb6a44db57cba8d66b3404fa9f0ad4": {
             "text": "="
+        },
+        "9973be067dff3a16bafe7852962d6ef6": {
+            "text": "S\u00f8king innenfor bestemte skjemaoppf\u00f8ringsfelt krever MySQL 5.7 eller nyere"
+        },
+        "7ae6be04a59a7fdd7ea6712fcfd73291": {
+            "text": "="
+        },
+        "10c90d1cb88a00bc365a9d44b7652b6e": {
+            "text": "Dato opprettet"
+        },
+        "446bd522af1fd30f24b4d1dceb38ba99": {
+            "text": "Dato modifisert"
+        },
+        "5aafb407ca5561e9da3e7748b64839c8": {
+            "text": "Flagg"
         }
     }
 }

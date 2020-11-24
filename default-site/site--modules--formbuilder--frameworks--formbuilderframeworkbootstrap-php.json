@@ -64,6 +64,24 @@
         },
         "5b176800a4fa5f818733bbc47bf50c58": {
             "text": "Inndatast\u00f8rrelse"
+        },
+        "1b8d8ccb60f3200527e41aced0b73f6b": {
+            "text": "Spesifiser en nettadresse\/bane i forhold til roten til ProcessWire-installasjonen."
+        },
+        "cb13fc9385a05438eec0d718221c32fa": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at individuelle feltkolonnebredder (hvis brukt) ikke gjelder n\u00e5r du bruker den horisontale stilen."
+        },
+        "718e26f5c22784395090b31740b1d485": {
+            "text": "Horisontal etikettkolonne (1)"
+        },
+        "21f72c13246074db7937405a96c6c398": {
+            "text": "Spesifiser Bootstrap-rammeverkklasser som skal brukes p\u00e5 etikettkolonnen."
+        },
+        "0bfd15697c7214001a20d2293cb82b5b": {
+            "text": "Horisontal inndatakolonne (2)"
+        },
+        "4dbedfce96cbeceda05038ef0510167d": {
+            "text": "Spesifiser Bootstrap-rammeverkklasser som skal brukes p\u00e5 inndatakolonnen."
         }
     }
 }

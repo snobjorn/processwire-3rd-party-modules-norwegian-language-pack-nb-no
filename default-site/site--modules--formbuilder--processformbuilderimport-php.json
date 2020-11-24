@@ -37,6 +37,27 @@
         },
         "41c7ed7b166c4769dec7a4db8b9496db": {
             "text": "Importeringsresultater"
+        },
+        "1354b8d135e13cd78e5c233baf78942b": {
+            "text": "Ugyldig import av JSON-data"
+        },
+        "bab4e3028c9379f6c7eaf567ee8bc7fc": {
+            "text": "Oppdaterte sortering av felter"
+        },
+        "74cdeee82c6be8c11b9537a079784df1": {
+            "text": "Velg feltene du vil importere"
+        },
+        "2fc506765a533bd668d4afa9bf6a8978": {
+            "text": "Nedenfor er en liste over felter som finnes i importdataene som ikke er identiske med de som allerede er i skjemaet."
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Eiendom"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Felter"
+        },
+        "a240fa27925a635b08dc28c9e4f9216d": {
+            "text": "Rekkef\u00f8lge"
         }
     }
 }
