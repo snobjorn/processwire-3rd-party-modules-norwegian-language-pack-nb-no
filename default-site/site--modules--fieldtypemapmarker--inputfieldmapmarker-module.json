@@ -40,6 +40,30 @@
         },
         "30c4513b55190a2875d6180b79798d20": {
             "text": "Standard st\u00f8rrelse"
+        },
+        "b333c623973eb4e9a60f40b2837a756e": {
+            "text": "Geokode?"
+        },
+        "c8677ddf77587fd180ab240e3b620ee6": {
+            "text": "Sett opp en Google Maps API-n\u00f8kkel i innstillingene for FieldtypeMapMarker-modulen"
+        },
+        "80b830cf2f8e4d13500b0516083f29d8": {
+            "text": "Dette vil bli geokodet for \u00e5 bli startpunktet for kartet."
+        },
+        "df302916b5705665e09390b09baf54e2": {
+            "text": "N\u00e5r du endrer standardadressen, m\u00e5 du gj\u00f8re feltene *Breddegrad* og *Lengdegrad* nedenfor tomme, som vil tvinge systemet til \u00e5 geokode den nye adressen din."
+        },
+        "88e471a8f43ac47ccbd14da0f8378a91": {
+            "text": "Geokodet standardadressen din. Trykk p\u00e5 lagre igjen for \u00e5 beg\u00e5 den nye standardbreddegrad og lengdegrad."
+        },
+        "c67053bb43cb1d18d7d2076e5bd79268": {
+            "text": "Angi en verdi mellom 1\u201323. Det h\u00f8yeste zoomniv\u00e5et er vanligvis et sted mellom 19\u201323, avhengig av plasseringen som blir zoomet og hvor mye data Google har for stedet."
+        },
+        "87f83506dee160df49b8d3ca189246af": {
+            "text": "API-notater"
+        },
+        "4000a84d8cfcaa12226370c3ede2941b": {
+            "text": "Du kan f\u00e5 tilgang til individuelle verdier fra dette feltet ved \u00e5 bruke f\u00f8lgende fra malfilene:"
         }
     }
 }
