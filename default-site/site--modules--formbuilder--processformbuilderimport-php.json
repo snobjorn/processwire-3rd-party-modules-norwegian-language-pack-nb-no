@@ -58,6 +58,27 @@
         },
         "a240fa27925a635b08dc28c9e4f9216d": {
             "text": "Rekkef\u00f8lge"
+        },
+        "96ee02226b324f6634895862b79392c6": {
+            "text": "Verdier som er angitt <del>i r\u00f8dt<\/del> er den gamle verdien, mens verdiene som er angitt <ins>i gr\u00f8nt<\/ins> er den nye verdien."
+        },
+        "24b5236bce18c683305ea4415cb4f57d": {
+            "text": "Merk at bare endrede verdier vises."
+        },
+        "a02b9f69c538b3ed3164e3789784212c": {
+            "text": "Velg skjemaegenskapene du vil importere"
+        },
+        "cbd1529cff132e06678195f551346231": {
+            "text": "Nedenfor er en liste over egenskaper som finnes i importdataene som ikke er identiske med de som allerede er i skjemaet."
+        },
+        "dfe7368456cda8933c6d31a3c4f91447": {
+            "text": "Importdataene samsvarer med gjeldende skjema (ingen feltforskjeller funnet)."
+        },
+        "82f65c5c1ce84149daf6a5705f2c53f4": {
+            "text": "Fjerning av felt?"
+        },
+        "2d9a4e15103722d164f0500843340f63": {
+            "text": "F\u00f8lgende felt er tilstede p\u00e5 det gjeldende skjemaet, men ikke i importdataene. Hvis disse feltene skulle slettes, m\u00e5 du slette dem manuelt:"
         }
     }
 }
