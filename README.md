@@ -52,6 +52,6 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * Swift Mailer – [WireMailSwiftMailer](https://modules.processwire.com/modules/wire-mail-swift-mailer/)
 * Templates Reference (multiple)
 * TOTP two-factor authentication – [TfaTotp](https://modules.processwire.com/modules/tfa-totp/)
-* Verified URL
+* Verified URL – [PRO: FieldtypeVerifiedURL](https://processwire.com/talk/topic/6413-profields-download/)
 * Version Control – [VersionControl](https://modules.processwire.com/modules/version-control/)
 * Video embed for YouTube/Vimeo – [TextFormatterVideoEmbed](https://modules.processwire.com/modules/textformatter-video-embed/)

@@ -79,6 +79,108 @@
         },
         "e11966b9f8d21c35ef30d098e33f49c5": {
             "text": "Felt som lagrer en nettadresse og bekrefter den"
+        },
+        "40b36c9fb5c1bb041f3caddc3194e7af": {
+            "text": "Maks tillatte sekunder for \u00e5 bekrefte nettadresser i \u00e9n foresp\u00f8rsel"
+        },
+        "ab52e4d9c36aa2ad6b217100aab40791": {
+            "text": "Hindrer bekreftelse fra \u00e5 ta for mange ressurser i en enkelt foresp\u00f8rsel."
+        },
+        "bdb05b58622b8a780b4fe253d81dae67": {
+            "text": "Lavere tall fordeler bekreftelse p\u00e5 flere foresp\u00f8rsler."
+        },
+        "21ed8085086e55809234fe7292ade222": {
+            "text": "N\u00e5r dette er avkrysset, blir nettadressebekreftelsesaktivitet logget til: %s"
+        },
+        "9b76566e5759abca242aa9c14cd584d5": {
+            "text": "Trekke innholdet i tittelkoder p\u00e5 bekreftede nettadresser?"
+        },
+        "778901a73516b938bbd5b43052d4cae1": {
+            "text": "N\u00e5r dette er avkrysset, vil nettadressens <title>-kodetekst v\u00e6re tilgjengelig via `$page->%s->title`"
+        },
+        "61e1f480b018421f65314ce6f3a29ed0": {
+            "text": "Trekke innholdet i hele HTML-dokumentet p\u00e5 nettadresse?"
+        },
+        "448ce333e2aedbb398d8d8cb300635ed": {
+            "text": "Angi antall byte som skal trekkes fra begynnelsen av HTML-dokumentet. Denne HTML-en vil v\u00e6re tilgjengelig via streng `$page->%s->html`"
+        },
+        "c927a799be8d7e6d852900e746b1fb9f": {
+            "text": "Trekke spesifikke svaroverskrifter?"
+        },
+        "e399852ed59d787f5e823cddc2e805b8": {
+            "text": "Skriv inn navnene p\u00e5 en eller flere svaroverskrifter du vil trekke og lagre, og skille hver med et mellomrom. Eller angi bare en stjerne \u201c*\u201d for \u00e5 f\u00e5 ALLE overskrifter."
+        },
+        "748ea5b4917b99cc1d3c34e092eef94d": {
+            "text": "Svaroverskrifter vil v\u00e6re tilgjengelige via matrise `$page->%s->headers`"
+        },
+        "37f5f5fabd43651aff99966ca60c9073": {
+            "text": "Match *regular expression* i markeringen av nettstedet"
+        },
+        "eda1fa580beaf1082aefeb93094fae2c": {
+            "text": "Skriv inn et fullstendig PCRE-*regular expression* for \u00e5 matche i omr\u00e5demarkeringen. Eksempel: `\/(Dette|Det|Annet)\/i`"
+        },
+        "e80955d7d9f966deeb8698bff77f93dd": {
+            "text": "Resultatet vil v\u00e6re tilgjengelig via matrise `$page->%s->matches`"
+        },
+        "a529bcb721c0ea2c54f9ef28e2902e10": {
+            "text": "Husket du nettadressene til viderekoblingene \u201c301 permanent\u201d og \u201c302 midlertidig\u201d?"
+        },
+        "81a1e3311f03bb3d3da11550a9dd4a49": {
+            "text": "N\u00e5r dette er merket, blir viderekoblingsnettadressen lagret i `$page->%s->redirect`"
+        },
+        "cee6cbeb4714c3b2e4d1d715182dd9fd": {
+            "text": "Dette alternativet gj\u00f8r det ogs\u00e5 mulig for dette feltet \u00e5 varsle redakt\u00f8rer n\u00e5r angitt URL-viderekobling til en annen."
+        },
+        "4ae7ef87f4a2bf7b5c32e53c58a493f3": {
+            "text": "Oppdater nettadresse automatisk n\u00e5r \u201c301 permanent\u201d-omdirigering l\u00f8ser til samme vertsnavn?"
+        },
+        "ee02e7a084d8ab0196bf0fb3d7da2648": {
+            "text": "Dette lar deg automatisk oppdatere nettadresser som sannsynligvis ikke trenger manuell gjennomgang."
+        },
+        "57fc8b47dc9c21f91dbdc3fd1692a7cf": {
+            "text": "Nyttig for \u00e5 holde deg oppdatert med endringer som http til https, etterf\u00f8lgende skr\u00e5strek, endrede nettadresser osv."
+        },
+        "b063bcd709afae94b7255628e890cced": {
+            "text": "Viderekoblinger som resulterer i vertsnavnendringer er ekskludert for sikkerhets skyld."
+        },
+        "76cfa9cd6d6d9c2c2439b3ebd4688e10": {
+            "text": "Formatert verditype"
+        },
+        "3b4720fcad7ffd3855d7c1d816e1e4df": {
+            "text": "Objektforekomst med \"url\", \"status\", \"title\", \"redirect\", \"html\", \"headers\" og \"matches\" egenskaper. Strengverdi er alltid \u201curl\u201d."
+        },
+        "cf699aa7d43ad4ad287742d781399499": {
+            "text": "Vanlig streng som bare inneholder nettadressen"
+        },
+        "ca30767b03fd787bb3d94ff94ff8f4dd": {
+            "text": "Uansett hvilket alternativ du velger, vil tilgang til verdien som en streng alltid l\u00f8ses til nettadressen."
+        },
+        "d1aff68d06b2b7c0af1dab5801422d0b": {
+            "text": "N\u00e5r skal jeg gj\u00f8re formatert nettadresseverdi tom?"
+        },
+        "82533e60e0c3d269a8ae22b324ac4764": {
+            "text": "Dette alternativet kan v\u00e6re nyttig hvis du vil forhindre utdata fra ikke-bekreftede nettadresser p\u00e5 frontenden."
+        },
+        "e0c72e825e62b8f03fd3d8969d43cc45": {
+            "text": "N\u00e5r nettadresse produserte http-feil under bekreftelse"
+        },
+        "3861c917dc6ed91cd0a5d0e89ed28f5b": {
+            "text": "N\u00e5r status enn\u00e5 ikke er fastsl\u00e5tt ELLER http-feil"
+        },
+        "2e0740eeb28bdf5e8fe05854869919be": {
+            "text": "Test URL-bekreftelsen"
+        },
+        "44d734c06815ad70cda5f00dcd824c9d": {
+            "text": "Skriv inn en nettadresse for \u00e5 teste om du vil forsikre deg om at denne modulen fungerer."
+        },
+        "e5922986c3d073db39e67a41fa3b1815": {
+            "text": "Tilbakestille alle bekreftede nettadressedata for dette feltet?"
+        },
+        "a52a5916edcfcdd03c3f7a74d11dde1f": {
+            "text": "Merk av i denne boksen for \u00e5 tilbakestille alle nettadresseverifiseringsdata for dette feltet, og tvinge den til \u00e5 bekrefte alt p\u00e5 nytt."
+        },
+        "a5f864e50a174a6b20308bf0039183d7": {
+            "text": "Bekreftede nettadressedata er tilbakestilt"
         }
     }
 }
