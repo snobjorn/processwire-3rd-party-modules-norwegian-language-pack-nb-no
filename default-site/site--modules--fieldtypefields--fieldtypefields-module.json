@@ -25,6 +25,39 @@
         },
         "30b5d476b4d16b9a1419852067d75d6f": {
             "text": "Fjern feltsettfelter"
+        },
+        "e07dd719866ebe1bc81d54876b6ec182": {
+            "text": "Hvilket inndatafelt skal du bruke?"
+        },
+        "ed6388e4e64f4d1b3e7338eeb7e332f0": {
+            "text": "Returnerer en feltmatrise n\u00e5r utdataformateringer er sann n\u00e5r det er falskt en vanlig PHP-matrise som inneholder felt-ID-ene."
+        },
+        "0a2f3d14ce271e83cb0e261203040c8f": {
+            "text": "Typer angitt med en stjerne er for valg av flere felt."
+        },
+        "9754ed371c163de284ac463ec15ae33e": {
+            "text": "Reduser antall valgbare felt."
+        },
+        "cda1f40a07ef3a19180177338fb5a475": {
+            "text": "Returner bare felter for valgte mal."
+        },
+        "5447928f98f7f39d55c01a0697515a79": {
+            "text": "Returner bare felter for valgte felttyper."
+        },
+        "e068278babd01bc9b14b3b3cb4a7f6c5": {
+            "text": "Reduser p\u00e5 tekst."
+        },
+        "d28dff166ef48938c5165fa95a685012": {
+            "text": "Tillat bare feltnavn som inneholder tekst."
+        },
+        "20f5ecaeb602e8d5fe89428796ef46e5": {
+            "text": "Hvert tekstfilter p\u00e5 sin egen linje."
+        },
+        "84820d471bc7168e52a5d57840fcc565": {
+            "text": "Sorter alternativer i inndatafelt"
+        },
+        "e89db0c78032d8d1943e8990438c4a81": {
+            "text": "Feltlagring av feltreferanser."
         }
     }
 }

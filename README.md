@@ -48,7 +48,7 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * ProMailer
 * Range Slider – [FieldtypeRangeSlider](https://modules.processwire.com/modules/range-slider/)
 * Repeater Matrix – [FieldtypeRepeaterMatrix](https://processwire.com/talk/forum/43-repeater-matrix/)
-* Select Fields
+* Select Fields – [FieldtypeFields](https://processwire.com/modules/fieldtype-fields/)
 * Swift Mailer – [WireMailSwiftMailer](https://modules.processwire.com/modules/wire-mail-swift-mailer/)
 * Templates Reference (multiple)
 * TOTP two-factor authentication – [TfaTotp](https://modules.processwire.com/modules/tfa-totp/)
