@@ -16,6 +16,138 @@
         },
         "9bfb6e6af6e6793bfa9387e728187c87": {
             "text": "(p\u00e5krevd)"
+        },
+        "d4f5ff0ae84492b5ff3adbfbe81dc7bd": {
+            "text": "Veksler"
+        },
+        "55fb89959c80a61ae598c35da5676b9a": {
+            "text": "Krever kjernemodulen \u201c%s\u201d"
+        },
+        "98f770b0af18ca763421bac22b4b6805": {
+            "text": "Funksjoner"
+        },
+        "fc10dd423a50cf3e1f332fc9effca028": {
+            "text": "Hvilke funksjoner \u00f8nsker du \u00e5 aktivere? (alle er anbefalt)"
+        },
+        "a0c786108239a65515845d0b1797167a": {
+            "text": "Vennligst se [LoginRegisterPro-dokumentasjonen](%s) for instruksjoner."
+        },
+        "ec84eef2c9bcd3d0a0ef4ae03bdf7d3f": {
+            "text": "**Innlogging:** Innloggingsskjema for frontende"
+        },
+        "3c6e87c8e8bf7ec339f916bc4593e55a": {
+            "text": "**Registrer:** Registreringsskjema med e-postbekreftelse for ny bruker"
+        },
+        "6b1f0507b0a38be431800e5997a9d21a": {
+            "text": "**Profil:** Skjema for redigering av profil for innloggede brukere"
+        },
+        "0c22661d938567fe2f1af81812aff7d3": {
+            "text": "**Logg:** Brukeraktivitet i loggen %s"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "Innlogging"
+        },
+        "eefb4667c7ce20e656a489b588b8bfd0": {
+            "text": "Innstillinger for p\u00e5loggingsskjemaet."
+        },
+        "6506b3e542886c98908f106139130118": {
+            "text": "Tillat bruk av tilbakestillingshandlingen \"glemt passord\""
+        },
+        "6179c2a6ba1c1398e19cec6f9a464fae": {
+            "text": "Tillat tofaktorautentisering (se instruksjoner for oppsett)"
+        },
+        "22d70e7fdb99d58a48bd9792aff0d0f3": {
+            "text": "Roller tillatt \u00e5 logge inn p\u00e5 front-enden"
+        },
+        "4af3aadf9f3a3f0d12b6702972ec94a0": {
+            "text": "Innstillinger for registreringsskjema og behandling."
+        },
+        "a8a42aa08276b3bafa2352732a9a5242": {
+            "text": "Bruk Google reCAPTCHA i registreringsskjemaet"
+        },
+        "687f9abbfe81101aae826cad2277caf4": {
+            "text": "Beskytt registreringsskjemaet med JS-basert honningkrukke"
+        },
+        "67a73b294e0eab8b2f3e7dda5b250cd9": {
+            "text": "Bekreftelseskodetype"
+        },
+        "f47e3bc3b7558713220312ade618a80e": {
+            "text": "Alfanumerisk"
+        },
+        "d9301eb86d3ce7aaa1c8fc5863d847c9": {
+            "text": "Alfanumerisk versal"
+        },
+        "6132295fcf5570fb8b0a944ef322a598": {
+            "text": "Alfa"
+        },
+        "d7fb0de880d5ba37ed6f9823a634e2b4": {
+            "text": "Alfa versal"
+        },
+        "87322391cc6e8948ce9fd5d6cb84fced": {
+            "text": "Numerisk"
+        },
+        "13bc14aaec2036c9973438014073bc44": {
+            "text": "Bekreftelseskodelengde"
+        },
+        "d0443ff5c5590cbcef87a035e1ebe1f5": {
+            "text": "E-post svareliste"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "+"
+        },
+        "6f6da7aec649851c977b6bf4e083977d": {
+            "text": "Fra e-postadresse"
+        },
+        "c3a7ea0c38bac179a545dbfaf4ebb013": {
+            "text": "Fra navn"
+        },
+        "11bd8f1835139faba53fa9ed438b7ea5": {
+            "text": "Roller med tillatelsen *page-edit* vises ikke."
+        },
+        "43dcd491e3a9f3012ba2d1fdbe364b70": {
+            "text": "Antall sekunder etter at ikke-bekreftede registreringer utl\u00f8per"
+        },
+        "091a837187077f0ce70eb8206f364dd8": {
+            "text": "600=10 minutter, 3600=1 time, 86400=1 dag"
+        },
+        "c985b0253e66f4c290a0b813f92960a5": {
+            "text": "Bekreftelseskoden genereres tilfeldig ved kj\u00f8retid."
+        },
+        "1f81c1abe9ebc752defbbbb642401e77": {
+            "text": "Kryptografisk sikker tilfeldig generering brukes n\u00e5r den er tilgjengelig for PHP."
+        },
+        "c49aca1ec9c24ff91e20033c6fc49e38": {
+            "text": "Angi en fast lengde mellom 6 og 60 for tilfeldig genererte bekreftelseskoder, eller spesifiser 0 for tilfeldig lengde mellom 10 og 40."
+        },
+        "df3a04ec9f0c0f761a4afd981d63bab3": {
+            "text": "Eksempel med gjeldende type- og lengdeinnstillinger:"
+        },
+        "910ed9beda56ef4dc9045e84f35a0e82": {
+            "text": "Alternativer for bekreftelsesskjerm"
+        },
+        "46b7336e4459625f13fa38492f6fb0fc": {
+            "text": "Be brukeren om \u00e5 oppgi passord som en annen bekreftelse"
+        },
+        "74a75fdd7971e9f8ba54396b8e61e430": {
+            "text": "Be brukeren om \u00e5 logge p\u00e5 etter at kontoen er opprettet (la dette v\u00e6re avmerket for \u00e5 logge inn automatisk)"
+        },
+        "23ea0c1f7ae88464a219f586a2bb39ee": {
+            "text": "E-postdomene\/vertskapsliste"
+        },
+        "4f649baebfd444f9fa9a172e138a1d6f": {
+            "text": "Spesifiser eksakte e-postdomener\/vertsnavn som er tillatt \u00e5 registrere, ett per linje."
+        },
+        "fb8ef2a30a453910945533d57d42fb95": {
+            "text": "Hvis ingenting er spesifisert her, brukes ikke denne funksjonen."
+        },
+        "1f96af6d4b2cccd5cf54c9141fa4bded": {
+            "text": "Merk at dette er forskjellig fra hvordan hvitelisten for e-post fungerer."
+        },
+        "c7892ebbb139886662c6f2fc8c450710": {
+            "text": "Emne"
+        },
+        "2bddb6ed9005045795ad86cb796ae0a0": {
+            "text": "Sendmetode for e-post"
         }
     }
 }

@@ -25,6 +25,57 @@
         },
         "1bef9a4b3401a6ff59404fce20b79a1b": {
             "text": "rediger bruker"
+        },
+        "997b80ab4ccf69bf6c324543880c0c63": {
+            "text": "Skriv inn E-POST-adressen din for \u00e5 bekrefte at du vil SLETTE kontoen din permanent n\u00e5."
+        },
+        "89ad0afb6a2c085093051c34627969ff": {
+            "text": "Ett eller flere felter du endret ovenfor krever ditt n\u00e5v\u00e6rende passord for \u00e5 kunne fortsette."
+        },
+        "91ce6f0fed14ea4d4baf88481f4ac0eb": {
+            "text": "Aktiver Javascript for \u00e5 f\u00e5 tilgang til alle profilredigeringsfunksjonene."
+        },
+        "2c94714ac0fc5c0c1a763c3899bf4d9e": {
+            "text": "Verdien ble ikke oppdatert fordi eksisterende \/ n\u00e5v\u00e6rende passord ikke ble bekreftet"
+        },
+        "566b10ba45f58b5058f10242cddedcb9": {
+            "text": "Lagret profil"
+        },
+        "f961f478f3d27cf6bc48d6bed7c46840": {
+            "text": "E-postadressen var allerede i bruk, s\u00e5 endret tilbake til forrige."
+        },
+        "1c92a3177337ccdc3405f21bb532216f": {
+            "text": "Kan ikke endre til ny e-postadresse"
+        },
+        "22e0d283a5ed283f79b8bf428232295c": {
+            "text": "Kontosletting st\u00f8ttes ikke for *superuser*."
+        },
+        "d050288924c7adce7173878841a3ae09": {
+            "text": "Ugyldige data ble funnet i slettingsforesp\u00f8rselen"
+        },
+        "27ff501bf390419b704775a8b0569390": {
+            "text": "E-postadressen du skrev inn for \u00e5 bekrefte sletting, stemte ikke overens med den faktiske e-postadressen din"
+        },
+        "415b82e9c7dd277713f1c4e64bf93690": {
+            "text": "Feil ved sletting av kontoen din. Kontakt administratoren for \u00e5 f\u00e5 hjelp."
+        },
+        "fdf7778a206174f4ccc8fa99ace909c1": {
+            "text": "Kontoen din er slettet permanent."
+        },
+        "85ea916b763219a9f4d3c2b0a12a088f": {
+            "text": "Bruker slettet konto"
+        },
+        "e67976f19a748e53fedc1a42004c0d03": {
+            "text": "Brukeren fullf\u00f8rte sletting av sin egen konto: %s"
+        },
+        "48a2793021dbcb67fc04a36701aa42f3": {
+            "text": "Bruker %s har lastet opp en fil:"
+        },
+        "93130282979b1be1d7a815b48e0da63b": {
+            "text": "Du kan se gjennom eller fjerne filer her:"
+        },
+        "d363e138fd3c0c856eda49190df7efbb": {
+            "text": "Nye filopplastinger: %s"
         }
     }
 }

@@ -28,6 +28,30 @@
         },
         "c936c0db0aa270c7aff9662323caff3c": {
             "text": "Logg inn med Facebook"
+        },
+        "511452ebde5e13ee790eb29b10a89608": {
+            "text": "Tilbakestill glemt passord"
+        },
+        "f735820937d279e23e1d44b7afb0bbfb": {
+            "text": "Takk, kontoen din er bekreftet, og du er n\u00e5 logget inn"
+        },
+        "d45294caa04dc2a59a6a9779ecb261e1": {
+            "text": "Registrer en konto"
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Har du glemt passordet ditt?"
+        },
+        "fb88f3c3e2b1f9d03f3a80a738ae962e": {
+            "text": "Brukernavnet m\u00e5 inneholde 3 eller flere tegn"
+        },
+        "23b26c68ca84a6fadb41d137c31aa4b3": {
+            "text": "Brukernavnet er ikke godkjent, pr\u00f8v et annet."
+        },
+        "046c64990a15e5597875e0fee60b8dcd": {
+            "text": "Brukernavnet er allerede i bruk, pr\u00f8v et annet."
+        },
+        "6434953cabdeaefb6b7ceec15cf40966": {
+            "text": "Brukernavnet er ikke tillat, pr\u00f8v et annet."
         }
     }
 }

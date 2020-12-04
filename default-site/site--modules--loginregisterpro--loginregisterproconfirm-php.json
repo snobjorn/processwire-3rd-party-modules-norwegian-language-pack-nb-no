@@ -16,6 +16,33 @@
         },
         "b79aa80523d764ebb4de5e61fba9eb9f": {
             "text": "En bekreftelseskode har blitt sendt p\u00e5 e-post til deg."
+        },
+        "c45b3f6444feaddf0b0fe0112bb2d81e": {
+            "text": "Kan ikke fullf\u00f8re bekreftelsen. Registrer deg p\u00e5 nytt og pr\u00f8v p\u00e5 nytt"
+        },
+        "4c1c39bf752f532ed6ed551ce93afc81": {
+            "text": "N\u00e5r du mottar e-posten, klikker du p\u00e5 lenken den inneholder, eller limer inn bekreftelseskoden nedenfor."
+        },
+        "12bac09707a6be13865c7af5f983a590": {
+            "text": "Fyll ut feltene nedenfor og klikk p\u00e5 send inn-knappen for \u00e5 fullf\u00f8re registreringen."
+        },
+        "6c52e69f331171ab30d528ef48841229": {
+            "text": "Registreringen mislyktes fordi maksimalt passordfors\u00f8k er n\u00e5dd. Registrer deg p\u00e5 nytt og pr\u00f8v p\u00e5 nytt."
+        },
+        "baed799d7fcfe278fc6027b7594f9ee7": {
+            "text": "Ugyldig bekreftelseskode eller e-post"
+        },
+        "acf65b8acc4529fb7cfa07ab7ce3e06b": {
+            "text": "E-postadressen allerede tatt"
+        },
+        "04be297eb25dc14c5bc04be7b1c5cdeb": {
+            "text": "Kan ikke fullf\u00f8re registreringen"
+        },
+        "5987f0d23ba13b9f3a4df6427665afe0": {
+            "text": "Ny bruker bekreftet"
+        },
+        "eaa45415cd8cead4cdc3e14ab57af44e": {
+            "text": "En ny brukerkonto ble bekreftet og opprettet for: %s"
         }
     }
 }

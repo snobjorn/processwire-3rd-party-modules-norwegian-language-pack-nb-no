@@ -13,6 +13,24 @@
         },
         "0ba7583639a274c434bbe6ef797115a4": {
             "text": "Registrer"
+        },
+        "d45294caa04dc2a59a6a9779ecb261e1": {
+            "text": "Registrer en konto"
+        },
+        "88eecfb1f5b2289c2b4dd6f6a6566762": {
+            "text": "Bruk bokstaver, tall, bindestreker eller understrekninger. Ingen mellomrom."
+        },
+        "cd337bd4e721c5b6eef9d07f429cb88a": {
+            "text": "Feilet reCAPTCHA inndatatest"
+        },
+        "d585355525a0e4c5e871d962a2a0e885": {
+            "text": "E-postadressen er allerede i bruk eller ikke tillatt. Vennligst bruk en annen."
+        },
+        "d6a6d393040fe53b20243c9abeee036b": {
+            "text": "Mangler n\u00f8dvendig verdi"
+        },
+        "68993af63033c38aedc408d41f81ee55": {
+            "text": "Registrering ikke tillatt"
         }
     }
 }

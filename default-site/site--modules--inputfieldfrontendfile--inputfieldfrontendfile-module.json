@@ -1,5 +1,84 @@
 {
     "file": "site\/modules\/InputfieldFrontendFile\/InputfieldFrontendFile.module",
     "textdomain": "site--modules--inputfieldfrontendfile--inputfieldfrontendfile-module",
-    "translations": []
+    "translations": {
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "+"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "+"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "+"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Vis"
+        },
+        "0b27918290ff5323bea1e3b78a9cf04e": {
+            "text": "Fil"
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "St\u00f8rrelse"
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "Dato"
+        },
+        "2474b54476c8ec0ec8560eeb99f4434d": {
+            "text": "Filbeksrivelse"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Velg"
+        },
+        "94186070ef6773ba0f1721c19980e487": {
+            "text": "Velg bort"
+        },
+        "58cf49aa222388b476f1d3797176f343": {
+            "text": "="
+        },
+        "504571c56f5d96722f4b7cfc98cc7ede": {
+            "text": "G\u00e5 tilbake til filliste"
+        },
+        "267182b6bbb4831bdcd90a1f49604721": {
+            "text": "Klikk for \u00e5 velge fil(er) til opplasting"
+        },
+        "98cd4aae5337c33145f3250811f14262": {
+            "text": "Filtype er ikke st\u00f8ttet"
+        },
+        "617c5f9b9e4dd9b4fbf61833a0ebff3a": {
+            "text": "Opplastingen kansellert"
+        },
+        "403a952dde6a916c26848d2ceb4ed2c9": {
+            "text": "Fjernet fil: %s"
+        },
+        "5720fe9efff2dc670bf6a101675218a6": {
+            "text": "La til fil: %s"
+        },
+        "132c1891f30ca641a75f548d1e89c234": {
+            "text": "="
+        },
+        "db2c72d4f668940409606b554314dd38": {
+            "text": "maks %s"
+        },
+        "0f0df87141d7e7b2f5fec26bb4b45829": {
+            "text": "Slipp en fil her eller klikk for \u00e5 laste opp"
+        },
+        "27d66d95449ba7cc7ce6bec48d445856": {
+            "text": "Slipp flere filer her eller klikk for \u00e5 laste opp"
+        },
+        "cc02f8437eba31300b2dde8d6a6dd33c": {
+            "text": "Filst\u00f8rrelsen {{filesize}} MB er for stor, maks tillat er {{maxFilesize}} MB"
+        },
+        "16fdff2c8f5eb79b6fc273cb23d7df09": {
+            "text": "Ugyldig serverrespons: {{statusCode}}"
+        },
+        "14948731bc8ed8c6349ef977ac849f29": {
+            "text": "Er du sikker p\u00e5 at du vil avbryte opplastingen?"
+        },
+        "c03a5b6118afd2185278892fadce18b3": {
+            "text": "Er du sikker p\u00e5 at du vil fjerne filen?"
+        },
+        "fe76f4a376fdd3e73aacb8da9b40a420": {
+            "text": "Oppdaterte sorteringsrekkef\u00f8lge"
+        }
+    }
 }

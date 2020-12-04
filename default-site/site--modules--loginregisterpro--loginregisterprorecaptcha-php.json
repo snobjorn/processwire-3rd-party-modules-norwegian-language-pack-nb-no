@@ -10,6 +10,12 @@
         },
         "952bf87c967660b7bbd4e1eb08cefc92": {
             "text": "Hemmelig n\u00f8kkel"
+        },
+        "8e5ab020a3e886c8a3a17ac229c0dc9c": {
+            "text": "Denne funksjonen bruker avkrysningsruten [Google reCAPTCHA v2](%s) for \u00e5 bekrefte at brukeren er en ekte person."
+        },
+        "1a341562ba31cf244b376db4c3cbb1d6": {
+            "text": "For \u00e5 bruke den, m\u00e5 du [skaffe deg et API-n\u00f8kkelpar](%s), og skriv det inn nedenfor."
         }
     }
 }
