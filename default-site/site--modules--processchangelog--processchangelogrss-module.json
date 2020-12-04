@@ -1,5 +1,30 @@
 {
     "file": "site\/modules\/ProcessChangelog\/ProcessChangelogRSS.module",
     "textdomain": "site--modules--processchangelog--processchangelogrss-module",
-    "translations": []
+    "translations": {
+        "91ba9f7b08a81342eccc074e54666a53": {
+            "text": "Endringslogg RSS"
+        },
+        "708ee749ccef7b3a6b98ea5638178a85": {
+            "text": "Produserer en RSS-str\u00f8m av data fra Process Changelog"
+        },
+        "897356954c2cd3d41b221e3f24f99bba": {
+            "text": "N\u00f8kkel"
+        },
+        "07a98c5df2b247035144f51e301979d8": {
+            "text": "N\u00f8kkel kreves for \u00e5 se den offentlige RSS-str\u00f8mmen for veksling; hvis utelatt, vil str\u00f8mmen v\u00e6re utilgjengelig. V\u00e6r oppmerksom p\u00e5 at n\u00f8kkelen m\u00e5 v\u00e6re minst 10 tegn lang."
+        },
+        "817908ca011277ed8195670b1f723326": {
+            "text": "RSS-str\u00f8m er forel\u00f8pig utilgjengelig. Fyll ut en n\u00f8kkel og lagre modulinnstillinger for \u00e5 se str\u00f8mmens nettadresse."
+        },
+        "28e6c1d25808ca2800ff3630977389b4": {
+            "text": "Nettadersse til RSS-str\u00f8mmen: %s"
+        },
+        "d138c49b3350ed64ce6ec02ffd61de13": {
+            "text": "Vis str\u00f8mlenke p\u00e5 Changelog-siden"
+        },
+        "e65f2946b097149c640b4e1b39f6582f": {
+            "text": "Merk av for dette alternativet hvis du vil gi en lenke til den RSS-str\u00f8mmen som er offentlig synlig p\u00e5 Changelog-siden. Dette alternativet er deaktivert som standard, da du kanskje vil begrense antall brukere med tilgang til str\u00f8mmen."
+        }
+    }
 }
