@@ -1,0 +1,33 @@
+{
+    "file": "site\/modules\/LoginRegisterPro\/LoginRegisterProLogin.php",
+    "textdomain": "site--modules--loginregisterpro--loginregisterprologin-php",
+    "translations": {
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "Logg inn"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-post"
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Brukernavn"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Passord"
+        },
+        "9f9a068152a8c8ef9cb6eb8de34dfbd0": {
+            "text": "Kan ikke logge inn fordi mer enn en konto bruker denne e-postadressen."
+        },
+        "a3016191871779371130ff8ee275e439": {
+            "text": "Vennligst bruk e-postadressen din til \u00e5 logge inn med"
+        },
+        "ccc025f2ee3f90d245d7246748065452": {
+            "text": "Suksessfull innlogging for %s"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "Innlogging feilen"
+        },
+        "80a295c9fe7bed66295f4d8c1b52e110": {
+            "text": "Autentiseringskode"
+        }
+    }
+}

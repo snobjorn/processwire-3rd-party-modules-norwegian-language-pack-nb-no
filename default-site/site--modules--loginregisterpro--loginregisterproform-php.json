@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/LoginRegisterPro\/LoginRegisterProForm.php",
+    "textdomain": "site--modules--loginregisterpro--loginregisterproform-php",
+    "translations": {
+        "ed755117586bbd178b21e3222469cda3": {
+            "text": "Feil: Javascript er ikke funnet og dette skjemaet krever det."
+        },
+        "1dc4fda6b45b67c6d6489f8bc5689f84": {
+            "text": "Vennligst tillat Javascript i nettleseren din f\u00f8r du bruker dette skjemaet."
+        }
+    }
+}

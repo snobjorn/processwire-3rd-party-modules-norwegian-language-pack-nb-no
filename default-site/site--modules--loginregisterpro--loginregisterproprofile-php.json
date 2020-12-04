@@ -1,0 +1,30 @@
+{
+    "file": "site\/modules\/LoginRegisterPro\/LoginRegisterProProfile.php",
+    "textdomain": "site--modules--loginregisterpro--loginregisterproprofile-php",
+    "translations": {
+        "dfd87bd34b4599aaaef6d0f2c8b6e3d7": {
+            "text": "Redigert profil"
+        },
+        "2f5d20f3448c1daa17bff1ba74d57f5f": {
+            "text": "Slett kontoen din?"
+        },
+        "509538e97e3df3ab5872a7906f3a52ea": {
+            "text": "Huk av i denne boksen for \u00e5 be om kontosletting"
+        },
+        "042b7c3e12d2080881ad2c70555e83d5": {
+            "text": "Er du sikker p\u00e5 at du vil slette kontoen din?"
+        },
+        "5f87e91d6506dfb1e4b293595cd904fa": {
+            "text": "Ditt n\u00e5v\u00e6rende passord"
+        },
+        "700f08e43a1a17d018812444cc9391e9": {
+            "text": "Oppdatert: %s"
+        },
+        "e6d6fc28a2025fd384582547c7d6118c": {
+            "text": "(ingen endringer)"
+        },
+        "1bef9a4b3401a6ff59404fce20b79a1b": {
+            "text": "rediger bruker"
+        }
+    }
+}

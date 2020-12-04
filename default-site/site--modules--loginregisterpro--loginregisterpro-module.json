@@ -1,0 +1,33 @@
+{
+    "file": "site\/modules\/LoginRegisterPro\/LoginRegisterPro.module",
+    "textdomain": "site--modules--loginregisterpro--loginregisterpro-module",
+    "translations": {
+        "9a4173246e55c08750f0f985675ef995": {
+            "text": "Tusen takk, din konto har n\u00e5 blitt opprettet."
+        },
+        "7accc28b2ac5964e5495d8c5e9c1d158": {
+            "text": "Du er n\u00e5 innlogget."
+        },
+        "310aef358bd30feb53c0741e0b0c1189": {
+            "text": "Du kan n\u00e5 logge inn."
+        },
+        "0589752872f3e3d4c81aa3a90cea14f0": {
+            "text": "Velkommen %s"
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "Du har blitt logget ut"
+        },
+        "dfd87bd34b4599aaaef6d0f2c8b6e3d7": {
+            "text": "Rediger profil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Logg ut"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "Logg inn"
+        },
+        "c936c0db0aa270c7aff9662323caff3c": {
+            "text": "Logg inn med Facebook"
+        }
+    }
+}

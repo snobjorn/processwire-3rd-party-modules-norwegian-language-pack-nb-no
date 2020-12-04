@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/LoginRegisterPro\/LoginRegisterProConfirm.php",
+    "textdomain": "site--modules--loginregisterpro--loginregisterproconfirm-php",
+    "translations": {
+        "5750c1e05728fd532a018ac415b55f87": {
+            "text": "Bekreftelseskode"
+        },
+        "b357b524e740bc85b9790a0712d84a30": {
+            "text": "E-postadresse"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Passord"
+        },
+        "4dcaaf6c6884651b1fea5898cd3dfe40": {
+            "text": "Ugyldig passord, vennligst fors\u00f8k p\u00e5 nytt"
+        },
+        "b79aa80523d764ebb4de5e61fba9eb9f": {
+            "text": "En bekreftelseskode har blitt sendt p\u00e5 e-post til deg."
+        }
+    }
+}

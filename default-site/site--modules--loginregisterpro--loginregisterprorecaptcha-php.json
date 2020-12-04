@@ -1,0 +1,15 @@
+{
+    "file": "site\/modules\/LoginRegisterPro\/LoginRegisterProRecaptcha.php",
+    "textdomain": "site--modules--loginregisterpro--loginregisterprorecaptcha-php",
+    "translations": {
+        "72fd8dd3cf56fdf89cba20b5f77e8f8b": {
+            "text": "="
+        },
+        "f75d8fa5c89351544d372cf90528ccf2": {
+            "text": "Siden\u00f8kkel"
+        },
+        "952bf87c967660b7bbd4e1eb08cefc92": {
+            "text": "Hemmelig n\u00f8kkel"
+        }
+    }
+}

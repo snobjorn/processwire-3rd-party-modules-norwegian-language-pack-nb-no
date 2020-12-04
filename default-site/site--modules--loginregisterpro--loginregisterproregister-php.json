@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/LoginRegisterPro\/LoginRegisterProRegister.php",
+    "textdomain": "site--modules--loginregisterpro--loginregisterproregister-php",
+    "translations": {
+        "7ccf75fa7498152efe4e152833455c67": {
+            "text": "Innloggingsnavn"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Passord"
+        },
+        "0be8406951cdfda82f00f79328cf4efc": {
+            "text": "Kommentar"
+        },
+        "0ba7583639a274c434bbe6ef797115a4": {
+            "text": "Registrer"
+        }
+    }
+}

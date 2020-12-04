@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/LoginRegisterPro\/config.php",
+    "textdomain": "site--modules--loginregisterpro--config-php",
+    "translations": {
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "="
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Konfigurer"
+        },
+        "0ba7583639a274c434bbe6ef797115a4": {
+            "text": "Registrer"
+        },
+        "74c9741daa7fe677efa883d7c842a177": {
+            "text": "="
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(p\u00e5krevd)"
+        }
+    }
+}
