@@ -55,6 +55,42 @@
         },
         "7498c445a737312f3678aa1494e01a38": {
             "text": "Nedtrekk"
+        },
+        "b8c4f85428bfe3b2ae628c4ba7e50946": {
+            "text": "Ikke initialiser Foundation: $(document).foundation();"
+        },
+        "1b8d8ccb60f3200527e41aced0b73f6b": {
+            "text": "Spesifiser en nettadresse\/bane i forhold til roten til ProcessWire-installasjonen."
+        },
+        "cb13fc9385a05438eec0d718221c32fa": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at individuelle feltkolonnebredder (hvis brukt) ikke gjelder n\u00e5r du bruker den horisontale stilen."
+        },
+        "718e26f5c22784395090b31740b1d485": {
+            "text": "Horisontal etikettkolonne (1)"
+        },
+        "0b0711217ef1bb2d0e953b37a7edc06b": {
+            "text": "Spesifiser Foundation-rammeverksklasser som skal gjelde for etikettkolonnen."
+        },
+        "0bfd15697c7214001a20d2293cb82b5b": {
+            "text": "Horisontal inndatakolonne (2)"
+        },
+        "3a3edc677a96be9850e486aa29a2d8f9": {
+            "text": "Spesifiser Foundation-rammeverksklasser som skal gjelde for inndatakolonnen."
+        },
+        "db75bf51e78682f0f7d2bb166e52197a": {
+            "text": "Send inn-knapptype"
+        },
+        "41f582c676a068cd0c288b7be7ca83d0": {
+            "text": "Send inn-knappst\u00f8rrelse"
+        },
+        "04780f813e8ce45db8d361aca1c54347": {
+            "text": "Send inn-knappstiler"
+        },
+        "450cbae633304212e5e2cdf32ac17117": {
+            "text": "Hul"
+        },
+        "3f9c668858a3ad28e6d098af8461e7f0": {
+            "text": "Ikke initialiser Foundation"
         }
     }
 }
