@@ -103,6 +103,117 @@
         },
         "99b4336c89ea082e8a4ea84b8023f501": {
             "text": "Det finnes ikke nok data til \u00e5 vise denne grafen."
+        },
+        "d5312eeeef24499fbab4e39a08a514d5": {
+            "text": "Skriv inn kommentartekst for denne lenken (maks 255 tegn)"
+        },
+        "5c3b57a3a1a99331cb90de77e1d4decf": {
+            "text": "Ingen viderekoblinger er identifisert enn\u00e5."
+        },
+        "3d52d2f1aa7231b2200e11777301d4e5": {
+            "text": "Lenker som er hoppet over"
+        },
+        "22a9b8135a30d6fce0bcd3afefecd106": {
+            "text": "Ikke en eneste lenke er s\u00e5 langt blitt merket som hoppet over!"
+        },
+        "7445ed0fef1e1a89b0053f155f73c331": {
+            "text": "Ferdig! %d\/%d sider og %d\/%d lenker sjekket i %s."
+        },
+        "1aa6e36802c254171c35e1d543c49c07": {
+            "text": "+ %d flere"
+        },
+        "3fe9b0f7f7041541b45607b6004472f1": {
+            "text": "Feil ved kontroll av denne lenken"
+        },
+        "b7264290b7594d604cd21212ccc863df": {
+            "text": "Statusforklaring"
+        },
+        "fbf80b4958289287f73bac96487a3e7a": {
+            "text": "ingen: kan ikke lese koblingsm\u00e5l, 2xx: OK, 3xx: omdirigering, 4xx: m\u00e5l ikke funnet, 5xx: m\u00e5l har en feil"
+        },
+        "35a18bc064153900e76bee1d129b20f4": {
+            "text": "Kj\u00f8rer *Link Crawler* manuelt"
+        },
+        "b010e1a1605a6643fa8bbaab08b18915": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at n\u00e5r det er startet, kan det ta lang tid \u00e5 fullf\u00f8re *Link Crawler*, og selv om den pr\u00f8ver \u00e5 fortsette \u00e5 kj\u00f8re selv om du lukker nettleservinduet eller fanen, anbefales det at du ikke gj\u00f8r dette f\u00f8r sjekken er fullf\u00f8rt. *Link Crawler* er ment \u00e5 kj\u00f8res som en bakgrunnsprosess (cron-jobb), og det manuelle alternativet tilbys hovedsakelig for feils\u00f8kingsform\u00e5l."
+        },
+        "67226e76d7d531cfdd4d59757c4de993": {
+            "text": "Denne kategorien inneholder minimale konfigurasjonsalternativer; for mer, sjekk modulkonfigurasjonssiden."
+        },
+        "ec6bd690542428a6622bb3dac5eb1f5a": {
+            "text": "T\u00f8mt hurtigbuffer for %d lenker"
+        },
+        "9714e702e06abc275098126db8cce07f": {
+            "text": "Feil: koblingstabellen er for \u00f8yeblikket utilgjengelig, muligens p\u00e5 grunn av et databaseproblem."
+        },
+        "0c3cd33e7bf626da4897316a7158a7a4": {
+            "text": "="
+        },
+        "5660938398bc019a81a32452a3f830d0": {
+            "text": "*Selector* for \u00e5 finne sider for \u00e5 se etter \u00f8delagte lenker."
+        },
+        "e6206a7862dbf0fdfd36965fa6755467": {
+            "text": "Lenke-*regex*"
+        },
+        "6fe3fb8f2decc27423351ab5b1cd38df": {
+            "text": "Brukes til \u00e5 identifisere kontrollerbare lenker fra sideinnholdet."
+        },
+        "796b767a3377618dc5eb8776780f0523": {
+            "text": "Bruk [PCRE](http:\/\/www.php.net\/manual\/en\/pcre.pattern.php)-syntaks inkludert avgrensere og modifikatorer"
+        },
+        "9130bf716bce64b546e63aca5b6b3b89": {
+            "text": "Lenker som er hoppet over"
+        },
+        "161218d24442aa2068893f66080c6784": {
+            "text": "Lenker som skal hoppes over, en per linje. Koblinger som peker til administratoromr\u00e5det vil alltid bli hoppet over."
+        },
+        "3c0d2d24ea74fe0d0e3094c5e4700845": {
+            "text": "Lenke-*regex* som er hoppet over"
+        },
+        "0e0a749d5e49359d85b09cd7d9c81e84": {
+            "text": "*Regex*-m\u00f8nster som identifiserer lenker som er hoppet over, en per linje. I tillegg hoppes det over alle misdannede lenker og lenker som peker til adminomr\u00e5det."
+        },
+        "0265e3e1bb1d0dd0244ea399f21d7140": {
+            "text": "HTTP-vert for relative nettadresser"
+        },
+        "29723126b53165349d76c6d4eab58c17": {
+            "text": "Relative nettadresser m\u00e5 v\u00e6re prefikset med HTTP-vert (for eksempel http:\/\/localhost\/) f\u00f8r de kan kontrolleres."
+        },
+        "e320a395bbe2a5b403ce4e50a71cd8e9": {
+            "text": "Bruk $config->httpHost"
+        },
+        "a7a6058b80bdc690c3d55e9b53bc6200": {
+            "text": "Protokoll brukt for relative nettadresser"
+        },
+        "185cb8334a74fc313de3c575d9fb1ae7": {
+            "text": "N\u00e5r HTTP-vert er definert av $config->httpHost, m\u00e5 protokollen defineres separat."
+        },
+        "971070d042a53a3362da2a687720ac6e": {
+            "text": "Manuelt definert HTTP-vert"
+        },
+        "81e94b1221776d9fe7568b50d370d611": {
+            "text": "Skriv inn hele adressen til nettstedet ditt, inkludert prefikset http:\/\/ eller https:\/\/."
+        },
+        "b11b5bc5f8c69f058cfa868f78b7034e": {
+            "text": "Hvis HTTP-verten er tom, vil ikke relative nettadresser sjekkes."
+        },
+        "c2cc7082a89c1ad6631a2f66af5f00c0": {
+            "text": "Kobling"
+        },
+        "1300769d8d72fc8218b40772f1c25efc": {
+            "text": "Partist\u00f8rrelse"
+        },
+        "008e1c1240d15dc08781769ae57327fc": {
+            "text": "Hvor mange sider skal lastes inn i minnet samtidig?"
+        },
+        "e5114c4b69585ba5883d456a74c1cd5d": {
+            "text": "Loggniv\u00e5"
+        },
+        "5e520da5341f2fec6d3bbfe7ef357922": {
+            "text": "Gjengi"
+        },
+        "3c8b76cb32e10c897809d55ecb43d046": {
+            "text": "Gjengivningsmetode"
         }
     }
 }
