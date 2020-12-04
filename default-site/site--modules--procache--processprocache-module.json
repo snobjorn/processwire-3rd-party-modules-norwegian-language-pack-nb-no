@@ -60,19 +60,19 @@
             "text": "Dette er hvor du kan t\u00f8mme mellomlageret n\u00e5r det er befolket."
         },
         "6556e92264133d5e0db7db16249b2d10": {
-            "text": "T\u00f8mte det samlede\/minskede filmellomlageret"
+            "text": "T\u00f8mte det sammensl\u00e5tt\/forminsket filmellomlageret"
         },
         "2cdfd8a4925b59b3fc5763289adcd05b": {
-            "text": "Samlet\/minsket filmellomlager"
+            "text": "Sammensl\u00e5tt\/forminsket filmellomlager"
         },
         "34901e4954b0a7e55490d1f929674e21": {
-            "text": "T\u00f8m samlet\/minsket filmellomlager?"
+            "text": "T\u00f8m sammensl\u00e5tt\/forminsket filmellomlager?"
         },
         "f2c9db62a6cf7260c439dcff75b7482b": {
-            "text": "Samlet\/minsket filmellomlager er tomt"
+            "text": "Sammensl\u00e5tt\/forminsket filmellomlager er tomt"
         },
         "6e574244179ef3ce3a41bfaad3357403": {
-            "text": "Dette er hvor du kan t\u00f8mme det samlede\/minskede filmellomlageret n\u00e5r det er befolket."
+            "text": "Dette er hvor du kan t\u00f8mme det sammensl\u00e5tt\/forminsket filmellomlageret n\u00e5r det er befolket."
         },
         "6298de6593e1ed4243a949b4cc1c087f": {
             "text": "Mellomlagrede filer blir automatisk gjenskapt n\u00e5r en CSS eller JS-fil blir endret."
@@ -255,7 +255,7 @@
             "text": "GET-variabler som hopper over mellomlagringen"
         },
         "9e801f07ef9f28646529e574d0e944d3": {
-            "text": "Dette innholdet blir ikke minifisert"
+            "text": "Dette innholdet blir ikke forminsket"
         },
         "f00a79b3f3a1ab160d8dc8092b968268": {
             "text": "5 betyr 5 kB som er standardverdien. Spesifiser 0 for \u00e5 deaktivere."
@@ -351,7 +351,7 @@
             "text": "For \u00e5 teste om hurtigbufferen fungerer, kan du se i fanen \"Tester\"."
         },
         "9f2cb925132a6e06685ba42d8c5b5660": {
-            "text": "Fjernet %d fil(er) fra sammensl\u00e5tt\/minifisert filbuffer"
+            "text": "Fjernet %d fil(er) fra sammensl\u00e5tt\/forminsket filbuffer"
         },
         "66c2fb3ef67000fd59a296d9823321f3": {
             "text": "Fjernet %1$d CSS- og %2$d JS-filer fra filbufferen (de nyeste versjonene blir igjen p\u00e5 plass)"
@@ -522,25 +522,25 @@
             "text": "Innstillingen \u201c%s\u201d mangler \u00f8ktinformasjonskapsel(er):"
         },
         "1ed4090858fcd650c91807ea7889480c": {
-            "text": "Sl\u00e5 sammen og minifiser lokale CSS %1$s-filer i dokument %2$s"
+            "text": "Sl\u00e5 sammen og forminsk lokale CSS %1$s-filer i dokument %2$s"
         },
         "c1621bb2b482fb9481f1f81a34268e94": {
             "text": "(fungerer ogs\u00e5 med SCSS- eller LESS-filer)"
         },
         "32320908bcaf2f4f47a27d248c3cb468": {
-            "text": "Sl\u00e5 sammen og minifiser lokale Javascript %1$s filer i dokument %2$s"
+            "text": "Sl\u00e5 sammen og forminsk lokale Javascript %1$s filer i dokument %2$s"
         },
         "16ecebca0cf249cb4479c06a78ab73d8": {
-            "text": "Dette alternativet gir en god balanse for ytelse siden det er en liten *overhead* med HTML-minifisering. N\u00e5r den brukes, overstyrer den alternativene \"Minifiser HTML for gjester\" og \"Minifiser HTML for p\u00e5loggede brukere\"."
+            "text": "Dette alternativet gir en god balanse for ytelse siden det er en liten *overhead* med HTML-forminsking. N\u00e5r den brukes, overstyrer den alternativene \"Forminsk HTML for gjester\" og \"Forminsk HTML for p\u00e5loggede brukere\"."
         },
         "77e720715f03fe45de9c362b59d329dd": {
-            "text": "CSS- og JS-minifieringsalternativer gjelder uavhengig av Minifiser HTML-alternativer."
+            "text": "CSS- og JS-forminskingsalternativer gjelder uavhengig av Forminsk HTML-alternativer."
         },
         "29f9a6c9d38312ad8a103f2c3e26f97c": {
-            "text": "Hvis det er en CSS\/JS-fil du vil at sl\u00e5 sammen- \/ minifiseringsalternativene skal ignorere, legg til \"?NoMinify\" til slutten av filnavnet i HTML-en."
+            "text": "Hvis det er en CSS\/JS-fil du vil at sl\u00e5 sammen- \/ forminkskingsalternativene skal ignorere, legg til \"?NoMinify\" til slutten av filnavnet i HTML-en."
         },
         "b9fe52bd5471d43b059f6d6eb87a8d61": {
-            "text": "Hvis du foretrekker \u00e5 bruke CSS\/JS sl\u00e5 sammen- \/ minifiseringsalternativer fra API i stedet (for mer kontroll), se API-bruk av sl\u00e5 sammen og minifisere nedenfor."
+            "text": "Hvis du foretrekker \u00e5 bruke CSS\/JS sl\u00e5 sammen- \/ forminskingsalternativer fra API i stedet (for mer kontroll), se API-bruk av sl\u00e5 sammen og forminske nedenfor."
         },
         "395a8d201cce41eb62b8bdbd67025b40": {
             "text": "Ikke bruk denne innstillingen hvis JS\/CSS-filene endres fra side til side."
@@ -549,10 +549,223 @@
             "text": "N\u00e5r dette er merket av, vises det en rute lenger nede p\u00e5 denne siden der du kan velge malene. Hvis det ikke er merket av, gjelder alle innstillinger ovenfor alle maler som sender inn innholdstypen \"text\/html\" (som er det vi anbefaler)."
         },
         "5d34f265b6f13f767f2f27aa18f5f6d3": {
-            "text": "Hvordan bruke minifisering fra API for JS-, CSS-, SCSS- eller LESS-filer"
+            "text": "Hvordan bruke forminsking fra API for JS-, CSS-, SCSS- eller LESS-filer"
         },
         "cc4bcaf502b12124f1a29e3e48471089": {
-            "text": "Filer kan sl\u00e5s sammen og minifiseres fra API, noe som gir deg mer kontroll sammenlignet med automatisk gjenkjenning av %s- eller %s-koder."
+            "text": "Filer kan sl\u00e5s sammen og forminskes fra API, noe som gir deg mer kontroll sammenlignet med automatisk gjenkjenning av %s- eller %s-koder."
+        },
+        "dbfb51319532753a746ee8ab8423e9de": {
+            "text": "Valg til HTML-forminsking"
+        },
+        "79891d197c2ed2224c00667d4db9e2bf": {
+            "text": "Bruk JS-forminsking p\u00e5 %s-koder i linjen"
+        },
+        "8a90aca373131861f6dfef2f7ba87bf2": {
+            "text": "Bruk CSS-forminksing p\u00e5 %s-koder i linjen"
+        },
+        "e3683037e88de9a1031fff187f624b3e": {
+            "text": "Forminsk CSS"
+        },
+        "d3eb6ae2a7bcb4a91df16c2fb2a8c440": {
+            "text": "CDN-verstsoppsett"
+        },
+        "de9ab150b5e04c9e24032a5cd60ae40b": {
+            "text": "CDN-filetternavn"
+        },
+        "d139deeaacecf3e751198b6411b3bc51": {
+            "text": "<body>-klasseattributt"
+        },
+        "5745f7a2bbacdb73c08dec6802448ce5": {
+            "text": "Hvis `<body>`-koden ikke er tilstede (kanskje som et resultat av HTML-forminsking), brukes `<html>`-koden i stedet."
+        },
+        "cb9756bb875a493a494c32fbd30bf9de": {
+            "text": "Versjon av ProCache .htaccess-hurtigbufferegler"
+        },
+        "67086e4a12e444251987b0653acd0024": {
+            "text": "Tillat at ProCache oppretter .htaccess-eksempelfil?"
+        },
+        "91a0bc3ba365c8ef188254ed91d7bdb5": {
+            "text": "Type LESS-kompilator\/analyserer som skal brukes"
+        },
+        "3bd14839af6bf8335d89d0ff502e40ac": {
+            "text": "Aktiver feils\u00f8kingsmodus for hurtigbuffer?"
+        },
+        "03888aeb26cc50f16a92600fff15879f": {
+            "text": "Testresultater fra %s"
+        },
+        "ab7d25d9a7fa0cae8df120ee69d26150": {
+            "text": "Oppdater testresultater"
+        },
+        "5301cec1caf6e57ee95215fd6cebe1f2": {
+            "text": "Ingen komprimering oppdaget"
+        },
+        "afc3c1b310662d0061af2064dd0ad049": {
+            "text": "Suksess \u2013 oppdaget komprimering. %s"
+        },
+        "a552cd8e971703f4793757a628d9a0fd": {
+            "text": "Bufret side"
+        },
+        "b582f6a7ef2f78a1f4a4897a2a8632ce": {
+            "text": "Bufret fil"
+        },
+        "cfdfe7091ec62dd578ac2e3d4cad7d65": {
+            "text": "Ingen endringer i hurtigbufferfiler"
+        },
+        "4774276211dbe69ad2b007ec0d1fa5bc": {
+            "text": "Test om hurtigbufferen fungerer og hvordan den fungerer"
+        },
+        "0fcd4d381aa277e2af47cbb5cc7f1670": {
+            "text": "Skriv inn en full http-\/https-nettadresse p\u00e5 nettstedet ditt for \u00e5 teste. Vi vil ta tiden p\u00e5 resultatet og sammenligne med ikke-bufret gjengivelsestid."
+        },
+        "8acb05e8ecef95d3f095d78a87386974": {
+            "text": "For \u00e5 gj\u00f8re dette, ikke velg CSS\/JS \u201csammensl\u00e5ing\u201c-alternativene ovenfor, men bruk de innebygde API-metodene for JS, CSS eller begge deler; beskrevet nedenfor."
+        },
+        "3c28291f287bf4e8c76925249ff017c6": {
+            "text": "SCSS- og LESS-filer kompileres automatisk og kan erstattes av hvilken som helst CSS-fil som er nevnt her."
+        },
+        "53682f07fd1123f263325b65d4cc7d61": {
+            "text": "Metodene $procache->css() og $procache->js() produserer det forminskede filnavnet. Gi dem en matrise eller CSV-streng med nettadresser\/filnavn for \u00e5 sl\u00e5 sammen og forminske:"
+        },
+        "fb9a30b05ca9b99344f47b872369d3f5": {
+            "text": "F\u00f8lgende er det samme som ovenfor, men bruker en CSV-streng for listen over filer, i stedet for en matrise:"
+        },
+        "a8d9148a677795f10d027070c4b449d7": {
+            "text": "link()- og script()-metodene fungerer p\u00e5 samme m\u00e5te som css()- og js()-metodene, bortsett fra at de sender ut hele %1$s- eller %2$s-koden, noe som kan spare deg for et trinn:"
+        },
+        "be60a0f025a3bb09c2e4a3b7c1b634bd": {
+            "text": "Medf\u00f8lgende filer kan v\u00e6re en CSV-streng med filnettadresser eller en rekke filnettadresser."
+        },
+        "d83bea99660a6acb019992b9cc2d8b87": {
+            "text": "Filnettadresser som ikke begynner med skr\u00e5strek \"\/\" antas \u00e5 v\u00e6re relativ til \/site\/templates\/."
+        },
+        "daf4103a09e40fdaefc75a477eba9a9a": {
+            "text": "Unng\u00e5 forskjellige kombinasjoner av filer som varierer i henhold til side\/mal, da dette vil skape flere forminskede filer med potensielt overfl\u00f8dig innhold."
+        },
+        "b37a84f16e76c2c4b7c0514c05b732ea": {
+            "text": "Hvis du trenger at filer legges til i noen tilfeller og ikke andre, kan du bruke et helt egen kall for disse filene."
+        },
+        "3c4387d27253f2830482611b96e6287e": {
+            "text": "For \u00e5 sl\u00e5 sammen uten \u00e5 forminske, angi `false` som det andre argumentet til en av metodene ovenfor."
+        },
+        "fee62c418f8daa20d78da8e34ff2fc66": {
+            "text": "Sider som bruker avmerkede maler vil bli levert med de valgte forminskingsalternativene."
+        },
+        "77d55a02ecf1243fe23f69973f23ebab": {
+            "text": "Fjern HTML-kommentarer (anbefales p\u00e5 det sterkeste)"
+        },
+        "f5c91e7d7e4468fa0f3291fa6a5b8b3c": {
+            "text": "Fjern anf\u00f8rselstegn fra kodeattributter der det er tillatt (kun for HTML5-utdata)"
+        },
+        "3f3502b69aaa2fece8745f0a24e14376": {
+            "text": "Forkort selvlukkende XHTML-stiliserte lukkekoder (dvs. %1$s til %2$s)"
+        },
+        "775f25757f674f1469dcb0159039bfe0": {
+            "text": "Fjern valgfrie koder i henhold til HTML5-spesifikasjoner ([detaljer](http:\/\/www.w3.org\/TR\/2014\/REC-html5-20141028\/syntax.html#optional-tags))"
+        },
+        "0d9abb719a071943ea5d4b9c13bda858": {
+            "text": "Fjern un\u00f8dvendige antatte attributter (dvs. %1$s til %2$s, og s\u00e5 videre)"
+        },
+        "f7972854d08b8b3df261550aebf0b943": {
+            "text": "Skjul redundante boolske attributter (dvs. `selected=selected` til `selected`, og s\u00e5 videre)"
+        },
+        "18dfe30e825f579fa0beb4bfb4330f46": {
+            "text": "Fjern noen blanke attributter som kan tilpasses (default=`%s`)"
+        },
+        "fba2151f12f0e6291203e3b7ed7301b8": {
+            "text": "Konverter absolutte `href`-attributter til relative n\u00e5r de relative er kortere (se merknad)"
+        },
+        "a06c4763b8333a2067caddec47ce3e72": {
+            "text": "Det anbefales \u00e5 skjule boolske attributter, med mindre du bruker CSS\/JS-velgere som retter seg mot attributtverdien (dvs. `input [checked=checked]`) i stedet for selve attributtet (dvs. `input[checked]`)."
+        },
+        "840ef5fbd198f1fef8594dc491c8451b": {
+            "text": "Konvertering av href-attributter anbefales ikke p\u00e5 nettsteder som bruker en blanding av etterf\u00f8lgende og ikke etterf\u00f8lgende skr\u00e5streker p\u00e5 sider, og kan for\u00e5rsake problemer n\u00e5r en gitt side vises med feil nettadresse (skr\u00e5streket mot ikke-skr\u00e5streket)."
+        },
+        "0ce58f930f9e76d05fc8001e920a7829": {
+            "text": "For \u00e5 hoppe over en bestemt %1$s- eller %2$s-blokk, plasser ordet %3$s et sted i den, som i en kommentar."
+        },
+        "317a9ba124dd4b2276ebcd65efbe9eca": {
+            "text": "Skille elementer med et mellomrom eller en ny linje."
+        },
+        "48c8d1bc5433bc073f9bb91aea4a74cd": {
+            "text": "Ikke forminsk innholdet i disse HTML-kodene"
+        },
+        "9aa79da2d94db3553c9ee49024ec6de1": {
+            "text": "Utdata i disse HTML-kodeblokkene vil bli latt v\u00e6rende."
+        },
+        "8a742a975a4aa868dea24befd4fd0d6c": {
+            "text": "Du kan ogs\u00e5 ekskludere deler av dokumentet ditt fra forminsking ved \u00e5 omgi det med NoMinify-kommentarer:"
+        },
+        "f879616809e1ce968d7f087223292e9d": {
+            "text": "Skjul mellomrom rundt disse kodene"
+        },
+        "4d3670940c1a651468f0e409b7493966": {
+            "text": "Dette er vanligvis koder p\u00e5 blokkniv\u00e5, der mellomrom mellom dem vil bli skjult fullstendig. For koder som ikke vises her, vil det v\u00e6re et enkelt hvitt mellomrom n\u00e5r det er til stede i originalutgangen."
+        },
+        "c6b2e5e4bc461ea9add982f8481f52f7": {
+            "text": "Fjern disse HTML-kodeattributtene n\u00e5r de er tomme"
+        },
+        "14db160ed468bd4d62184a25d3c18453": {
+            "text": "Dette vil fjerne attributtene du spesifiserer her, n\u00e5r de er tomme."
+        },
+        "d982e72dbd5f52b6660c1c4a8387e09e": {
+            "text": "Denne innstillingen konfigurerer alternativet \"Fjern noen blanke attributter\" du valgte ovenfor."
+        },
+        "eacf6e7444710a7cb90af2a3104c14bc": {
+            "text": "Maks filst\u00f8rrelse p\u00e5 bakgrunnsbildet for \u00e5 sl\u00e5 sammen i CSS-filer"
+        },
+        "8f71b4d14f94840b87b5a2b5ea5f5de1": {
+            "text": "Bakgrunnsbildefiler opp til s\u00e5 mange kilobyte blir sl\u00e5tt sammen direkte i CSS-filen (base64-kodet). Dette reduserer HTTP-foresp\u00f8rsler, men er stort sett bare gunstig med mindre filst\u00f8rrelser."
+        },
+        "608fa7486d82221c4f0a07004f7c32b2": {
+            "text": "ProCache CDN-funksjoner fungerer med alle CDN-leverand\u00f8rer som st\u00f8tter [origin-pull](%s). For mer informasjon om bruk av et CDN med ProCache, se [ProCache CDN-integrasjon](https:\/\/processwire.com\/api\/modules\/procache\/cdn\/)."
+        },
+        "2b30947f7467152ee1cb71726d43b4be": {
+            "text": "N\u00e5r dette er aktivert, m\u00e5 \"CDN-vertsoppsett\"-feltet nedenfor ogs\u00e5 fylles ut f\u00f8r CDN vil v\u00e6re aktivt."
+        },
+        "cd10eb413642acdd075cc256e8edc6b9": {
+            "text": "Skriv inn en eller flere linjer med: **\/sti\/ = your.cdn.com**, hvor **\/sti\/** er den lokale startstien (pull-opprinnelse) du vil ha servert av CDN (vanligvis **\/site\/**) og **your.cdn.com** er CDN-vertsnavnet (og eventuelt banen) du vil tilordne disse ressursene til."
+        },
+        "9934eee13bb35e0a624ca055e2dfaef7": {
+            "text": "For mer detaljerte instruksjoner, se [Konfigurere et CDN med ProCache](%s)"
+        },
+        "93164a7b51f96518db20fdfed1b62625": {
+            "text": "I de fleste ProCache-scenarier vil startstien bokstavelig talt v\u00e6re \"\/site\/\", men kan ogs\u00e5 v\u00e6re \"\/\" hvis hele domenet ditt er CDN-pull-opprinnelsen."
+        },
+        "b1f380688e105109c2228d1336124072": {
+            "text": "Dette eksemplet vil servere ressurser fra \"\/site\/\" av et CloudFront CDN:"
+        },
+        "3ed895f242e8a5802b0d1612db26e96a": {
+            "text": "**Hvis nettstedet ditt bruker SSL:** For http-only vertsnavn, avhenger *http:\/\/* av vertsnavnet, eller hvis https bare avhenger av *https:\/\/*. B\u00e5de http og https kan ogs\u00e5 spesifiseres separat for samme bane p\u00e5 separate linjer, men spesifiser http-verten f\u00f8r https-verten. Hvis verken http eller https er spesifisert, antas det samme vertsnavnet for b\u00e5de http- og https-foresp\u00f8rsler."
+        },
+        "3424031a9c55c1439f03c4fc42227811": {
+            "text": "Skriv inn filtypene (atskilt med et mellomrom) som skal betjenes av CDN(ene) som er oppf\u00f8rt ovenfor."
+        },
+        "f29a455739a1d70decd8be03ef03bdcc": {
+            "text": "Skriv inn HTML-attributtene (atskilt med et mellomrom) som skal sammensvares for filtypene."
+        },
+        "7d6818f5141f5ee3314ba32c9ee4776a": {
+            "text": "La det v\u00e6re tomt for \u00e5 sammensvare en HTML-attributt som refererer til en ressurs."
+        },
+        "9da9d4b0a8afc4330f20240729cd8be9": {
+            "text": "Sider som bruker avkryssede maler vil bli levert med CDN-alternativene som er spesifisert ovenfor. **MERK:** Hvis ingen maler er valgt, vil CDN-alternativer brukes p\u00e5 alle maler som skriver ut HTML. Betydning, ingen valg er det samme som alle."
+        },
+        "e4a76454fe3937ddf6b5d6b9fc3b024c": {
+            "text": "Filressurs bufferbuster"
+        },
+        "8e7079d628ac3ac6900856c7a7327a3d": {
+            "text": "Versjonert sp\u00f8rringsstreng"
+        },
+        "8735fbded05f7457a6970eb3d7c9458b": {
+            "text": "Versjonerte filnavn"
+        },
+        "f40b58dbdda1f9cde331d432a5815168": {
+            "text": "Merk at alternativ C krever en .htaccess-oppdatering som ProCache skisserer for deg etter lagring."
+        },
+        "a20475fcce98a35d494f2a86a5e1320b": {
+            "text": "Hvordan bufre bust-ressurser med Buster"
+        },
+        "7470296b0afbfe9c7d6fac838eb7fb14": {
+            "text": "Utdatajusteringer"
         }
     }
 }
