@@ -148,6 +148,168 @@
         },
         "2bddb6ed9005045795ad86cb796ae0a0": {
             "text": "Sendmetode for e-post"
+        },
+        "421b694a21c1eac4e2deb97fcfd1e8c8": {
+            "text": "Stuper innlogginger for \u00e5 blokkere ordbokangrep"
+        },
+        "ad7fc73874c5fbcfec690d0431626647": {
+            "text": "Beskytt p\u00e5loggingsskjema med JS-basert honningspotte"
+        },
+        "3facb8e1b06f9369e20ec0234cdb96c5": {
+            "text": "Velg hvilke roller som skal bruke frontend-p\u00e5loggingsskjemaet"
+        },
+        "6df13c0f8c63c4a917523719592a911d": {
+            "text": "Blokker s\u00f8kemotorer\/roboter fra indeksering av nettadresser som har p\u00e5logging \/ register \/ glemt utdata (anbefalt)"
+        },
+        "c2ccd0871b76752e28cd8ba9b3211104": {
+            "text": "Alltid aktivert mens \u201c%s\u201d-modulen er installert"
+        },
+        "498265553c286d50779b70dee2b71d4d": {
+            "text": "Hvis ingen roller er valgt, har ALLE brukere (uansett roller) lov til \u00e5 logge p\u00e5 med denne modulen."
+        },
+        "00e7a014168a5e46f0755a507fd061aa": {
+            "text": "Velg bare \"%s\"-rollen for \u00e5 begrense p\u00e5logging bare til brukere som har registrert seg i denne modulen."
+        },
+        "364d3c7b1a4bc6d33d8cbaf091af384a": {
+            "text": "reCAPTCHA-innstillingene er fylt ut."
+        },
+        "7fc920ff77f2eefd152a5842699d490b": {
+            "text": "For \u00e5 bruke m\u00e5 du ogs\u00e5 fylle ut reCAPTCHA API-n\u00f8kler mot slutten av dette konfigurasjonsskjermbildet."
+        },
+        "8a4aed436c2f86a21af56361ac92bb20": {
+            "text": "Begrens hvilke e-poster som har lov til \u00e5 registrere seg (hviteliste og\/eller svarteliste)"
+        },
+        "c94ff438f79fdb79372970414fe04115": {
+            "text": "Blokker e-poster eller IP-er som er sendt til stopforumspam.com fra \u00e5 registrere seg"
+        },
+        "f3dc0a4bbf81874a79595e84c49d4a46": {
+            "text": "Registreringsskjemafelter"
+        },
+        "ceb3454f195d5d8dacdc3c01fb05b292": {
+            "text": "Rolle(r) som skal legges til nylig registrerte og bekreftede brukere"
+        },
+        "f917d51b83689d0a9b2777a9c6912862": {
+            "text": "Vi anbefaler at du legger til \"login-register\"-rollen for nylig registrerte brukere."
+        },
+        "b2b9fad5a6c4d78a9e9e1c74c2838fc0": {
+            "text": "Bekreftelsesskjermen er det som vises etter at brukeren klikker p\u00e5 lenken fra e-posten sin, og den ber om bekreftelseskoden."
+        },
+        "c063613e1145fb4c2640a11e9ff7ed05": {
+            "text": "Velg flere alternativer du ogs\u00e5 vil aktivere her."
+        },
+        "52e58ab3595a71285a9cef121d6d879b": {
+            "text": "Et eksempel p\u00e5 hvor dette er nyttig er hvis du driver et firmaintranett og bare vil at ansatte skal registrere seg."
+        },
+        "f844443ecdb3b352f00653f999a45867": {
+            "text": "Du kan spesifisere n\u00f8yaktig vert\/domene som `domain.com` eller `subdomain.domain.com`."
+        },
+        "a8ab34107416d5ef8d4f978c55fe34bc": {
+            "text": "Spesifiser delvise samsvarstrenger (en per linje) som skal matche i hvilken som helst del av e-postmeldingen."
+        },
+        "c0433c3655423474d8cfcffee9d6cd8e": {
+            "text": "E-post som samsvarer er ikke tillatt. Du kan spesifisere hele verter\/domener, eller hvilken som helst streng som skal matche i hvilken som helst del av e-postadressen."
+        },
+        "d0bf041419101851008762e2437bf7eb": {
+            "text": "E-postinnstillinger brukes til bekreftelses-e-posten som sendes etter nye kontoregistreringer."
+        },
+        "b3894513ecbc0a2ba4d907d327ba5ae0": {
+            "text": "I e-postens emne og br\u00f8dtekst kan du bruke plassholdere: \"{host}\" for HTTP-vert, \"{url}\" for bekreftelses-URL, \"{code}\" for bekreftelseskode eller hvilken som helst \"{field}\" i registreringsskjemaet ditt."
+        },
+        "59e3916a15180208802e5150bad81624": {
+            "text": "E-postadresse som skal brukes til varsler sendt til brukeren (eller blank for standard)."
+        },
+        "b6e69ed85a979e68d7ede51c7c80488f": {
+            "text": "Valgfritt firma\/personnavn som f\u00f8lger med \"fra e-post\"-adressen."
+        },
+        "7e16e1afbfd11595278b0f790a7509d7": {
+            "text": "*Body* HTML"
+        },
+        "111f9a2d07525c6d5399d8ddf6a5a1c9": {
+            "text": "*Body* TEKST"
+        },
+        "ded9f21e758b01bc03e1edf300031cdd": {
+            "text": "Autovalg:"
+        },
+        "5b9895b5b86dff06e77461d5139aa42a": {
+            "text": "For \u00f8yeblikket %s"
+        },
+        "973895f8c059a7b03372d9a64ea87549": {
+            "text": "="
+        },
+        "4d1258aa8feaddc0389be88de22b4e0c": {
+            "text": "For flere alternativer, installer [WireMail-moduler](%s)."
+        },
+        "e3b1a956fff16a2f9b781479bcbea925": {
+            "text": "Admin-varsel e-post"
+        },
+        "cc5e661627e91cd29cc6967bb32c386b": {
+            "text": "E-postadresse for \u00e5 sende varsler n\u00e5r nye brukere blir bekreftet\/opprettet eller filer lastes opp."
+        },
+        "e62b96d935b4c8f7d9d8a0f2e64b257f": {
+            "text": "Andre relaterte varsler kan ogs\u00e5 sendes til denne adressen."
+        },
+        "cb4c32c3f9ba83b10da82a1214b184e6": {
+            "text": "La st\u00e5 tomt for \u00e5 deaktivere."
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "50d9b898c146292e3686492818694e9f": {
+            "text": "Innstillinger for profilskjema og behandling."
+        },
+        "027feff8e728f63f474ff58eb8229580": {
+            "text": "Profilskjemafelter"
+        },
+        "6d402baca4c8d833c84a72386d1bb8e4": {
+            "text": "Krev passord for profilendringer"
+        },
+        "b0b5e74a2be846bb2cb0b0ba7206f8f0": {
+            "text": "Krev n\u00e5v\u00e6rende passord for endringer i avmerkede felt i profilskjemaet."
+        },
+        "2a22f8bbbfb7d3128cb9ec18e16d16c9": {
+            "text": "Hvis du gj\u00f8r endringer i de valgte profilfeltene ovenfor, lagrer du og returnerer hit for \u00e5 vise dem i dette feltet."
+        },
+        "5563ea838688c25c05b07acdec4bafc9": {
+            "text": "Tillat brukere \u00e5 slette sin egen konto"
+        },
+        "38a68acce2830fbd49a579898a1fbc26": {
+            "text": "Maks tillatt filst\u00f8rrelse for feltopplastingsfelt (hvis brukt)"
+        },
+        "3cb2cc52060aa5978cca487e8f4b6535": {
+            "text": "Spesifiser i byte eller megabyte, eller la det v\u00e6re tomt for \u00e5 delegere til PHP-innstillingene."
+        },
+        "9eab748b6ef509207c1205c1de148ef9": {
+            "text": "N\u00e5r du bruker megabyte, legger du \"M\" til verdien for \u00e5 avklare at det er en megabyteverdi, dvs. \"5M\" for 5 megabyte."
+        },
+        "9097a5dc6240e1c60b11d9ceebda95ad": {
+            "text": "Verdien kan ikke overstige PHP-innstillingen for `upload_max_filesize`, som for \u00f8yeblikket er `%s`"
+        },
+        "6311ae17c1ee52b36e68aaf4ad066387": {
+            "text": "Andre"
+        },
+        "39d77869bd7f18c6f45cadfaec294e46": {
+            "text": "Andre innstillinger som ikke er relatert til en bestemt funksjon."
+        },
+        "ef8178804d3aae886b79a2f0bef84ed1": {
+            "text": "Hovedside-ID (angis automatisk ved kj\u00f8retid)"
+        },
+        "50b02433d50d967bf6aed623a54a5da9": {
+            "text": "ID for hovedsiden som brukes av denne modulen for alle funksjoner. Dette er siden som bruker din \"login-register\"-mal."
+        },
+        "b44f2c64943ada74796368b8d9fba8e7": {
+            "text": "Denne verdien settes automatisk ved frontend-kj\u00f8retid. Endre det bare hvis denne modulen genererer feil funksjonslenker."
+        },
+        "f601a803534ce8aac7626415118106d3": {
+            "text": "Produktn\u00f8kkel"
+        },
+        "ccee7144b9c1132990b823af8aee4648": {
+            "text": "Vennligst les delen [Registrer og profilskjema](%s) i dokumentasjonen for instruksjoner og viktige hensyn."
+        },
+        "c8dafb5ddc8546d186bbdcc8bb783e60": {
+            "text": "Hvis du ikke ser alle feltene du trenger, kan du legge dem til i malen `user`f\u00f8rst og deretter komme tilbake hit."
+        },
+        "51a4878ab5f98f523a9191d90ef0ec4e": {
+            "text": "Etter \u00e5 ha lagt til felter, lagre, kom s\u00e5 tilbake, og du kan klikke p\u00e5 feltene for \u00e5 tilpasse ytterligere detaljer."
         }
     }
 }
