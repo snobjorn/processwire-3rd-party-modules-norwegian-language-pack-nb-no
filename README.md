@@ -25,6 +25,7 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * Jumplinks
 * Link Checker
 * ListerPro – [PRO: ProcessPageListerPro](https://processwire.com/talk/topic/7793-listerpro-latest-version-download/)
+* Login Reigster Pro – [PRO: LoginRegisterPro](https://processwire.com/talk/forum/51-loginregisterpro-support/)
 * Map Marker – [FieldtypeMapMarker](https://processwire.com/modules/fieldtype-map-marker/)
 * Markup RSS Feed enhanced
 * Page Action: Clear Image Variations – [PRO: PageActionClearImageVariations](https://processwire.com/talk/topic/20471-listerpro-page-action-clear-image-variations/)
