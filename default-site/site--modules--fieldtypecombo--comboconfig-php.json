@@ -1,0 +1,183 @@
+{
+    "file": "site\/modules\/FieldtypeCombo\/ComboConfig.php",
+    "textdomain": "site--modules--fieldtypecombo--comboconfig-php",
+    "translations": {
+        "289b1cd67600782561f5bae93cddbcf3": {
+            "text": "(flerspr\u00e5k)"
+        },
+        "f96a540bde6ecb2ecb8016457d136090": {
+            "text": "For \u00e5 bygge en betingelse fra et underfelt i dette Combo-feltet, spesifiser du `%s_subfield=value`, og erstatter `subfield` med navnet p\u00e5 Combo-feltet."
+        },
+        "78506d286e5bf48c73e3274c76102dc5": {
+            "text": "Databaseskjema"
+        },
+        "30335b4f96ce35ad517801cc959ca995": {
+            "text": "Skjemalagringstype"
+        },
+        "04196346b5bea8a053c5b55037716600": {
+            "text": "Advarsel, endring av lagringstype kan f\u00f8re til tap av data, s\u00e5 v\u00e6r sikker p\u00e5 at du vet hva du gj\u00f8r f\u00f8r du endrer dette."
+        },
+        "27118326006d3829667a400ad23d5d98": {
+            "text": "Streng"
+        },
+        "b2ee912b91d69b435159c7c3f6df7f5f": {
+            "text": "Tall"
+        },
+        "6311ae17c1ee52b36e68aaf4ad066387": {
+            "text": "Annet"
+        },
+        "98748db64e5bd4dc0861c9b8e8177fba": {
+            "text": "Standard\/auto (anbefalt)"
+        },
+        "a1c266b0684430b13eae2d1abbb99ca4": {
+            "text": "(%1$s til %2$s)"
+        },
+        "a3d1e25fb1169ab904756ef8b0849c76": {
+            "text": "Standard\/auto lagringstype til %1$s er: %2$s"
+        },
+        "4fdbc0ce6363d37dffd0d8a4d2aa5db6": {
+            "text": "Skjemavalg"
+        },
+        "79ae86d280fb7cb057dcc57514a15b80": {
+            "text": "For desimaltyper, spesifiser en verdi som `10,2` der `10` er presisjon (totaltall) og `2` er skala (desimaltegn)."
+        },
+        "1787640e34989732947c9aaf9c999497": {
+            "text": "For char\/varchar-typer, spesifiser en verdi som `90` som er den maksimale tillatte lengden (maks `191`)."
+        },
+        "84f964f520e97bd650e7d71898b676f9": {
+            "text": "Indekser dette underfeltet?"
+        },
+        "0d50b0f511582e8bcbaf77e0bad34839": {
+            "text": "Hvis denne kolonnen ikke trenger \u00e5 brukes i bestemte s\u00f8k, kan du deaktivere indeksen for \u00e5 bruke mindre ressurser."
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "+"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "+"
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "+"
+        },
+        "bd25ea34e2956815266e5950cf911596": {
+            "text": "Ytterligere etiketter"
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "+"
+        },
+        "f4c6f851b00d5518bf888815de279aba": {
+            "text": "+"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "+"
+        },
+        "41d534244071f567ec8887353f125f86": {
+            "text": "Tekstformat\u00f8rer"
+        },
+        "846cf63a53263d397771454abcba5986": {
+            "text": "Tekstformateringsmoduler som skal brukes p\u00e5 sideverdien n\u00e5r utdataformatering er p\u00e5."
+        },
+        "44cb26ed31a9d684988f34aac4988f10": {
+            "text": "For de fleste teksttyper b\u00f8r du i det minste velge HTML-enhetskoderen."
+        },
+        "17d4d5b5e7634339e066f41c9ce857d5": {
+            "text": "Sidereferanseverditype"
+        },
+        "381bdb453eb01b8be837d4566dca9b3d": {
+            "text": "PageArray (multiverdi)"
+        },
+        "28f83c0fef0503c6b2c49717a732eb73": {
+            "text": "Page eller NullPage (enkelverdi)"
+        },
+        "9e82b44e5d3887e927e24f8f745e7e33": {
+            "text": "Tilpasset skjemaplassering"
+        },
+        "22d292de2d813e2a2a6293129a3e53b3": {
+            "text": "Du kan eventuelt koble dette underfeltet fra dette Combo-feltet og f\u00e5 det til \u00e5 vises et annet sted i skjemaet."
+        },
+        "55eff0b68a0c374926649a1405e69bb7": {
+            "text": "For \u00e5 gj\u00f8re dette, spesifiser navnet p\u00e5 feltet du vil at dette underfeltet skal vises etter, f.eks. `tekstomraade`."
+        },
+        "516b64ac92af59c07ee8bb1eb0254f9c": {
+            "text": "For \u00e5 f\u00e5 det til \u00e5 vises foran feltet (i stedet for etter), legg et minustegn til feltnavnet, f.eks. `-tekstomraade`."
+        },
+        "f3188d79d00956446818df5427453336": {
+            "text": "Hvis spesifisert felt ikke er tilstede, vil ingen tilpasset plassering forekomme og underfelt vises i vanlig rekkef\u00f8lge."
+        },
+        "b5798fc63d5d6700811e25bd2c349a6f": {
+            "text": "Combo-underfelter"
+        },
+        "4d0af70249364bbb348cc33ee5c34348": {
+            "text": "Nytt underfelt"
+        },
+        "5271a2b6bd9a1ab634ff41bb7827d852": {
+            "text": "Inndata #%d"
+        },
+        "7ee3607edff87b812b405b2b8fcb69bd": {
+            "text": "Fullf\u00f8r konfigureringen av dette feltet og deretter Lagre."
+        },
+        "52aabaf6494d515a70c5a77adf0f14df": {
+            "text": "Velg en type, skriv inn en etikett, deretter Lagre og kom tilbake hit for \u00e5 fullf\u00f8re konfigureringen av dette nye underfeltet."
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "+"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
+        },
+        "b71d520d750d7b53d8436080ed1c54d3": {
+            "text": "SLETT DETTE FELTET"
+        },
+        "b57424993d24ec5b0be1f3966e74dc20": {
+            "text": "Legg til underfelt"
+        },
+        "6823d54a2efe9a8d6bfc4e19069bda9d": {
+            "text": "Se \u201cAvansert\u201c-fanen for avanserte Combo-innstillinger."
+        },
+        "38feeb5be8071bdde0912c91f31f7e7d": {
+            "text": "Combo avanserte innstillinger"
+        },
+        "f3f1d67a823cab324db4b73aaa587f2f": {
+            "text": "Bruke omfattende kolonnenavn i databasetabellen?"
+        },
+        "5ff2f6db6163467043fbe702b4054c4e": {
+            "text": "Som standard bruker Combo kondenserte kolonnenavn som \u201ci2\u201d. Fyldige kolonnenavn legger underfeltnavnet til det, som \u201ci2_fornavn\u201d."
+        },
+        "358b366e9b84ab6c5bd59d64c715183f": {
+            "text": "Det kan v\u00e6re lurt \u00e5 aktivere dette alternativet hvis du kan arbeide med Combo-databasetabellene separat fra Combo-feltet."
+        },
+        "e2b3283f329516caf0145cab1d4a2db9": {
+            "text": "Tillate tilpasning av databaseskjema for hvert underfelt?"
+        },
+        "3f3b0981f5dd377c18d85843e565d34d": {
+            "text": "N\u00e5r dette er aktivert, vil hvert av kombinasjonsfeltene i \u201cDetaljer\u201d-fanen i dette feltredigeringsprogrammet vise et \u201dDatabase-skjema\u201d-feltsett."
+        },
+        "1e1e03356ac04d9c5a4745942be53317": {
+            "text": "Dette gj\u00f8r at du kan gj\u00f8re justeringer i skjemaet for hvert felt og kontrollere om det er indeksert."
+        },
+        "ad7927ae5f193d1b3e1922017a191328": {
+            "text": "Lasta Combo-feltdata fra"
+        },
+        "eab6deb02217c55178c470f70b4f63cf": {
+            "text": "Combo-feltet lagrer en sikkerhetskopi av data i en kombinert indeks."
+        },
+        "be686a2997c49fee9e4d3fa79f6ead40": {
+            "text": "Du kan eventuelt bruke dette som din datakilde, hvis du trenger \u00e5 bruke sikkerhetskopien."
+        },
+        "d133751d795bbb2fbc55022ae4300370": {
+            "text": "Bruk dette alternativet hvis ProFields-support anbefaler det, ellers bruk prim\u00e6rdataene."
+        },
+        "d235cbff1729c40c17260ab9c2d62586": {
+            "text": "Prim\u00e6rdata: Individuelle databasekolonner"
+        },
+        "0af706e6da4ade2b5f2e382160f15398": {
+            "text": "Sikkerhetskopidata: Kombinert \u201cdata\u201c-kolonne"
+        },
+        "7272692d3a64a1d23cce30fbaec0b8b0": {
+            "text": "Phpdoc-klassedefinisjon"
+        }
+    }
+}

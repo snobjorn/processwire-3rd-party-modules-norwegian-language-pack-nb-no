@@ -1,0 +1,27 @@
+{
+    "file": "site\/modules\/FieldtypeCombo\/ComboSchema.php",
+    "textdomain": "site--modules--fieldtypecombo--comboschema-php",
+    "translations": {
+        "5819cfc67664991ac23afc652df71947": {
+            "text": "Gi nytt navn til kolonne"
+        },
+        "4220caf81d84096b21f1c382d9f2104c": {
+            "text": "Legg til ny kolonne"
+        },
+        "345502ac39bab3a17fa8067706bc9198": {
+            "text": "Legg til indeks i kolonne"
+        },
+        "f6617c61960919d3f615e3a9ac572524": {
+            "text": "Endre kolonnetype"
+        },
+        "18126289369c21bc24282dc063856a56": {
+            "text": "Fjern indeks fra kolonne"
+        },
+        "04f5301c2becf1179ecb672f3a147071": {
+            "text": "Fjern kolonne"
+        },
+        "d7c8c85bf79bbe1b7188497c32c3b0ca": {
+            "text": "Feilet"
+        }
+    }
+}

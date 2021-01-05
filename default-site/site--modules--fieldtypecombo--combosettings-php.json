@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/FieldtypeCombo\/ComboSettings.php",
+    "textdomain": "site--modules--fieldtypecombo--combosettings-php",
+    "translations": {
+        "3aaf7bc1fcd9505392ed7a1789cd6186": {
+            "text": "Slettet felt: %s"
+        },
+        "7be406602e498d96a7f5e5556492631c": {
+            "text": "Navnet \"%s\" er allerede i bruk av et annet felt, eller er et reservert navn"
+        }
+    }
+}

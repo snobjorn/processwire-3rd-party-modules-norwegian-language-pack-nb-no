@@ -1,0 +1,33 @@
+{
+    "file": "site\/modules\/FieldtypeCombo\/ComboModuleConfig.php",
+    "textdomain": "site--modules--fieldtypecombo--combomoduleconfig-php",
+    "translations": {
+        "93ad54f4cc3766ff3d83be4124bf7264": {
+            "text": "Tillatte felt-\/inndatatyper"
+        },
+        "9f54818478935b5e29be503bea690cb5": {
+            "text": "Velg Inputfield-typene du vil tillate for Combo-felter."
+        },
+        "d669faf3518e412804fdac36418c5450": {
+            "text": "Ikke alle Inputfield-typer kan brukes med Combo-felter."
+        },
+        "95bea5e2309280f74b26805ffc861555": {
+            "text": "Hvis du legger til flere typer, m\u00e5 du teste dem grundig f\u00f8r du antar at de fungerer."
+        },
+        "e55f75a29310d7b60f7ac1d390c8ae42": {
+            "text": "Modul"
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "+"
+        },
+        "bc80fd6f3a039d8778841f381fe8d8f0": {
+            "text": "Inndatatyper til phpdoc-typer"
+        },
+        "cf251285cf778105a8a0bea383f4fc3d": {
+            "text": "Denne innstillingen tilordner Inputfield-typer til phpdoc-typer for dokumentasjon og standardverdiform\u00e5l."
+        },
+        "a92d6463ff630602e2235298255d6ae2": {
+            "text": "Det er ikke n\u00f8dvendig \u00e5 endre denne innstillingen med mindre du finner det du trenger, eller hvis du vil legge til noe i den."
+        }
+    }
+}

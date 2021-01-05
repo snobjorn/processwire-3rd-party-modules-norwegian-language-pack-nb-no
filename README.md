@@ -41,6 +41,7 @@ Available at https://github.com/snobjorn/processwire-norwegian-language-pack-nb-
 * ProCache
 * ProcessWire API Explorer
 * ProcessWire Upgrade – [ProcessWireUpgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
+* ProFields: Combo – [PRO: FieldtypeCombo](https://processwire.com/talk/forum/54-combo/)
 * ProFields: Multiplier – [PRO: FieldtypeMultiplier](https://processwire.com/talk/forum/45-multiplier/)
 * ProFields: Table
 * ProFields: Text Blocks – [PRO: TextformatterTextBlocks](https://processwire.com/talk/forum/46-autolinks-text-blocks-textformatters/)

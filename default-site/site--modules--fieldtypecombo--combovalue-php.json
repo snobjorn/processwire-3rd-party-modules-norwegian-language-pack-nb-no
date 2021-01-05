@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/FieldtypeCombo\/ComboValue.php",
+    "textdomain": "site--modules--fieldtypecombo--combovalue-php",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "+"
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Inndatatype"
+        },
+        "dfcb050ae928ea0bc678bd90f3bd829c": {
+            "text": "Verditype"
+        },
+        "689202409e48743b914713f96d93947c": {
+            "text": "Verdi"
+        }
+    }
+}
