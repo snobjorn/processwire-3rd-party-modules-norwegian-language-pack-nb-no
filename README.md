@@ -45,7 +45,6 @@ Linked modules should be completed. Unlinked modules are work in progress.
 * [Page Action: Delete/Trash Pages – PageActionDelete](https://processwire.com/talk/topic/7893-listerpro-page-action-deletetrash-pages/)
 * [Page Action: Export page to CSV file – PageActionExporCSV](https://processwire.com/talk/topic/7895-listerpro-page-action-export-pages-to-csv-file/)
 * [Page Action: Move Pages – PageActionMove](https://processwire.com/talk/topic/7898-listerpro-page-action-move-pages/)
-* Page Action: Send Email
 * [Page Action: Set Field Value – PageActionSetField](https://processwire.com/talk/topic/7896-listerpro-page-action-set-field-value/)
 * [Page Action: Set Page Status – PageActionSetStatus](https://processwire.com/talk/topic/7894-listerpro-page-action-set-page-status/)
 * ProCache
