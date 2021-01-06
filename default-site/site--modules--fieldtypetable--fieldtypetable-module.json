@@ -61,6 +61,111 @@
         },
         "ce85ad558fd53bf7ce2a30b589591ee3": {
             "text": "Tillat sletting av alle rader samtidig?"
+        },
+        "64471a6e19542533245bfd1e272fddd0": {
+            "text": "Du kan ikke gi en kolonne navnet \"%s\" fordi det er et reservert ord"
+        },
+        "ac5c16b421c7fca55af2210edf2547be": {
+            "text": "Spesifiser et ProcessWire-felt som bruker CKEditor til \u00e5 bruke for innstillingene i denne kolonnen. Merk at i linjen-modus alltid brukes, uavhengig av feltinnstillinger."
+        },
+        "8b97a0d900607c7c5dd0b0a3ad41bd7c": {
+            "text": "Bruk *Advanced Content Filter (ACF)*? Sterkt anbefalt. (1=Ja, 0=Nei)"
+        },
+        "1bae3aa4a9c43d0602361c51c4aed4ab": {
+            "text": "Bruk *HTML Purifier*? Sterkt anbefalt. (1=Ja, 0=Nei)"
+        },
+        "af73ba6c28b839615bf6eaf1faf88d71": {
+            "text": "Sidefelt(er) som kan brukes for valgbar etikett. Eksempler: \"title\" eller \"title|path\" (bruker f\u00f8rst ikke-tomme), eller \"{title}, {path}\" (bruker alle spesifiserte felter i ditt format)."
+        },
+        "fb956f7a083d82dc22d53cb48775bb1b": {
+            "text": "Sidefelt(er) som du vil at autofullf\u00f8ringen skal s\u00f8ke i. Vanligvis vil dette v\u00e6re i samsvar med *labelField*."
+        },
+        "c494d84cfd5440fc16c68dd438537363": {
+            "text": "Spesifiser tekstformateringsmoduler som skal brukes p\u00e5 denne teksten for utdataformatering. For \u00e5 bruke flere, skill hver med komma. *TextformatterEntities* anbefales med mindre du trenger \u00e5 tillate markering eller foretrekker forskjellige tekstformat\u00f8rer."
+        },
+        "9bc54602186c6b5ba99545c2ecd194eb": {
+            "text": "Plassholdertekst for \u00e5 vise n\u00e5r ingen verdi er fylt ut."
+        },
+        "00d8c97a05907337324a59a28488aab7": {
+            "text": "Hvilken type datovelger som skal vises: 0=Ingen, 1=Vis p\u00e5 knappeklikk, 2=Vis alltid synlig innebygd datovelger, 3=Vis datovelger p\u00e5 feltfokus (anbefalt verdi)."
+        },
+        "a82ab9251b2775cf9c90fc1e9586d7a4": {
+            "text": "Datoformat som skal brukes til inndata n\u00e5r du redigerer siden."
+        },
+        "f9f31f40733c4cd1012e3539af40d382": {
+            "text": "Datoformat som skal brukes til utdata."
+        },
+        "0910b83776e397a72da23db35a7089d7": {
+            "text": "Tidsformat som skal brukes til inndata n\u00e5r du redigerer siden."
+        },
+        "c7d281a94db13a349f171c08c37e3cde": {
+            "text": "Tidsformat som skal brukes til utdata."
+        },
+        "c010d727e31d3e09f20f89c6418af246": {
+            "text": "Spesifiser 1 for \u00e5 gj\u00f8re nye roller standard til dato\/tid i dag, eller 0 for \u00e5 la v\u00e6re tomme."
+        },
+        "5afa2ac32dd8fed9145a56024a67d38d": {
+            "text": "\u00c5rrekke som skal vises i datovelger i formatet \"-10: +10\" hvor \"-10\" er antall \u00e5r tidligere og \"+10\" er antall \u00e5r i fremtiden."
+        },
+        "aa094f6539636ed7062b81d7760a4070": {
+            "text": "Arve verdien fra standardspr\u00e5ket n\u00e5r spr\u00e5kverdien er blank? (1=Ja, 0=Nei)"
+        },
+        "b04570f0593f6f731b7bf7736d13a8e1": {
+            "text": "Validerer at sider i verdi samsvarer med velgeren din ved sidelagring."
+        },
+        "412c1907e2047fa2f5ac74561529ca1d": {
+            "text": "Du kan ogs\u00e5 angi standard valgt side-ID (nummer). For flere, skille hver med komma."
+        },
+        "e2960b01c82460b0b4a8cf7ec02ae4b6": {
+            "text": "Du kan ogs\u00e5 overstyre alle andre CKEditor-feltinnstillinger ved \u00e5 spesifisere \"eiendom=verdi\" her."
+        },
+        "e42c99808181448716bfed10e9d41996": {
+            "text": "**Merk:** Bruk av CKEditor i et Table-felt krever ProcessWire 2.6.4 eller nyere."
+        },
+        "df39baa6720c26166ecec46c00675d2c": {
+            "text": "Du kan ha s\u00e5 mange kolonner du vil. Hver gruppe kolonner som gir opptil 100 % bredde, plasseres p\u00e5 separate rader, slik at du kan ha flere inndatakolonner enn det som vanligvis passer i en tabell."
+        },
+        "ae94523e1c8bcbeab04dc43115f7dfbd": {
+            "text": "Hvis du endrer denne verdien, trykker du p\u00e5 lagre for \u00e5 se flere inndata for kolonne."
+        },
+        "fc79d6220e08aa79bbd8d5fd02fec884": {
+            "text": "Kolonnedefinisjoner"
+        },
+        "84ab5d945499e7c17917a11eb932b024": {
+            "text": "Enhver strengverdi"
+        },
+        "ecd6f47940a93e1fb12de80f2e658add": {
+            "text": "Valgfritt: For \u00e5 spesifisere separate verdier og etiketter, angi **verdi=etikett** p\u00e5 linjen."
+        },
+        "385741feb340d540ab12b17fb3ddd03a": {
+            "text": "Hvilke sider skal kunne velges?"
+        },
+        "6c091cbc9493d28976b2e3e651ee0fd9": {
+            "text": "Definer velgeren som bestemmer hvilke sider som kan velges."
+        },
+        "5a10d95bd6cc4b374cf757ce1143c271": {
+            "text": "Det er bedt om endringer i databaseskjemaer som kan endre eller slette data. Bekreft disse endringene ved \u00e5 velge \"Ja\" nedenfor og lagre feltet. Hvis du ikke vil gjennomf\u00f8re disse endringene, velger du \"Nei\" og returnerer feltet\/feltene til deres forrige tilstand."
+        },
+        "70c2eb69c8e4ba10d5d6cce3c0bed5d0": {
+            "text": "Hvis du vil gi nytt navn til en kolonne, skriver du inn **gammel=ny** nedenfor, og erstatter **gammel** med gjeldende navn og **ny** med det nye navnet du vil bruke."
+        },
+        "3f26f814da0ab5d12bdd0577457ee300": {
+            "text": "Aktivering av paginering gj\u00f8r det ogs\u00e5 mulig \u00e5 finne\/filtrere og sortere (etter kolonne) funksjoner i sideredigeringen."
+        },
+        "22909e7eae1a80cc9d6a65aa646e1336": {
+            "text": "Du m\u00e5 velge her hvis du angir en paginasjonsgrense."
+        },
+        "2a9a73daf37df8e07a532a0a56fb9566": {
+            "text": "Hvis den er tom, brukes teksten \"Legg til rad\"."
+        },
+        "3307dae74d703d05dd9385ad80546a82": {
+            "text": "N\u00e5r dette er aktivert, vil dobbeltklikk p\u00e5 s\u00f8ppelikonet markere alle rader for sletting. Brukeren kan eventuelt slette alle rader p\u00e5 tvers av alle pagineringene (n\u00e5r de er i bruk) ved \u00e5 klikke p\u00e5 en egen avkrysningsrute."
+        },
+        "8da450061999e83ca7476660349dbaa2": {
+            "text": "Felt som lar deg definere en databasetabell over egendefinerte felter."
+        },
+        "52b1605eff065e9e0adbae5c02b42278": {
+            "text": "Endringer i databaseskjema er utf\u00f8rt."
         }
     }
 }
