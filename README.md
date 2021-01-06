@@ -23,7 +23,7 @@ Linked modules should be completed. Unlinked modules are work in progress.
 * [Funky Functions – TextFormatterFunkyFunctions](https://github.com/blynx/TextformatterFunkyFunctions)
 * [Import External Images – ImportExternalImages](https://modules.processwire.com/modules/import-external-images/)
 * Jumplinks
-* Link Checker
+* [Link Checker – ProcessLinkChecker](https://github.com/teppokoivula/ProcessLinkChecker)
 * [Map Marker – FieldtypeMapMarker](https://processwire.com/modules/fieldtype-map-marker/)
 * Markup RSS Feed enhanced
 * [Page Field Edit Links – AdminPageFieldEditLinks](https://modules.processwire.com/modules/admin-page-field-edit-links/)

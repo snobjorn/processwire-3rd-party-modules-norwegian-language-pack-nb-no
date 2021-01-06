@@ -214,6 +214,102 @@
         },
         "3c8b76cb32e10c897809d55ecb43d046": {
             "text": "Gjengivningsmetode"
+        },
+        "677dd516be1b376890fd33729ddf1b5d": {
+            "text": "Brukes til \u00e5 redusere minnebruk under gjennoms\u00f8king av lenker. Mindre partist\u00f8rrelse bruker mindre minne, men krever flere databasesp\u00f8rringer."
+        },
+        "600e6569416a796e5ff0187534a29432": {
+            "text": "Hvil mellom partier"
+        },
+        "1c1267583c4a7a98b9f1dedfd6bcfa24": {
+            "text": "Hvor lenge skal robots\u00f8keprogrammet hvilke mellom hvert parti med sider, i sekunder?"
+        },
+        "2f9e199a1107a6388452755ab58a97e3": {
+            "text": "Brukes til \u00e5 redusere belastningen b\u00e5de for lokal server (den ene gj\u00f8r foresp\u00f8rslene) og i motsatt ende. Standardverdien er ett sekund."
+        },
+        "e8cf18e068a8522e333d6cdf9cf11691": {
+            "text": "Hvil mellom foresp\u00f8rsler"
+        },
+        "dded7d502d3ffbcc225832f552909acb": {
+            "text": "Hvor lenge skal robots\u00f8keprogrammet hvile mellom hver foresp\u00f8rsel, i sekunder?"
+        },
+        "9f778d26d876996cd29dbd6448d3fa67": {
+            "text": "Hvilke mellom sider"
+        },
+        "c4468f687d8f38a0e3c68911d2b4a010": {
+            "text": "Hvor lenge skal robots\u00f8keprogrammet hvilke mellom hver kontrollerte side, i sekunder?"
+        },
+        "3b7cf643072091cb74b9e91488c4355d": {
+            "text": "Brukes til \u00e5 redusere belastningen b\u00e5de for lokal server (den ene gj\u00f8r foresp\u00f8rslene) og i motsatt ende. Deaktivert som standard."
+        },
+        "dc99a4916a3a37137ac879525d3e6c4a": {
+            "text": "HTTP-foresp\u00f8rselmetode"
+        },
+        "3f69c775dd151db4658f88bb5afd7541": {
+            "text": "Standard foresp\u00f8rselmetode er get_headers()."
+        },
+        "037dce03b23350e3fd3f1ebbced0f950": {
+            "text": "Brukeragent-header til \u00e5 sende med HTTP-foresp\u00f8rslene. Noen tjenester kan tillate\/nekte tilgang (eller presentere annet innhold) basert p\u00e5 dette."
+        },
+        "2b7004ea398c5273dc349ab16c211ed9": {
+            "text": "Hvor lenge skal vi vente f\u00f8r vi sjekker en tidligere kontrollert lenke igjen?"
+        },
+        "a9a032b6aa7b863fdc1da2256030e4f1": {
+            "text": "Hurtigbufferstatus er forel\u00f8pig ukjent p\u00e5 grunn av et potensielt databaseproblem."
+        },
+        "3686b1463f9a88738a622a9355b7ea3b": {
+            "text": "Totalt %d koblinger er for \u00f8yeblikket bufret."
+        },
+        "8db7df66ab1d7ab5f1dc947acdb5fae4": {
+            "text": "="
+        },
+        "e56b78c62f07ea3caeb58edaf042d7dc": {
+            "text": "Definer hvor mye som blir logget av robots\u00f8keren."
+        },
+        "5879121740948b2f05a3c6aa3570fd3b": {
+            "text": "Start p\u00e5 hver s\u00f8king"
+        },
+        "fbade98c9c2abd52925f349a563cecc6": {
+            "text": "Gjennoms\u00f8kte sider"
+        },
+        "cfdd333c149a329bd7520eaf53a47690": {
+            "text": "Gjennoms\u00f8kte sider og nettadresser som er funnet"
+        },
+        "381503e2e1ffecf9b0539fd49e132d82": {
+            "text": "Gjennoms\u00f8kte sider, nettadresser som er funnet og rekursivt kontrollerte nettadresser"
+        },
+        "9c4164950261207cf6ca24568bc32889": {
+            "text": "Loggrotasjon"
+        },
+        "82f527e3d85b68397da5ca9c73d31d1b": {
+            "text": "Hver loggfil inneholder detaljer om en robots\u00f8kkj\u00f8ring. Denne innstillingen definerer hvor mange loggfiler for tidligere kj\u00f8ringer som skal beholdes."
+        },
+        "77a2dfeac7d622f5f1ca6dd8118a8511": {
+            "text": "Som standard beholdes bare den siste loggfilen; hver kj\u00f8ring erstatter filen med ny."
+        },
+        "44068a8e7526fbb6bb6361eebec17d45": {
+            "text": "Definer hvilken gjengivelsesmetode som skal brukes. V\u00e6r oppmerksom p\u00e5 at spesielt *exec*-metoden kan v\u00e6re risikabel, s\u00e5 unng\u00e5 \u00e5 gj\u00f8re endringer her med mindre du vet hva du gj\u00f8r."
+        },
+        "943315020e2214345ca9504c31514adb": {
+            "text": "Gjengivelsesmetoden 'exec' er deaktivert fordi dette systemet ikke tillater bruk av exec()-kommandoen."
+        },
+        "e161146ced6f3ff9f7d3bfbcdff8a7fb": {
+            "text": "Gjengi felter: Trygt standardalternativ, men resultatet samsvarer ikke n\u00f8dvendigvis med det endelige sideinnholdet"
+        },
+        "315383bd5e7d525005a11f89d8d1c594": {
+            "text": "Gjengi side: Gir mer realistiske resultater, men kan kreve ytterligere justeringer av malfiler"
+        },
+        "4d41013364e8cbb93ff7c2b5f0fe5416": {
+            "text": "Exec: Gir realistiske resultater uten \u00e5 kreve justeringer til malfiler, men bruker exec()-metoden og fungerer ikke p\u00e5 alle servere"
+        },
+        "d35ac295fef024de0c04abc84152d57d": {
+            "text": "Ukjent eller ikke-standard statuskode"
+        },
+        "1a11e66dd2f8054983d98884381ff343": {
+            "text": "Denne grafen viser antall lenker og sider p\u00e5 nettstedet. Noen ukontrollerbare lenker og sider kan forventes, men hvis antallet blir for stort, kan det v\u00e6re et tegn p\u00e5 et problem."
+        },
+        "dcab2dd96ce1a35418a8b7aeb0ed5e42": {
+            "text": "Denne grafen skisserer helsen til lenkene p\u00e5 nettstedet. Mens \u00f8delagte lenker og serverfeil er det du b\u00f8r v\u00e6re mest bekymret for, kan viderekoblinger f\u00f8re til ekstra forsinkelse for brukerne, og kan ogs\u00e5 antyde at noe innhold er i ferd med \u00e5 forsvinne."
         }
     }
 }
