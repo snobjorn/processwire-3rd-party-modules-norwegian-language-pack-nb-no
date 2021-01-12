@@ -17,6 +17,7 @@ Linked modules should be completed. Unlinked modules are work in progress.
 * [Admin Restrict Branch – AdminRestrictBranch](https://modules.processwire.com/modules/admin-restrict-branch/)
 * [Color – FieldtypeColor](https://modules.processwire.com/modules/fieldtype-color/)
 * [ConnectPageFields – ConnectPageFields](https://processwire.com/modules/connect-page-fields/)
+* Changelog
 * [Custom Upload Names – ProcessCustomUploadNames](https://modules.processwire.com/modules/process-custom-upload-names/)
 * [Dynamic Roles – DynamicRoles](https://github.com/ryancramerdesign/DynamicRoles)
 * [Email/SMS Two-Factor Authentication – TfaEmail](https://modules.processwire.com/modules/tfa-email/)
