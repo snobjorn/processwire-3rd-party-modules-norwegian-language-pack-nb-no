@@ -304,6 +304,60 @@
         },
         "6f8d1b93e4aad53511c85e29ed36b3d0": {
             "text": "(standard)"
+        },
+        "8ad0889e260991fdddd4730a35287dad": {
+            "text": "Klikk og dra for \u00e5 justere feltbredden"
+        },
+        "a2438d2b8252f514d7eb6a2bed41d7c0": {
+            "text": "P\u00e5krevd dersom: %s"
+        },
+        "b651efdb98a5d6bd2b3935d0c3f4a5e2": {
+            "text": "P\u00e5krevd"
+        },
+        "582da1f36d5de980ef1600565d0b7ec9": {
+            "text": "Dobbeltklikk for \u00e5 sl\u00e5 av eller p\u00e5 feltets \"obligatorisk\"-status"
+        },
+        "5325facbe6d4fa09ad883fab58fd9e5b": {
+            "text": "Vis dersom: %s"
+        },
+        "b74a2fb2098acb61da748a4f52057e6a": {
+            "text": "Fordi skjemaet ditt har sideskift\/paginasjoner, m\u00e5 du ogs\u00e5 aktivere \"Lagre i oppf\u00f8ringsdatabase\" i \"Handlinger\" -fanen."
+        },
+        "58e55d954624a160d1c9cc88333dfbaa": {
+            "text": "Paginasjoner\/sideskift"
+        },
+        "6580cac7facaa250a7eef053ba5cbd90": {
+            "text": "Vis overskrift over hver paginering?"
+        },
+        "839b310219ff3e103d12134d8f967dbc": {
+            "text": "N\u00e5r det blir brukt, vil overskriften som vises v\u00e6re merkelappen for hvert sideskiftfelt."
+        },
+        "edc78c771f954393ebe7bc30d66c983c": {
+            "text": "En H2- eller H3-overskrift anbefales, med mindre en annen overskrift gir mer mening i nettstedstrukturen."
+        },
+        "f046a764946d300413efd65519b2b32a": {
+            "text": "N\u00e5r du bruker overskrifter, er det verdt \u00e5 plassere et sideskiftfelt som det f\u00f8rste feltet i skjemaet, slik at den f\u00f8rste sideinddelingen ogs\u00e5 kan ha en overskrift."
+        },
+        "891d6dcb05ef5e6def0af69396be2fa3": {
+            "text": "Hvis du skriver inn en \"beskrivelse\" for et hvilket som helst sideskiftfelt, vil den vises \u00f8verst i paginering (under overskrift, hvis den er tilstede) uavhengig av denne innstillingen."
+        },
+        "074de7e7c226d5c60f8af14c20725352": {
+            "text": "F\u00f8rste"
+        },
+        "0c7d6cf19426e01dcfa32434828ed266": {
+            "text": "Andre"
+        },
+        "0521727bc2cea17905e963461d5a0f19": {
+            "text": "Tredje"
+        },
+        "c217982fe63eec047710cfffdebe2218": {
+            "text": "Fjerde"
+        },
+        "e2daa4eedfe99b3f138afb240ce004cb": {
+            "text": "Femte"
+        },
+        "d963f09d1b69f7be93ddcd8f541dca4f": {
+            "text": "Sjette"
         }
     }
 }

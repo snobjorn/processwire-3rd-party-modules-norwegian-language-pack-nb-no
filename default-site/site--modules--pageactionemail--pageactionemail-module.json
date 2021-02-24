@@ -1,5 +1,48 @@
 {
     "file": "site\/modules\/PageActionEmail\/PageActionEmail.module",
     "textdomain": "site--modules--pageactionemail--pageactionemail-module",
-    "translations": []
+    "translations": {
+        "ba75ca71a862bc7e3d8059422fc3af46": {
+            "text": "Sender e-post til %s"
+        },
+        "a1a07545e7284b474d4ea4286bb37a44": {
+            "text": "E-post til"
+        },
+        "ba0165af59711cbd6178a66059947780": {
+            "text": "Skriv inn en e-postadresse ELLER skriv inn navnet p\u00e5 feltet p\u00e5 en side som inneholder e-postadressen (dvs. \"epost\")."
+        },
+        "8cd167020007969c0f834d1d95761f5a": {
+            "text": "For \u00e5 angi flere e-postadresser, skille hver med komma."
+        },
+        "23bf260b922748f3a15b996664ec28a8": {
+            "text": "E-post fra"
+        },
+        "c7892ebbb139886662c6f2fc8c450710": {
+            "text": "Emne"
+        },
+        "f7d5835afc2ef6f539973d4e6a148a67": {
+            "text": "Du kan bruke hvilket som helst feltnavn i {klammeparenteser} for \u00e5 erstatte verdier fra en side."
+        },
+        "ac101b32dda4448cf13a93fe283dddd8": {
+            "text": "Tekst"
+        },
+        "2bddb6ed9005045795ad86cb796ae0a0": {
+            "text": "Sendingsmetode for e-post"
+        },
+        "ded9f21e758b01bc03e1edf300031cdd": {
+            "text": "Autovelg:"
+        },
+        "5b9895b5b86dff06e77461d5139aa42a": {
+            "text": "N\u00e5v\u00e6rende %s"
+        },
+        "74c9741daa7fe677efa883d7c842a177": {
+            "text": "="
+        },
+        "973895f8c059a7b03372d9a64ea87549": {
+            "text": "="
+        },
+        "4d1258aa8feaddc0389be88de22b4e0c": {
+            "text": "For flere valg, installer [WireMail modules](%s)."
+        }
+    }
 }
