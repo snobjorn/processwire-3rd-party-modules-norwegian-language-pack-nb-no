@@ -310,6 +310,9 @@
         },
         "51a4878ab5f98f523a9191d90ef0ec4e": {
             "text": "Etter \u00e5 ha lagt til felter, lagre, kom s\u00e5 tilbake, og du kan klikke p\u00e5 feltene for \u00e5 tilpasse ytterligere detaljer."
+        },
+        "b0256c0aa686862da5fde9d8c4d432b2": {
+            "text": "Forhindre at e-postaliaser (som foo+baz@bar.com) oppretter mer enn 1 konto"
         }
     }
 }
