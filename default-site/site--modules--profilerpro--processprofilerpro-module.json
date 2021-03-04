@@ -82,6 +82,135 @@
         },
         "f8c850174328131f21e47a7e71258cda": {
             "text": "ProfilerPro-konfirgurasjon"
+        },
+        "9ea9314901b539481e238ef2e82a1673": {
+            "text": "Total akkumulert tid"
+        },
+        "42071cb0b9c74346c326f8fc6449e967": {
+            "text": "Sist registrerte tid"
+        },
+        "c70f33da67770018e2b09329905c31a6": {
+            "text": "Raskeste registrerte tid"
+        },
+        "016042d10e42917a2ed3a963bdabe6d0": {
+            "text": "Langsomste registrerte tid"
+        },
+        "736f29f352882114ddfa0d8109b7cfa3": {
+            "text": "Antall hendelser"
+        },
+        "0ef1b9dbed5f605946ce746a594a256d": {
+            "text": "Siden (tiden siden opprettet)"
+        },
+        "c65ee883ef64ab813dc789c13898dcee": {
+            "text": "Nyeste (tid siden sist oppdatert)"
+        },
+        "10814ef5c24ba90172ab73d0b426d9c3": {
+            "text": "kakediagram"
+        },
+        "bec0f5e2efa6a05c1e1b5d09c39e80e5": {
+            "text": "smultringdiagram"
+        },
+        "69d2f3c90ac7b951bee6838ebe49e153": {
+            "text": "Fjernet \u201c%s\u201d-profilhendelser."
+        },
+        "d7778d0c64b6ba21494c97f77a66885a": {
+            "text": "="
+        },
+        "1d2fb8aa6c038b1e369760f497ff7fe2": {
+            "text": "Fjern \u201c%s\u201d hendelser"
+        },
+        "594f5bdc5e1519ce9934d276e5bf081f": {
+            "text": "Ingen hendelser funnet"
+        },
+        "b1eba0eff2e7a62eef91287c86dec2b0": {
+            "text": "Profiler aktivert?"
+        },
+        "5c73b29142dce273800a61609cf033b6": {
+            "text": "Registrer hendelser for"
+        },
+        "d03629e43859623ea27a6fe36d868309": {
+            "text": "Bare superbruker (for testing)"
+        },
+        "5c0ed1b94df4110c051009ac36232f07": {
+            "text": "Handlingstyper \u00e5 registrere"
+        },
+        "1868f95980c464f9b627e798cc30db83": {
+            "text": "Velg hendelsestypene du vil logge og vise. Hver vil f\u00e5 en fane i dette verkt\u00f8yet. Dra for \u00e5 endre rekkef\u00f8lge."
+        },
+        "a8e2e88aedc92db7ddcebba2b4b49866": {
+            "text": "JS-hendelser er p\u00e5 klientsiden, mens resten er p\u00e5 serversiden."
+        },
+        "2798e1b20514c2ff674949f70ba8cbfb": {
+            "text": "JS-hendelser utl\u00f8ser ogs\u00e5 en serverforesp\u00f8rsel bak kulissene, s\u00e5 unng\u00e5 \u00e5 la dem overv\u00e5kes i produksjonsmilj\u00f8er."
+        },
+        "73e893f59a2b42b510db5178e06b884d": {
+            "text": "Tidspresisjon"
+        },
+        "7012dfea635923577c19bd4a5d1b34fd": {
+            "text": "Tidspresisjon som skal vises i hendelseslister (kun for visningsform\u00e5l)."
+        },
+        "4eb18d34d5e9ad650df3147c933b6e78": {
+            "text": "Millisekunder (heltall)"
+        },
+        "da9814fb1658e86bdfb5593e8ddbd4b9": {
+            "text": "Minimum tidsgrense"
+        },
+        "c815f9da3b7a18cfa5089d131ada6c7c": {
+            "text": "Minimum forl\u00f8pt tid som kreves f\u00f8r en hendelse blir registrert."
+        },
+        "ea0959b23634162a106001e28615777c": {
+            "text": "Minimum mengdeterskel"
+        },
+        "276d00bd6d4312602caefd87fee2a7c3": {
+            "text": "Det minste antallet hendelser som kreves f\u00f8r tiden vises."
+        },
+        "9e8545974d67bf9ac01be320732f1dc7": {
+            "text": "Listen over hendelser her oppdateres automatisk hvert [n] sekund."
+        },
+        "d1b8e06947a2ea8094c38981ba9050c3": {
+            "text": "Unng\u00e5 maler"
+        },
+        "1c4ff827ad8b7acd1f5b577febdc8dd5": {
+            "text": "Ikke spor hendelser n\u00e5r den aktuelle siden bruker maler som er valgt her."
+        },
+        "874a474a8c1de09cc579c162e16a28b7": {
+            "text": "Begrens maler"
+        },
+        "0bf0c77327f4658c906dcdffbe7c9f29": {
+            "text": "N\u00e5r valg er til stede, kan du bare spore hendelser for malene som er valgt her."
+        },
+        "3b2470d5ffb31384e9c01908b8d50b1f": {
+            "text": "Hvis ingen er valgt, blir alle maler sporet (bortsett fra \u201cung\u00e5tte maler\u201c)."
+        },
+        "85228dd2b2539a1c9256ec5c23a2b5e2": {
+            "text": "Fjern alle registrerte hendelser"
+        },
+        "0c5a003c6ca7c2d1472b2559fe0521b2": {
+            "text": "Dette fjerner alle hendelser. Hvis du bare vil fjerne visse typer hendelser, bruker du knappen nederst p\u00e5 hver fane."
+        },
+        "059c5dde48cbc89c8815cec968b38017": {
+            "text": "Disse konfigurasjonsinnstillingene er ogs\u00e5 tilgjengelige p\u00e5 ProfilerPro-siden."
+        },
+        "25d48ea952404b4bda887b11b46c63a3": {
+            "text": "Oppdatert konfigurasjon:"
+        },
+        "224b81f7649ff2889594078aa56f57ae": {
+            "text": "For \u00e5 profilere en kodeblokk, plasser linjen nedenfor der du vil starte:"
+        },
+        "385d9b4aa043a148d82a2c75e91fe7b1": {
+            "text": "Plasser deretter denne linjen nedenfor der du vil stoppe:"
+        },
+        "f447857dde189ab547104d0a833b14f1": {
+            "text": "Hvis $profiler ikke er i omfanget, erstatter du $profiler ovenfor med %s."
+        },
+        "6b3a224c31f6bd2e0655fe9b14f9be16": {
+            "text": "Indikerer tid for \u00e5 n\u00e5 fullastet tilstand (window.load), med alle ressurser\/bilder synlige."
+        },
+        "b910980b6179e86f0f98a9dafd47d871": {
+            "text": "Angir tid det tar for \u00e5 n\u00e5 DOM ready-tilstand (dokument.klar)."
+        },
+        "634a541fcbed8fe09a65b827e1305d5b": {
+            "text": "Du kan bruke profiler.stop('ditt-event-navn') i stedet for profiler.stop(hendelse) hvis du foretrekker det."
         }
     }
 }

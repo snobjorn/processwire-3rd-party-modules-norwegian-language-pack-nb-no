@@ -19,6 +19,30 @@
         },
         "91f3a2c0e4424c87689525da44c4db11": {
             "text": "Filer"
+        },
+        "23c9a0d3e23a0e9b2d88e7cad8d24def": {
+            "text": "Tider for \u00e5 gjengi sider"
+        },
+        "5c0cd7127ff21e7f3f9757ae7ea41d0f": {
+            "text": "Tider for \u00e5 gjengi\/kj\u00f8re PHP-filer"
+        },
+        "35ad48797a780091740cbcf14ebc094d": {
+            "text": "Kroker"
+        },
+        "f407416dbfe3b895fa5abacea49e9416": {
+            "text": "Tider for \u00e5 utf\u00f8re kroker"
+        },
+        "d1a902e517d79dd23864d01463507ba1": {
+            "text": "Vanlige $pages API-tidtakere"
+        },
+        "8f706ca0c98462b7459b229fa5c30276": {
+            "text": "Javascript er klar og laster inn hendelsestimere"
+        },
+        "eba428e3d1737e91a86cf6460ba1120d": {
+            "text": "Tider for dine egne tilpassede PHP-hendelser"
+        },
+        "8553aaa4df26d70da762590e87638006": {
+            "text": "Tider for dine egne Javascript-hendelser"
         }
     }
 }

@@ -61,5 +61,5 @@ Linked modules should be completed. Unlinked modules are work in progress.
 * [ProFields: Text Blocks – TextformatterTextBlocks](https://processwire.com/talk/forum/46-autolinks-text-blocks-textformatters/)
 * [ProFields: Textareas – FieldtypeTextareas](https://processwire.com/talk/forum/44-textareas/)
 * [ProFields: Verified URL – FieldtypeVerifiedURL](https://processwire.com/talk/topic/6413-profields-download/)
-* ProfilerPro
+* [ProfilerPro – ProcessProfilerPro](https://processwire.com/store/pro-dev-tools/profiler-pro/)
 * ProMailer
