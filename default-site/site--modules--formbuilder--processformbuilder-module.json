@@ -358,6 +358,75 @@
         },
         "d963f09d1b69f7be93ddcd8f541dca4f": {
             "text": "Sjette"
+        },
+        "3f89b5c30a334bb4a140a2059b7d4e92": {
+            "text": "Vis velgerboks til paginasjonsnavigering over skjema?"
+        },
+        "a455a823df9c3dadb90f0e558bfcdc75": {
+            "text": "Dette gj\u00f8r det mulig for brukere \u00e5 hoppe til hvilken som helst paginering ved \u00e5 velge den fra en velger\/rullegardin."
+        },
+        "afa9be2fcade26f44143601d5f1556df": {
+            "text": "Hvis det ikke vises noen overskrift eller beskrivelse for paginering, gj\u00f8r begge \"Vis\"-alternativene det samme."
+        },
+        "ddd8f3762cf4748e24786f138857c032": {
+            "text": "Vis f\u00f8r pagineringens overskrift\/beskrivelse"
+        },
+        "a0ef7ba09f0bc9d6fe99e221e20b3a7d": {
+            "text": "Vis etter pagineringens overskrift\/beskrivelse"
+        },
+        "675798f01a9c9e2e8b3008bde99723bd": {
+            "text": "Pagineringens lagringstype"
+        },
+        "59fc8da2b531883585f9f7cc7eaac165": {
+            "text": "Hvordan inndata fra bruker fra hver sideinddeling blir lagret til skjemaet er klart til \u00e5 sendes inn."
+        },
+        "e7acb323b67efc8a8b20883725602fb3": {
+            "text": "Alternativet \u201cdatabase\u201d anbefales hvis skjemaet har filopplastingsfelt eller hvis det kan ta brukeren flere \u00f8kter \u00e5 fullf\u00f8re skjemaet."
+        },
+        "6ea8d187d705bf8387ccd69e92eb121f": {
+            "text": "N\u00e5r en brukers IP-adresse kan endre seg mellom sidene, n\u00e5r du bruker alternativet \"\u00f8kt\", er det en god ide \u00e5 [deaktivere](%s) \"sessionFingerprint\" i \/site\/config.php."
+        },
+        "d63e446bf760659d7d3bcfec84b12007": {
+            "text": "N\u00e5r du bruker \"database\"-alternativet, er det \u00e5 foretrekke \u00e5 huke av i boksen for \u00e5 deaktivere \u00f8ktsporing\/CSRF (se videre nedenfor)."
+        },
+        "71c7ae294b7abd866b3fb295b3b9e4a4": {
+            "text": "\u00d8kt"
+        },
+        "e307db07b3975fef922a80d07455ee5e": {
+            "text": "="
+        },
+        "4307a6550ec55baab879ad3a9bc77a0e": {
+            "text": "Slett delvise oppf\u00f8ringer fra databasen etter hvor mange dager med inaktivitet?"
+        },
+        "945ab6422707e0b73ab3861c8fd3b8cb": {
+            "text": "Deloppf\u00f8ringer er skjemainnleveringer som har startet, men som enn\u00e5 ikke er ferdige. Ufullstendige oppf\u00f8ringer b\u00f8r slettes etter en viss periode."
+        },
+        "3e34d60ea65a86f52c2d80a7fa2a2ead": {
+            "text": "Angi en verdi p\u00e5 1 eller flere dager. Hvis utelatt eller 0, antas 14 dager."
+        },
+        "58fb1d2f69334c6db931c0c58f1ab216": {
+            "text": "Skjemaskiftere"
+        },
+        "1560d23215cecd9a33be7a7ebb91f8fb": {
+            "text": "Forh\u00e5ndsinnstilte feltverdier fra GET-variabler?"
+        },
+        "9fdae987c54b51707efb149c792c8cd6": {
+            "text": "Hvis det er merket av, og en GET-variabel er tilstede med samme navn som et skjemafelt, vil skjemafeltet v\u00e6re forh\u00e5ndsinnstilt med verdien fra den."
+        },
+        "e3847cf8759cf378d1919641ee9c3232": {
+            "text": "Vil du deaktivere \u00f8ktsporing og CSRF-beskyttelse?"
+        },
+        "2fe769a1ab5589a4215f7ca18dea78d6": {
+            "text": "N\u00e5r dette er avmerket, vil Form Builder godta alle innleveringer, i stedet for \u00e5 pr\u00f8ve \u00e5 matche dem opp til brukeren som s\u00e5 skjemaet. Det er tryggest \u00e5 la dette v\u00e6re avmerket (standard), da det kan bidra til \u00e5 redusere spam og forhindrer mot CSRF (forfalskning p\u00e5 tvers av nettsteder). Hvis du ikke vil stole p\u00e5 \u00f8kter, bufrer skjemautdata eller sender innleveringer til et annet behandlingsskript, b\u00f8r du merke av i denne boksen for \u00e5 deaktivere \u00f8ktsporing."
+        },
+        "ea4fa6da8ae2c578b85898132bac9827": {
+            "text": "Huske angitte skjemafeltverdier ved hver endring?"
+        },
+        "6194da508b4d29ccbc456cffe42fb48f": {
+            "text": "N\u00e5r dette er merket, vil skjemaverdiene lagres i en informasjonskapsel ved hvert feltendring, selv f\u00f8r innlevering. Dette betyr at brukeren kan navigere vekk fra skjemaet, og alt de skrev inn vil fremdeles v\u00e6re der n\u00e5r de kommer tilbake."
+        },
+        "43a52ed1482909d8a20132b22b7e9c09": {
+            "text": "Denne innstillingen skal bare brukes med ensidige (ikke-paginerte) skjemaer."
         }
     }
 }

@@ -16,6 +16,81 @@
         },
         "6686b74a793b1392f4a37f72b6dd0245": {
             "text": "Eksporteringsinnstillinger til CSV"
+        },
+        "265273758c9ae2a8580bb61c39b4796c": {
+            "text": "Disse innstillingene brukes til skjemainnleveringer som inkluderer filopplastinger."
+        },
+        "bdcb5b0ce78c61372f77c2f57347d20b": {
+            "text": "Innstillinger for spamforebygging"
+        },
+        "d68b47828b57345f626b1b8448eb3a2d": {
+            "text": "Skjema- og feltinnstillinger"
+        },
+        "5e531298aa77bb55d472183aac90f1ee": {
+            "text": "Tillatte inndatatyper"
+        },
+        "e716aeacdc83bdf2cde5510be5336534": {
+            "text": "Velg inndatafelttypene du vil tillate for felter i Form Builder."
+        },
+        "c28cad5066890a41d9bc168f8ce8b6ec": {
+            "text": "Ikke alle inndatafelttypene kan bli brukt med FormBuilder."
+        },
+        "8f681c5f221e2a431ecbf6f8d72304da": {
+            "text": "Hvis du legger til flere typer, m\u00e5 du teste dem grundig i skjemaene dine p\u00e5 fronten (mens du ikke er logget p\u00e5)."
+        },
+        "9043c26b9cd927fa9ad8b3796cc1ef63": {
+            "text": "Innstillinger for skjemainnbygging"
+        },
+        "83660d5dd3b7696a91809c69990aa6ba": {
+            "text": "Tillatte innebygde felter"
+        },
+        "448df66e0d37c734a5ae759a0393e066": {
+            "text": "Kryss av i alle feltene som har lov til \u00e5 ha skjemaer innebygd ved hjelp av metoden for enkel innbinding. Enkel innebygging lar deg skrive en spesiell \"innebygd kode\" p\u00e5 sin egen linje og f\u00e5 skjemaet automatisk satt inn der n\u00e5r siden vises. Vi anbefaler p\u00e5 det sterkeste at du bruker enkel innebygging, men hvis du ikke bruker den, kan du la alt v\u00e6re avkrysset."
+        },
+        "ee8086d28d1290151d0210cff225d790": {
+            "text": "Tips: Velg hovedfeltet for tekstomr\u00e5de for enkel innbygging."
+        },
+        "640449e75130c86ef12accb3cf6291ef": {
+            "text": "Disse innstillingene brukes n\u00e5r du sender e-post fra administrator eller autosvar."
+        },
+        "f043582ad2de4649d177efa8147366b6": {
+            "text": "Standard fra-e-postadresse"
+        },
+        "74944d06d110ed29c66a37503ef46d76": {
+            "text": "Hvis mulig, vennligst skriv inn en e-postadresse som denne serveren har lov til \u00e5 sende med (per DNS-innstilling)."
+        },
+        "3dd6db50bd2af79ef0a18dd5a87ab531": {
+            "text": "Denne innstillingen kan overstyres for hvert skjema. Verdien som er angitt her vil bli brukt som standard."
+        },
+        "d180868c6f177c67e56f57880c2ec0f7": {
+            "text": "Merk at hvert skjema ogs\u00e5 lar deg spesifisere en egen \u201cSvar til\u201d-adresse."
+        },
+        "9a8be7c8ac651dda680f9462cf35bdd0": {
+            "text": "="
+        },
+        "cf2b2faa869ade652d01aae11e4ec291": {
+            "text": "Metode for sending av e-post (WireMail-modul)"
+        },
+        "26396be8741c545355792ec88c55db3d": {
+            "text": "For flere sendealternativer kan du installere [WireMail-moduler](%s)."
+        },
+        "6f2986a4e360c7afe3e426f2ff568c8c": {
+            "text": "Automatisk gjenkjenning"
+        },
+        "ae6dcf79e920e350a1598da7d3922f16": {
+            "text": "Disse innstillingene brukes n\u00e5r du eksporterer skjemaoppf\u00f8ringer til CSV-filer."
+        },
+        "4f1e1917e57cb15e239466389e8df089": {
+            "text": "Vi foresl\u00e5r at du lar alle disse innstillingene v\u00e6re som de er, med mindre du har et spesifikt behov for \u00e5 endre dem."
+        },
+        "cc35f22ebccfc66121a8647cf172463f": {
+            "text": "Markering for innebygd iframe"
+        },
+        "5a0ace40b206e639f24eef45080e2849": {
+            "text": "Dette er iframe-markeringen som brukes av innebygd metode A og B."
+        },
+        "034c974cac04ff61bb618845e7af6ce5": {
+            "text": "Merk: Disse konfigurasjonsinnstillingene gjelder bare for skjemaer som bruker \"Legacy\"-rammeverket. Vi foresl\u00e5r at du lar disse innstillingene v\u00e6re som de er."
         }
     }
 }
