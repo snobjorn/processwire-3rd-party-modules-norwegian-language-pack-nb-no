@@ -79,6 +79,63 @@
         },
         "fe76f4a376fdd3e73aacb8da9b40a420": {
             "text": "Oppdaterte sorteringsrekkef\u00f8lge"
+        },
+        "666a63eeee0c2ccaf3522cc4a58108d9": {
+            "text": "Maksimalt antall filer n\u00e5dd"
+        },
+        "7c390401d8b5c9135d6b92821ac37d52": {
+            "text": "Oppdatert beskrivelse til filen: %s"
+        },
+        "f5f2b43c56d643a457f1927c18f0bf4d": {
+            "text": "Opplastingssti eksisterer ikke eller er ikke skrivbar"
+        },
+        "db4530ce83046ea24b969c2092a07034": {
+            "text": "Filst\u00f8rrelsen overstiger maks tillatt filst\u00f8rrelse"
+        },
+        "4c923590884a490e3c2322e11953053b": {
+            "text": "Kan ikke validere filen: %s"
+        },
+        "2448e1bacc6575fbc3a160dfe8923151": {
+            "text": "Valideringen av filen mislyktes: %s"
+        },
+        "411cb69e821bd87584e3e80e538440f0": {
+            "text": "Kan ikke \u00e5pne som bildefil"
+        },
+        "a59bb8dd7045edd38341f0ee52e10ece": {
+            "text": "Filen oppfyller ikke minimumsdimensjoner"
+        },
+        "93bc96e6d535a1a0e5c2360d15a0717c": {
+            "text": "Filen overskrider maksimalt tillatte dimensjoner"
+        },
+        "600bb47117786a8141b15126d586f639": {
+            "text": "Fil med filetternavn %1$s m\u00e5 v\u00e6re av typen: %2$s"
+        },
+        "1d30b747e97ebca40e515d3b5494165a": {
+            "text": "Filen av typen %1$s m\u00e5 ha filetternavn: %2$s"
+        },
+        "a948626f3a519cb7c53c66f6991b22f1": {
+            "text": "Fil av typen %s er ikke tillatt for dette feltet"
+        },
+        "fa49f48c80e2b616f44863df26c3bcb4": {
+            "text": "P\u00e5krevd MIME-type per filtype"
+        },
+        "e66914b0fb50ad96ade8a49cb68c244e": {
+            "text": "P\u00e5 hver linje angir du en av ex:type` der \u201cex\u201d er filtypen og \u201ctype\u201d er MIME-typen som kreves for den filtypen."
+        },
+        "729f3b4c79112109a0469fae89f98c2f": {
+            "text": "Merk at tillatte filetternavn er spesifisert med feltinnstillinger, s\u00e5 denne listen tilordner bare filetternavn til MIME-typer for validering."
+        },
+        "b9243d9a3ca0639510b196a3a281002a": {
+            "text": "Men eventuelle opplastinger av filtyper som ikke er spesifisert her, godtas ikke uavhengig av feltinnstillinger."
+        },
+        "39244ae4e5464878e30901853c334edb": {
+            "text": "Det er greit \u00e5 spesifisere flere linjer med samme filetternavn hvis flere MIME-typer er akseptable for det."
+        },
+        "022d267c2f276f3fe69bcb2bd8915d7e": {
+            "text": "For \u00e5 deaktivere MIME-typekontroller, gj\u00f8r dette feltet tomt (anbefales ikke)."
+        },
+        "f28824a26e36462e46be6cd4923a027b": {
+            "text": "Hvis du skal bruke denne modulen for opplasting av bildefiler, m\u00e5 du installere %s-modulen n\u00e5."
         }
     }
 }
