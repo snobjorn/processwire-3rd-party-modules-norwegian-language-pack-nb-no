@@ -8,14 +8,14 @@
         "cfcc31ef0aa4f562eb31a9ba4226317f": {
             "text": "Viss \"Nei\" er valgt, sjekking etter oppgraderinger vil kun skje manuelt n\u00e5r du trykker Oppsett > Oppgraderinger."
         },
-        "716f5e2e44f2093376d9ea23d3616180": {
-            "text": "Automatisk sjekk av oppgradering krever ProcessWire 2.5.20 eller nyere."
-        },
         "93cba07454f06a4a960172bbd6e2a435": {
             "text": "Ja"
         },
         "bafd7322c6e97d25b6299b5d6fe8920b": {
             "text": "Nei"
+        },
+        "6593b8de23332fca9ff5450fb3880c24": {
+            "text": "Automatisk oppgradingssjekk krever ProcessWire 3.0.123 eller nyere."
         }
     }
 }

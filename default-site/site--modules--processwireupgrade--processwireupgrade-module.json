@@ -5,12 +5,6 @@
         "1063e38cb53d94d386f21227fcd84717": {
             "text": "Fjern"
         },
-        "e55f75a29310d7b60f7ac1d390c8ae42": {
-            "text": "Modul"
-        },
-        "9bd81329febf6efe22788e03ddeaf0af": {
-            "text": "Klasse"
-        },
         "98dd43dfae05b11befe1f140e0ec787a": {
             "text": "Installert"
         },
@@ -46,6 +40,39 @@
         },
         "ec53a8c4f07baed5d8825072c89799be": {
             "text": "="
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Hold frem"
+        },
+        "cd56aaa6883976c9794319e1fe62137a": {
+            "text": "Modultittel"
+        },
+        "07403a8bc81d7865c8e040e718ec7828": {
+            "text": "Modulnavn"
+        },
+        "bd908db5ccb07777ced8023dffc802f4": {
+            "text": "Lenker"
+        },
+        "f9851a0ac401adf4200e603538e11c5e": {
+            "text": "Fjernet: %s"
+        },
+        "1f793cae8f945a6e43bec0c91379d310": {
+            "text": "Kjerneoppgradering"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Oppdatert"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "I\/T"
+        },
+        "d717e3fe9a533ec6594934a0f190c26a": {
+            "text": "Siste oppdatering: %s"
+        },
+        "acaaa1b525bac31d62c41ffe39d0e532": {
+            "text": "Oppdatert modulversjonsdata"
+        },
+        "33cd95b70e91cd838203f438c9d5bfc4": {
+            "text": "Feil med tillatelse ved fjerne av sti (vennligst fjern manuelt): %s"
         }
     }
 }
