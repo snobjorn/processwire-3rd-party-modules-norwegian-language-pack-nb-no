@@ -427,6 +427,54 @@
         },
         "43a52ed1482909d8a20132b22b7e9c09": {
             "text": "Denne innstillingen skal bare brukes med ensidige (ikke-paginerte) skjemaer."
+        },
+        "121bb2c5b9c08c85c027094218833d2f": {
+            "text": "Er dette skjemaet utelukkende for inkludering i andre former?"
+        },
+        "e2deb6d1eeaa8eab64a1cc6a89cbb73a": {
+            "text": "Ett skjema kan inkludere et annet ved \u00e5 legge til et felt av typen \"skjema\"."
+        },
+        "2e98d76950c9469a1a355ce33e76146a": {
+            "text": "Hvis det eneste form\u00e5let med dette skjemaet er \u00e5 inkluderes fra et annet skjema, vil avmerkingen i denne boksen forbedre effektiviteten ved \u00e5 deaktivere noen un\u00f8dvendige funksjoner."
+        },
+        "2c49bfce3d2304303755d16cadaca142": {
+            "text": "N\u00e5r du bruker dette alternativet, vil du kanskje ogs\u00e5 deaktivere skjemaet (se nedenfor)."
+        },
+        "7c427b59a636ef3aa9758996ceb17926": {
+            "text": "Vil du deaktivere at skjemaet blir gjengitt og behandlet?"
+        },
+        "6f7c7e286b44b6d9e106e1530e7f6450": {
+            "text": "Et deaktivert skjema vil ikke gjengi eller godta nye oppf\u00f8ringer, bortsett fra hvis brukeren har tilgang til \u00e5 redigere det ELLER hvis det er inkludert fra et annet skjema."
+        },
+        "c57dd3bb0c047f5a5a2a93ff53f9b711": {
+            "text": "Deaktiverte skjemaer vises heller ikke i rullegardinmenyen, men gj\u00f8r det p\u00e5 listen over hovedskjemaer."
+        },
+        "6fe99b8928e4d8dd9e1853a7de932717": {
+            "text": "Deaktiver bruk av modale vinduer i FormBuilder-administratoren?"
+        },
+        "5a417dcc486d62864ad9a806d922531c": {
+            "text": "N\u00e5r dette er merket, slutter FormBuilder-administratoren \u00e5 bruke modale vinduer ved redigering av felter og andre steder."
+        },
+        "b397fad778281f68b2fc38ffba10f97a": {
+            "text": "Konfigurer ett eller flere tiltak for \u00e5 forhindre spam."
+        },
+        "daab5d2d514cf7d293376be3ded708f0": {
+            "text": "="
+        },
+        "10ac3d04253ef7e1ddc73e6091c0cd55": {
+            "text": "Neste"
+        },
+        "0557fa923dcee4d0f86b1409f5c2167f": {
+            "text": "Forrige"
+        },
+        "6edeee72a7d85ef313c9e52a07ebd72a": {
+            "text": "="
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Grunnleggende"
+        },
+        "4ec2fa1aa32d93e6fd11a255fc3507bc": {
+            "text": "+"
         }
     }
 }
