@@ -40,6 +40,96 @@
         },
         "23c2d1263f87ad9ea218b5828be9f5d1": {
             "text": "Standard lenke til XSL-stilark"
+        },
+        "90d79115ac49ade8679c6b9ed48cc51f": {
+            "text": "Produserer en RSS-str\u00f8m. Gitt et *PageArray*, gjengir en RSS-str\u00f8m av det med valgfri fil eller bilde."
+        },
+        "85785b69e85ba22692acfcf9b656838f": {
+            "text": "Velg standardalternativene for en gitt str\u00f8m. Hver av disse kan overstyres i API-et,"
+        },
+        "1b2255d05716d1c0f9f2b8400c37c041": {
+            "text": "s\u00e5 alternativene du velger nedenfor, skal betraktes som standard, med mindre du bare har 1 str\u00f8m."
+        },
+        "09df788f533223b051e07ef7a4b48dbe": {
+            "text": "Hvis du bare trenger \u00e5 st\u00f8tte en str\u00f8m, trenger du ikke \u00e5 overstyre noen av disse i API-et."
+        },
+        "eeea4f554149903f719c87a69a647be1": {
+            "text": "Kanalelementet beskriver RSS-str\u00f8mmen og gir global informasjon om str\u00f8mmen."
+        },
+        "80127003811d553bc7435c8f700f3ee9": {
+            "text": "Nettadressen p\u00e5 nettstedet ditt som fungerer som en indeks for str\u00f8mmer. Kan ogs\u00e5 st\u00e5 tomt."
+        },
+        "0c910ef8dd0f42f1bbfd4592333da2e5": {
+            "text": "Standardbeskrivelsen for en str\u00f8m. Kan ogs\u00e5 st\u00e5 tomt."
+        },
+        "02979e35fddb16779f468c28cf923ea2": {
+            "text": "Standard opphavsrettserkl\u00e6ring for str\u00f8mmer"
+        },
+        "adde5ae60750dd0eced1965e9fa2cdd5": {
+            "text": "Standard opphavsrettserkl\u00e6ring for en str\u00f8m. Standard er tom."
+        },
+        "4ca6e5a93ec809c363f0cb159331fcbf": {
+            "text": "Standard str\u00f8m-TTL"
+        },
+        "d31892114661a8cf5a411434e1bfe138": {
+            "text": "TTL st\u00e5r for \"levetid\" p\u00e5 f\u00e5 minutter. Det indikerer hvor lenge en kanal kan bufres f\u00f8r den oppdateres fra kilden. Standard er 60."
+        },
+        "f64c7dea010bed5c8b3df7945fef1470": {
+            "text": "Elementelementer"
+        },
+        "b96309c9c8c180ce940f4afed28f100a": {
+            "text": "Standard tittelfelt for str\u00f8melement"
+        },
+        "acf8cca6a364b8fe2505aff10c7381e3": {
+            "text": "Standardfeltet som skal brukes som et individuelt str\u00f8melements tittel."
+        },
+        "0e807dc2fbc8ead5c70ec375850a0e9e": {
+            "text": "Standard beskrivelsesfelt for str\u00f8melement"
+        },
+        "52229018d17b411d10dfbf6c112bfed6": {
+            "text": "Standardfeltet som skal brukes som beskrivelse av et enkelt str\u00f8melement (vanligvis et sammendrag eller hovedfelt)."
+        },
+        "e94abf1d4ca31f1ea0e81079f8bfa884": {
+            "text": "Maksimum tegn for beskrivelsesfelt for str\u00f8melement"
+        },
+        "53d9b95c91b1edd956cf3508b84d1fd0": {
+            "text": "Elementbeskrivelsen blir avkortet for ikke \u00e5 v\u00e6re lengre enn den maksimale oppgitte lengden. Spesifiser '0' uten maksimal lengde. N\u00e5r det ikke er maks lengde), blir ikke merketegn fjernet."
+        },
+        "87fa1644557cab6059422fa8dd91cef6": {
+            "text": "Standard datofelt for str\u00f8melement"
+        },
+        "8ecebe3ffbe0732b6efa1deed17ce0a5": {
+            "text": "Standardfeltet som skal brukes som dato til et individuelt str\u00f8melement."
+        },
+        "9676d90bbe676eb8f783596958f4c8c4": {
+            "text": "Standard lenkefelt for str\u00f8melmeent"
+        },
+        "3ad56748cc76812c06ad3518a9e6edc7": {
+            "text": "Feltet som skal brukes som kobling til et enkelt str\u00f8melement. La st\u00e5 tomt for \u00e5 bruke siden som lenke."
+        },
+        "33ace2d40fa14d35d7ee865ad29e0519": {
+            "text": "Standard filfelt for str\u00f8melement (vedlegg)"
+        },
+        "ec6b81fd9cdda404b920bb09db99b7c3": {
+            "text": "Standardfeltet som skal brukes som vedlegg for et individuelt feedelement. (Hvis feltet inneholder en rekke *Pagesfiles*, vil den f\u00f8rste brukes.)"
+        },
+        "31c5bc3aad2b79b91ed1080729bb32dc": {
+            "text": "Bredden p\u00e5 bildet hvis vedlegget er et bilde."
+        },
+        "e1c9ce567ce99904dc153c1bd9096766": {
+            "text": "Avgrensningsboks"
+        },
+        "f9714b6366dcf56274fa530664f9bfb3": {
+            "text": "Skaler bildet til den ene siden n\u00e5r m\u00e5ldimensjonen, spesifisert av bredde og h\u00f8yde."
+        },
+        "82bb14f8042fa062a869d025605aa280": {
+            "text": "Ideell for logo, da det forhindrer beskj\u00e6ring."
+        },
+        "fc0b47f18feb733ad9bd1eb2d67390c7": {
+            "text": "Valgfri nettadresse\/lenke til et XSL-stilark. Standard er ingen."
+        },
+        "bae94b5208470d6384e63d55feec34d6": {
+            "text": "Valgfri nettadresse\/lenke til et CSS-stilark. Standard er ingen."
         }
     }
 }

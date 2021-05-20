@@ -26,7 +26,7 @@ Linked modules should be completed. Unlinked modules are work in progress.
 * Jumplinks
 * [Link Checker – ProcessLinkChecker](https://github.com/teppokoivula/ProcessLinkChecker)
 * [Map Marker – FieldtypeMapMarker](https://processwire.com/modules/fieldtype-map-marker/)
-* Markup RSS Feed enhanced
+* [Markup RSS Feed enhanced](https://processwire.com/modules/markup-rssenhanced/)
 * [Page Field Edit Links – AdminPageFieldEditLinks](https://modules.processwire.com/modules/admin-page-field-edit-links/)
 * [PDF Fieldtype – FieldtypePDF](https://modules.processwire.com/modules/fieldtype-pdf/)
 * [Persistent Login for users – LoginPersist](https://modules.processwire.com/modules/login-persist/)
