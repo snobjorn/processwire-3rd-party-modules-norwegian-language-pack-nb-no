@@ -2,35 +2,122 @@
     "file": "site\/modules\/TextformatterVideoEmbed\/TextformatterVideoEmbed.module",
     "textdomain": "site--modules--textformattervideoembed--textformattervideoembed-module",
     "translations": {
-        "186b41321d80bdded69c38a535254341": {
-            "text": "="
-        },
-        "760bd7fc66330a2b435b3d6c436b7605": {
-            "text": "Skriv inn en hel YouTube- eller Vimeo-URL i et hvilket som helst avsnitt (eksempel: https:\/\/www.youtube.com\/watch?v=Wl4XiYadV_k), og dette vil automatisk konvertere URL-en til en innebygd video. Denne formateringen er ment \u00e5 bli kj\u00f8rt p\u00e5 klarerte inndata. Anbefales for bruk med et TinyMCE tekstomr\u00e5defelt."
-        },
-        "b693aca59ab9d773fbeda64945681871": {
-            "text": "Maks bredde for video"
-        },
-        "e020e9f5c064dc06976f23bb639be972": {
-            "text": "Maks h\u00f8yde for video"
-        },
-        "5f144bd28a153f03c671e3e0b1f01c79": {
-            "text": "Bruk responsive innebyggingsmetode?"
-        },
-        "f56666f7c2f9f028f5b7ddd5c65a7e27": {
-            "text": "N\u00e5r avhuket, blir videoene innebygd p\u00e5 en m\u00e5te som gj\u00f8r at de kan presenteres i et fleksibelt breddeformat."
-        },
         "a2fcd719e7dab58912e1c4b4cfd70a7c": {
             "text": "T\u00f8mt mellomlager for innebygd video"
         },
-        "4b56ce1614c534fd2630335afa3590a8": {
-            "text": "T\u00f8m mellomlager for video?"
-        },
-        "a0db2e21493ce858956706ff5157abc6": {
-            "text": "Dette vil rydde mellomlageret for innebygde koder. Det skader ikke \u00e5 utf\u00f8re handlingen, men det vil tvinge videoen til \u00e5 bli hentet fra YouTube \/ Vimeo p\u00e5 nytt etter behov."
-        },
         "4956a67e467e3d2b16f39401da73dabb": {
             "text": "Det finnes %d video(er) i mellomlageret"
+        },
+        "596e61ba7c0e3982be2a8764a4ac6338": {
+            "text": "St\u00f8rrelser"
+        },
+        "de442e17720424df85c41e9998cb9c5f": {
+            "text": "Auto (bruk bildeforhold)"
+        },
+        "95748a3131622e6b7af65084703430a9": {
+            "text": "Fast 16:9 (YouTube-standard)"
+        },
+        "f423fdb108118a6d3558ee24b15597fc": {
+            "text": "Fast 4:3"
+        },
+        "f2f5f224ffe5c1ed1b6c2ff5077f9e09": {
+            "text": "Fast 1:1 (kvadratisk)"
+        },
+        "a1ea0a20b3fe466676539f95e562b476": {
+            "text": "Minimum YouTube-st\u00f8rrelse"
+        },
+        "a4d4707e970ceb7947dc1e2f04c2c068": {
+            "text": "Typisk nettstedoppl\u00f8sning"
+        },
+        "0bd6b93c7afaaaa7f78398f815292b61": {
+            "text": "Standarddefinisjon (SD)"
+        },
+        "a9b501a5152faf3f88ce3d888eeed8b6": {
+            "text": "H\u00f8ydefinisjon (HD) min"
+        },
+        "6388fc18797ddf06ab995ce43b44e109": {
+            "text": "H\u00f8ydefinisjon (HD) max"
+        },
+        "f105f89b27bf25454bc9a9147d59310c": {
+            "text": "2K-oppl\u00f8sning"
+        },
+        "ad7e402c30fe2196ab56a34ee977d9a9": {
+            "text": "4K-oppl\u00f8sning"
+        },
+        "f504f33a0af732849df89e49bdfae239": {
+            "text": "Disse innstillingene p\u00e5virker innebyggingskoden som brukes. Som et resultat, hvis du endrer disse innstillingene, b\u00f8r du t\u00f8mme videobufferen etterp\u00e5 (n\u00e5r videoer allerede er til stede)."
+        },
+        "58a34d87d0802d18709e525d52cc2771": {
+            "text": "Maks videost\u00f8rrelse \u00e5 be om"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ingen"
+        },
+        "deca19914b5126815a2220f15d067c9b": {
+            "text": "St\u00f8rrelsesforhold"
+        },
+        "975780e5cb0cae54397e3525ff84ea73": {
+            "text": "GDPR: Bruk versjonen av videonettadresser uten informasjonskapsel \/ ikke-sporing"
+        },
+        "db39b3888a07483b3cbb67e7b863f6ca": {
+            "text": "Denne innstillingen p\u00e5virker innebyggingskoden som brukes. Som et resultat, hvis du endrer denne innstillingen, b\u00f8r du t\u00f8mme videobufferen etterp\u00e5 (n\u00e5r videoer allerede er til stede)."
+        },
+        "5fb0c03ebbf138659a7e5c67da1dd532": {
+            "text": "Mislykket handling"
+        },
+        "6b25addbc3057f7bb61f36d7e5c18483": {
+            "text": "Hva skal gj\u00f8res med en videonettadresse som tjenesten returnerer en feil for."
+        },
+        "39949809e82c2edb028774d107690e35": {
+            "text": "Merk at feil og annen aktivitet er logget i Oppsett > Logger > textformatter-video-embed."
+        },
+        "aa98d655e61c5e6e18a67be79a77b444": {
+            "text": "La nettadressenn v\u00e6re, pakk den inn med *span* og legg til feilkode, dvs. `%s`"
+        },
+        "c291715f9bfbce7bae26efe0d2361a50": {
+            "text": "Legg til HTML-kommentar rundt videonettadressen for \u00e5 skjule den, dvs. `%s`"
+        },
+        "084746a2fc90ddbd693fb562566e2756": {
+            "text": "Innbyggingsstiler"
+        },
+        "39b086bd055823b3303ca8c8821ab7d4": {
+            "text": "Standardstilene muliggj\u00f8r en responsiv videopresentasjon og st\u00f8tte for forskjellige bildeforhold."
+        },
+        "c322a208240cef33d294b506a6030406": {
+            "text": "Pakkestiler"
+        },
+        "f7bd65fc13570b7f22595be339809891": {
+            "text": "I linjen-stiler brukt p\u00e5 `div.TextformatterVideoEmbed`-element som bryter inn videoen `iframe`."
+        },
+        "e5f7f63d66023847e693fd34bea09d41": {
+            "text": "Standard:"
+        },
+        "a64affb77d39e1cdeccbb6fd45607198": {
+            "text": "Rammestiler"
+        },
+        "0ac172701f163886d3e0ebbd0c2fbe25": {
+            "text": "I linjen-stiler brukt p\u00e5 `iframe`-elementet som inneholder den innebygde videoen."
+        },
+        "ab0cf104f39708eabd07b8cb67e149ba": {
+            "text": "Hurtigbuffer"
+        },
+        "90434fd787dc3415563cdc6e3d7ac46e": {
+            "text": "Oppdateringstid"
+        },
+        "c8a555bb4e37dd9ffc7f72883c1df358": {
+            "text": "Oppdater videoinnbyggingskoder etter s\u00e5 mange dager, eller 0 for \u00e5 hurtigbufre for alltid."
+        },
+        "692825e7d7539c8581393179507245d3": {
+            "text": "Nylig innebygde videoer i hurtigbuffer (opptil 100)"
+        },
+        "56897b766f7026e70aa2cf2cedc67931": {
+            "text": "Det er for \u00f8yeblikket ingen videoer i hurtigbufferen."
+        },
+        "ff3709ada1cf4f9092593b5e40812a65": {
+            "text": "Fjern videoer?"
+        },
+        "18be028f2d5cfcc0a460dfa6d16b9404": {
+            "text": "Dette fjerner hurtigbufrede innebygde koder. Det er ingen skade \u00e5 gj\u00f8re dette, bortsett fra at det vil tvinge dem til \u00e5 bli trukket tilbake n\u00e5r neste tilgang."
         }
     }
 }
