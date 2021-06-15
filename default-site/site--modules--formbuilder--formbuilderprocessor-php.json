@@ -2,9 +2,6 @@
     "file": "site\/modules\/FormBuilder\/FormBuilderProcessor.php",
     "textdomain": "site--modules--formbuilder--formbuilderprocessor-php",
     "translations": {
-        "a183e28c962d34205271a10a8a5e1639": {
-            "text": "Uriktig svar"
-        },
         "cc3313532dc868076c17aab10ce2b7d8": {
             "text": "Send kopi til URL"
         },
@@ -56,17 +53,8 @@
         "ed8687d3fa857268e4096eba0fed9fe2": {
             "text": "Netts\u00f8ppelfilter er utl\u00f8st"
         },
-        "b7e8f2df9d4e8564de0bf15aa2361f8e": {
-            "text": "Kan ikke behandle skjemainnlevering"
-        },
         "1dee5691871db4252b167d6f7624d27c": {
             "text": "Kunne ikke bekrefte vellykket levering av dette skjemainnsendelsen."
-        },
-        "8299a0679a4bfa03047860628b3f995f": {
-            "text": "Lagring av side ble nektet fordi navnet \u201c%s\u201d allerede er tatt og unike navn kreves."
-        },
-        "00f6398c9c38da5a558b1f3a7fb00614": {
-            "text": "\u00d8kte sidenavnet til \u201c%s\u201d fordi det forespurte navnet allerede var i bruk"
         },
         "a84034c8b321d38f2d543cb16f2f0c24": {
             "text": "Takk, skjema ditt har blitt sendt inn."
@@ -79,6 +67,9 @@
         },
         "cd59c974d2579bbf427b36a04c458f37": {
             "text": "Send e-post med autosvar"
+        },
+        "6452e77620f68504901d75387345cd76": {
+            "text": "Skjemaet har ingen felter"
         }
     }
 }

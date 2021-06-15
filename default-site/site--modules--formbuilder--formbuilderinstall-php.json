@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/FormBuilder\/FormBuilderInstall.php",
+    "textdomain": "site--modules--formbuilder--formbuilderinstall-php",
+    "translations": {
+        "1626099179b2a50369358a51dfa46465": {
+            "text": "Klikk p\u00e5 \u201csend\u201c-knappen p\u00e5 dette skjermbildet for \u00e5 fullf\u00f8re installasjonen av Form Builder."
+        },
+        "90879ae15f6c3009b84335cdd74f3fef": {
+            "text": "Opprettet %1$s - %2$s"
+        },
+        "798bcfdfdf4797ad506b5f231098a107": {
+            "text": "Kunne ikke kopiere malfilen %1$s til %2$s \u2013 kopier denne filen manuelt"
+        },
+        "5a6945f3e4e55c0b8fd9687dec83815a": {
+            "text": "Fjernet %1$s - %2$s"
+        }
+    }
+}

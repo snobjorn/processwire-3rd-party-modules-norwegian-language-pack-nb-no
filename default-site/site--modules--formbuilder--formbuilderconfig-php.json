@@ -44,9 +44,6 @@
         "83660d5dd3b7696a91809c69990aa6ba": {
             "text": "Tillatte innebygde felter"
         },
-        "448df66e0d37c734a5ae759a0393e066": {
-            "text": "Kryss av i alle feltene som har lov til \u00e5 ha skjemaer innebygd ved hjelp av metoden for enkel innbinding. Enkel innebygging lar deg skrive en spesiell \"innebygd kode\" p\u00e5 sin egen linje og f\u00e5 skjemaet automatisk satt inn der n\u00e5r siden vises. Vi anbefaler p\u00e5 det sterkeste at du bruker enkel innebygging, men hvis du ikke bruker den, kan du la alt v\u00e6re avkrysset."
-        },
         "ee8086d28d1290151d0210cff225d790": {
             "text": "Tips: Velg hovedfeltet for tekstomr\u00e5de for enkel innbygging."
         },
@@ -91,6 +88,24 @@
         },
         "034c974cac04ff61bb618845e7af6ce5": {
             "text": "Merk: Disse konfigurasjonsinnstillingene gjelder bare for skjemaer som bruker \"Legacy\"-rammeverket. Vi foresl\u00e5r at du lar disse innstillingene v\u00e6re som de er."
+        },
+        "17e05d1efc6256ac1da168e2edda8882": {
+            "text": "Sjekk alle feltene som har lov til \u00e5 ha skjemaer innebygd ved hjelp av metoden for enkel innbygging. Enkel innebygging lar deg skrive en spesiell innebygd \"tag\" p\u00e5 sin egen linje og f\u00e5 skjemaet automatisk satt inn der n\u00e5r siden vises. Vi anbefaler p\u00e5 det sterkeste at du bruker enkel innebygging, men hvis du ikke bruker den, kan du la alt v\u00e6re uavkrysset."
+        },
+        "3dac6c825b2c3b7b8a42d86f7d8c5847": {
+            "text": "Mange av disse innstillingene er for eldre form\u00e5l, og mange vil sannsynligvis ikke v\u00e6re nyttige unntatt i eldre installasjoner."
+        },
+        "94314e33cd44edfd5e958a0a9c4d8236": {
+            "text": "Fordi noen av disse innstillingene inneb\u00e6rer konfigurering av HTML-markering, kan servere med mod_security forstyrre lagring av dem. Dette er grunnen til at de er deaktivert som standard."
+        },
+        "1ed691eaaec7550c18969884ae8d03d3": {
+            "text": "Vil du endre de avanserte utdatainnstillingene?"
+        },
+        "87b8ceecb008cee4599a96e4f260a2aa": {
+            "text": "Lagre etter at du har deaktivert dette. Eventuelle endringer i innstillingene dine vil forbli selv n\u00e5r denne bryteren er av."
+        },
+        "84f9f8179dce627b1b6851f723ceed6e": {
+            "text": "Etter at du har aktivert dette, lagre og g\u00e5 tilbake hit for \u00e5 se eller endre innstillingene."
         }
     }
 }

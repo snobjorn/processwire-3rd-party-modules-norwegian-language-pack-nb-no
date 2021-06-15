@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/FieldtypeCombo\/InputfieldCombo.module",
+    "textdomain": "site--modules--fieldtypecombo--inputfieldcombo-module",
+    "translations": {
+        "235d3ba66d17f455bf4f1aa6f176440c": {
+            "text": "Deaktiver Combo-feltsett?"
+        },
+        "e0d06dfade17298e498383bcdec3da3c": {
+            "text": "N\u00e5r Combo-feltsettet er deaktivert, vises ikke Combo-underfeltinndataene gruppert i et omgivende feltsett."
+        },
+        "e3f587ded27ab7f9f49aad1ac5226f42": {
+            "text": "I stedet vil de fremst\u00e5 som vanlige felt utenfor et feltsett."
+        },
+        "1ff84b2d29977d8d86acfa02d04d44f1": {
+            "text": "Combo-feltetiketten, beskrivelsen og merknadene dine vises heller ikke."
+        }
+    }
+}

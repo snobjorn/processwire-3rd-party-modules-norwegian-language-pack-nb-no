@@ -8,12 +8,6 @@
         "77cf778e6b38d7dc52b78d965504acf9": {
             "text": "Valg B: Malinnbygging"
         },
-        "4ce5584c6149885607bc55b3a2b13be0": {
-            "text": "Valg C: Tilpasset innbygging"
-        },
-        "db1d692d41b8c241af229960d49e5e83": {
-            "text": "Valg D: Tilpasset innbygging + tilpasset markup"
-        },
         "d4661cd7ff3d8cbd671dada7101f9ba0": {
             "text": "Viktige merknader"
         },
@@ -64,18 +58,6 @@
         },
         "8473fa494e094775e4025933225c6660": {
             "text": "Gjengi skjemaoppmerkingen direkte fra malfilen din (ingen iframe)."
-        },
-        "16664fa42ea08085fc2eeaa4b0d6c65b": {
-            "text": "Dette alternativet anbefales for de som allerede bruker et kompatibelt CSS-rammeverk, eller de som ikke har noe imot \u00e5 l\u00f8se potensielle CSS-konflikter mellom nettstedstiler og de som brukes av skjemaet."
-        },
-        "2f4202abdbd8bdb6d3564dc79cb779d6": {
-            "text": "Det gjengir skjemaoppmerkingen direkte p\u00e5 siden, som enten er en god ting eller en d\u00e5rlig ting, avhengig av hva du vil."
-        },
-        "5890e18f7d802c644668829d554bf75e": {
-            "text": "Hvis du allerede bruker et av de kompatible CSS-rammeverkene (Uikit, Foundation, Bootstrap), kan det hende at innbyggingsmetode C er ideell, da markeringen vil v\u00e6re klar for ditt rammeverk."
-        },
-        "99027ab2d71187ff627fa016da4df32f": {
-            "text": "For \u00e5 fortsette, kopier og lim inn f\u00f8lgende kode i malfilen(e) der det er aktuelt."
         },
         "a5f7bf3fe4046bd0ba95ab7cf9ed8856": {
             "text": "Plasser f\u00f8lgende et sted f\u00f8r utdataene begynner (som i en _init.php-fil eller i toppen av en malfil)."
