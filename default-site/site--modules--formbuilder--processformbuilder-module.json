@@ -472,6 +472,48 @@
         },
         "4ec2fa1aa32d93e6fd11a255fc3507bc": {
             "text": "+"
+        },
+        "f04f328ec5a748ae0585bcebcdcc7fd6": {
+            "text": "Hva skal skje n\u00e5r s\u00f8ppelpost oppdages?"
+        },
+        "ac46e1c6797f20989ec265da4ddd10ec": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at noen s\u00f8ppelpostfiltre kan overstyre denne innstillingen n\u00e5r det passer. For eksempel varsler Turing-testen alltid brukeren hvis de mislykkes i testen."
+        },
+        "15f7c179f37b2c830374529c1b4b4af2": {
+            "text": "La s\u00f8ppelpostfilteret bestemme"
+        },
+        "19c11aaa0fb95245cef4c490427e781b": {
+            "text": "Avbryt innsending av skjema, men lat som om det var vellykket"
+        },
+        "00846537d17356b128b753ecb4c8e3e3": {
+            "text": "Fortell brukeren at s\u00f8ppe\u00f8post ble oppdaget og gi dem muligheten til \u00e5 fikse det"
+        },
+        "4965715e21b360d3e712ef0679e99c16": {
+            "text": "Lagre som s\u00f8ppelpost, lat som om det var vellykket, men hopp over alle andre handlinger"
+        },
+        "33d598c6cc8b4d7f65ae182163699036": {
+            "text": "(krever handlingen \"Lagre i oppf\u00f8ringsdatabase\")"
+        },
+        "85473341e079a8d5cbc78d93a1b4eb47": {
+            "text": "Slett s\u00f8ppelpostoppf\u00f8ringer fra databasen etter hvor mange dager?"
+        },
+        "a22ae43158067cbce1484f849e578a58": {
+            "text": "Velg et eksisterende felt i skjemaet ditt som du vil bruke som et honningkrukkefelt. N\u00e5r feltet er fylt ut i en skjemainnsending, antas det \u00e5 v\u00e6re s\u00f8ppelpost, og hele skjemaet forkastes i det stille, mens det ser ut til \u00e5 v\u00e6re vellykket i utdataene. Et honningkrukkefelt er skjult med CSS (automatisk av Form Builder) slik at ekte brukere ikke ser dem."
+        },
+        "00e68f3017dc34eae88e5b2eaa283829": {
+            "text": "Bruk av et honningkrukkefelt er en valgfri type s\u00f8ppelpostforebygging. Vi ber deg velge ditt eget felt slik at navnet og typen p\u00e5 honningkrukkefeltet er mindre forutsigbart p\u00e5 tvers av skjemaer, noe som gj\u00f8r det mer effektivt. Et tekstomr\u00e5de eller tekstfelt (plassert n\u00e6r toppen av skjemaet) er \u00e5 foretrekke for honningkrukker."
+        },
+        "e41589c8d0b0a67181747a31642307b8": {
+            "text": "Merk: Honningkrukkefeltet m\u00e5 ikke fylles ut, s\u00e5 pass p\u00e5 at du ikke har angitt en startverdi. Velg heller ikke feltnavn som kan fylles ut av nettleserfunksjoner for automatisk utfylling."
+        },
+        "e7835942ad1d0592f4a8d4a80c0acc64": {
+            "text": "Ord som utl\u00f8ser s\u00f8ppelposthandlingen"
+        },
+        "404f3f2421f40cc47e36ae01b14f833a": {
+            "text": "Skriv inn et ord per linje som automatisk flagger en skjemainnsending som s\u00f8ppelpost. Disse skiller ikke mellom store og sm\u00e5 bokstaver."
+        },
+        "0ea26c8efc823bcc4d6a7cdaf016569f": {
+            "text": "Som standard vil et delvis treff utf\u00f8res p\u00e5 alle verdier som er lagt ut i skjemaet."
         }
     }
 }

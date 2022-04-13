@@ -31,6 +31,15 @@
         },
         "279cbe1e39f08e69e9d02f5d7931c9b4": {
             "text": "Felt som lar deg definere en databasetabell med tilpassede inndata."
+        },
+        "f9e7b54fd4fc9eb5850fe82b82b2814c": {
+            "text": "Klon rad"
+        },
+        "198b6544853854b80b916df7c46db6a1": {
+            "text": "Slett rad"
+        },
+        "268d1dca05a4dd6c3d647a4de01bf9d5": {
+            "text": "Nullstill filtere"
         }
     }
 }

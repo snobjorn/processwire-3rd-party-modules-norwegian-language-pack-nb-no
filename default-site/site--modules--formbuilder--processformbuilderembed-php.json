@@ -97,6 +97,42 @@
         },
         "bb01eb3ecb259f13a7953f5a1ac269b6": {
             "text": "Hvis brukere av skjemaene dine har IP-adresser som kan endres mens de fyller ut et skjema, vil du kanskje deaktivere \u00f8ktsporing\/CSRF-beskyttelse for dette skjemaet (se innstillingsfanen) eller legge til en annen %s-innstilling i \/site\/config.php-fil."
+        },
+        "b56a01ad0dab976d4f6f240a51a5dd89": {
+            "text": "Hvilken innebyggingsmetode b\u00f8r du bruke?"
+        },
+        "6aff657961ecfd7ff922d2adc34eb714": {
+            "text": "Vi anbefaler \u00e5 bruke innebyggingsmetode C n\u00e5r\/der det er mulig, da det gir den beste balansen mellom fleksibilitet, tilpasning og funksjoner."
+        },
+        "a66794c79dc8429a9ad016e5cba6b93d": {
+            "text": "Hvis du trenger \u00e5 bygge inn et skjema et sted uten \u00e5 redigere noen malfiler, b\u00f8r du velge innebyggingsmetode A."
+        },
+        "6d5878366e0bb3d21d9a80736e5f0cb3": {
+            "text": "Innebyggingsmetode D b\u00f8r vurderes hvis du m\u00e5 ha fullstendig markeringskontroll, men merk at det kan begrense hvilke skjemahandlinger\/tillegg du kan bruke, og kan gj\u00f8re det vanskeligere \u00e5 endre skjemaet ditt senere."
+        },
+        "4fb444ad8c9e1e02cefe4baf15e43b4e": {
+            "text": "Alternativ C: Foretrukket innebygging"
+        },
+        "f2f8dc604b5243dda3ce124dc774c0ae": {
+            "text": "Dette alternativet anbefales i de fleste tilfeller (n\u00e5r\/der det er mulig) og gir den beste balansen mellom fleksibilitet, tilpasning og funksjoner. Den er kompatibel med alle FormBuilder-handlinger og tillegg."
+        },
+        "f2775cda06a77efb69765fccd3e96779": {
+            "text": "Den gjengir skjemamarkeringen direkte p\u00e5 siden, noe som betyr at nettstedets CSS-stiler kan p\u00e5virke utseendet (som kan v\u00e6re \u00f8nskelig eller ikke)."
+        },
+        "d66f603867b8ab7bfbd3b6435ffa44fd": {
+            "text": "Hvis du allerede bruker et av de kompatible CSS-rammeverkene (Uikit, Bootstrap, osv.) kan det hende du synes at innebyggingsmetode C er ideell, da markeringen vil v\u00e6re klar for rammeverket ditt."
+        },
+        "b2b5c3eac75aa3071520ef4eb84c7def": {
+            "text": "Hvis du ikke bruker et CSS-rammeverk for nettstedet ditt, er det best \u00e5 velge \"Basic\" som FormBuilder-rammeverket (p\u00e5 fanen \"Utdata\"). Merk at du kanskje m\u00e5 jobbe med CSS-stilarket for \u00e5 optimalisere skjemautseendet."
+        },
+        "bcefb15c742e1a034ee536a780108303": {
+            "text": "For \u00e5 fortsette, kopier og lim inn f\u00f8lgende kode i malfilen(e) der det er aktuelt, og juster gjerne etter behov."
+        },
+        "2d4c9e9c90492b5c612dcb6092f1e1db": {
+            "text": "Alternativ D: Tilpasset makering, innebygd"
+        },
+        "54bba052bfd381ff5cc3f1fc93acfc0c": {
+            "text": "V\u00e6r imidlertid oppmerksom p\u00e5 at det kan begrense hvilke handlinger\/tillegg du kan bruke, og kan skape mer arbeid for deg n\u00e5r\/hvis du noen gang trenger \u00e5 gj\u00f8re fremtidige endringer i skjemaet."
         }
     }
 }

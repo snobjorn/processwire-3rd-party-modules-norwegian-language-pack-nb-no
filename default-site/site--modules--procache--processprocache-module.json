@@ -171,7 +171,7 @@
             "text": "Levetid\/sek"
         },
         "18882041ace878a758dcaaf9cc388623": {
-            "text": "% CSS-fil"
+            "text": "%d CSS-fil"
         },
         "9a87e0cf1c039f5d4c1ba351a554ab54": {
             "text": "%d CSS-filer"
@@ -815,12 +815,6 @@
         "3d05c3f45312de136bc34ab715e659f4": {
             "text": "**Viktig:** Kontroller alltid at den kanoniske koblingstaggen gir ut det du forventer, ved \u00e5 se kilden til en side p\u00e5 nettstedet ditt. Hvis du bruker paginering og \/ eller URL-segmenter, m\u00e5 du ogs\u00e5 teste disse scenariene."
         },
-        "78f5b0e45fa33c84bdf120c78d49c387": {
-            "text": "Det er to forskjellige alternativer til LESS-kompilatoren."
-        },
-        "9e8c0ba3bfe70171a24dd7784dadde46": {
-            "text": "Wikimedia-parseren er for tiden mer oppdatert og kan derfor v\u00e6re \u00e5 foretrekke."
-        },
         "1a4f5cb58b3ad2f3d534d3aa18adcfa9": {
             "text": "N\u00e5r du er i feils\u00f8kingsmodus for hurtigbuffer, vil ProCache inkludere en linje nederst p\u00e5 bufret side med informasjon om siden som ble bufret. Husk \u00e5 t\u00f8mme hurtigbufferen n\u00e5r du fjerner feils\u00f8kingsmodus."
         },
@@ -901,6 +895,15 @@
         },
         "48cf2d65901cdd47e923b458859daeca": {
             "text": "Fjern sider"
+        },
+        "91254addb6df65359872d2e654709ceb": {
+            "text": "Det er forskjellige alternativer for LESS-kompilatoren."
+        },
+        "dfad2cd9649f299945036c68252ab57d": {
+            "text": "Wikimedia-alternativene er \u00e5 foretrekke og krever PHP-versjon %s eller nyere."
+        },
+        "6038b17792c8a02faf45e378e9909205": {
+            "text": "Din PHP-versjon er %s."
         }
     }
 }

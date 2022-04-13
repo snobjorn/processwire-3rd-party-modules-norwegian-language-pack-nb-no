@@ -31,6 +31,9 @@
         },
         "ae2752afb5300b394abe1f47776229f1": {
             "text": "Dette er valgfritt. Hvis \"Foreldre til valgbar(e) side(r)\" er angitt ovenfor, vil feltet bruke den siden som foreldre til nye sider. Hvis bare en mal er spesifisert, vil den nye siden oppf\u00f8re seg som ProcessWires opprinnelige \"Legg til ny\"-knapp og tillate deg \u00e5 velge foreldre n\u00e5r du oppretter en ny side."
+        },
+        "a2bf2bf599278956502d6f5c0ecb9783": {
+            "text": "DEAKTIVERT: Ikke kompatibel med modulen `%s` hvis lenke for \u00e5 opprette nye sider er aktivert!"
         }
     }
 }

@@ -83,20 +83,11 @@
         "737cdc05a80ac3fca9c4769dd02c0e35": {
             "text": "Valgfri gjengivelsesfil for denne matrisetypen: %s (mottar `$page` som matriseelement)"
         },
-        "549311b99c13a17d8b4baeecf5d63c2d": {
-            "text": "Etiketten som brukes til \u00e5 identifisere denne typen for personen som redigerer dette feltet."
-        },
         "d91111dfcaca21980f791621ac5f38e3": {
             "text": "Velg feltene som vises i denne matrisetypen. Du kan ogs\u00e5 dra og slippe felt til \u00f8nsket rekkef\u00f8lge."
         },
         "467c0465569619c64b9cda3fd76664c8": {
             "text": "N\u00e5r et felt er lagret i matrisen, kan du ogs\u00e5 klikke p\u00e5 etiketten for \u00e5 bruke flere tilpasninger i feltet."
-        },
-        "5259d416a993fba905d84b780d0f8ed3": {
-            "text": "Skriv inn formatet som brukes for vareoverskrifter i sideredigereren. Omr\u00e5desidefelt i {sl\u00f8yfeparentes}."
-        },
-        "5557b077c963af37c2174e353c776a6d": {
-            "text": "Du kan ogs\u00e5 skrive inn {matrix_label} for \u00e5 vise etiketten som er definert ovenfor, og\/eller {matrix_summary} for \u00e5 automatisk oppsummere elementets innhold. Tekst omgitt av [hakeparenteser] vil bli lagt vekt p\u00e5."
         },
         "7e797c53765da47d2d128b6345cf1888": {
             "text": "Velg type du vil importere\u2026"
@@ -106,6 +97,138 @@
         },
         "af4a394f7984c297fefffccaf6945801": {
             "text": "Det finnes flere matrisetyper som bruker navnet \u201c%s\u201d, vennligst korriger dette slik at navnene er unike."
+        },
+        "bea13032e9b7c6ce924cfc030e61ca9d": {
+            "text": "Repeater matrix-redigeringsinnstillinger"
+        },
+        "db408f19df75f55f93cffd8f1123efd4": {
+            "text": "Se fanen %s for innstillinger for matriseredigering\/inndata."
+        },
+        "324118a6721dd6b8a9b9f4e327df2bf5": {
+            "text": "Inndata"
+        },
+        "05a7541acf25c5324a3da75a4115cd77": {
+            "text": "Bruk \"Etikett\" eller \"Gruppe > Etikett\" for \u00e5 identifisere denne matrisetypen for personen som redigerer."
+        },
+        "3ebf44b678ce59c85ee122eaa61a63da": {
+            "text": "Skriv inn formatet som brukes for elementoverskrifter i sideredigeringsprogrammet. Omkring sidefelt i `{parentes}`."
+        },
+        "3ec0c83bc6f816136aa1ed85daee9aec": {
+            "text": "Du kan skrive inn `{matrix_label}` for \u00e5 vise hele etiketten definert ovenfor."
+        },
+        "4ef1095c6b149777b333e1eaea33c679": {
+            "text": "Eller hvis du bruker \"Gruppe > Type\"-stiletiketter, kan du referere til dem individuelt med `{matrix_group}` og `{matrix_type}`."
+        },
+        "e7df3560fafeb588d81e7e4e3f194874": {
+            "text": "Du kan skrive inn `{matrix_summary}` for \u00e5 automatisk oppsummere elementinnholdet."
+        },
+        "17fa0b30171b5a108793b7be3d63f34e": {
+            "text": "Tekst omgitt av `[firkantede parenteser]` vil bli redusert."
+        },
+        "708700a188b54039fa06a2725271848b": {
+            "text": "For \u00e5 erstatte standardikonet (dra-piler) spesifiser `icon-navn` i begynnelsen av etiketten, og bytt ut \"navn\" med et [fa-icon navn](%s) (uten \"fa-\"-prefikset)."
+        },
+        "666ed9a633ed72f98290552755b7165b": {
+            "text": "For eksempel `icon-home`, `icon-heart`, osv."
+        },
+        "f8cd7745e1eb77fe2339afb79682dce2": {
+            "text": "Repeater matrix-redigerer og inndatainnstillinger"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Bilder"
+        },
+        "90589c47f06eb971d548591f23c285af": {
+            "text": "Tilpasset"
+        },
+        "8d3f6ae73b01a90d70147f454df192cd": {
+            "text": "Hvordan skal brukeren legge til nye repeater matrix-elementer?"
+        },
+        "f177d97a768eab741d337cade20a2aac": {
+            "text": "Bestemmer om brukeren velger fra en rullegardin, klikker p\u00e5 et bilde eller klikker p\u00e5 en lenke n\u00e5r han legger til et nytt matriseelement."
+        },
+        "618e39f39a46e86ad808659adbccf5ee": {
+            "text": "Merk at \"Velg\"-alternativet er det eneste som st\u00f8tter \"Gruppe > Etikett\"-stiletiketter for matrisetypene dine (hvis brukt)."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Velg"
+        },
+        "eb198faabe5957b12b01110fecfdbfd4": {
+            "text": "(velg fra en rullegardinliste)"
+        },
+        "bd908db5ccb07777ced8023dffc802f4": {
+            "text": "Lenker"
+        },
+        "9b29091b83cd953e65f6bbaa0c7f4953": {
+            "text": "(klikk fra en liste over tekstlenker)"
+        },
+        "5cc5711176be93092cc4943b2d0434cd": {
+            "text": "(klikk fra forh\u00e5ndsvisningsbilder du forbereder)"
+        },
+        "80870b81a7e47019d4045e8966d662fa": {
+            "text": "(gir deg muligheten til \u00e5 sette opp din egen l\u00f8sning)"
+        },
+        "aab78fc3bc8b2ebb3d6678125caf8def": {
+            "text": "Plasser f\u00f8lgende eksempelkode i `\/site\/templates\/admin.php` (n\u00e6r toppen, etter den php-\u00e5pningsmarkeringen) og bruk den som utgangspunkt for din egen tilpassede l\u00f8sning."
+        },
+        "0de04a2693b6ac7e89d65874f52d3f0a": {
+            "text": "For \u00e5 bruke dette alternativet, lag bildefiler med samme navn som matrisetypene dine og plasser dem i `%s`."
+        },
+        "0775bdb3b531a4efea16202845dc3bf8": {
+            "text": "St\u00f8ttede utvidelser inkluderer: `%s`."
+        },
+        "45c986a17b5020cfc534183055b0754d": {
+            "text": "Hvis bildefilene dine er plassert et annet sted, eller du vil bruke filnavn som avviker fra matrisetypenavnene dine, bruk \"Matrisetyper til bilder\"-innstillingen nedenfor."
+        },
+        "42e6861a8c3b29b5399a4eeb5db991d0": {
+            "text": "Matrisetyper til bilder"
+        },
+        "1152deaf461104db2f386e665c1ac722": {
+            "text": "Bruk denne innstillingen bare hvis bildefilene dine ikke er plassert i `%s` eller hvis filnavnene deres er forskjellige fra matrisetypenavnene dine."
+        },
+        "96a8418e1ea29bad7d7d2b41503811d1": {
+            "text": "Spesifiser \u00e9n per linje av `matrisetypenavn:\/sti\/til\/bilde.png` der `matrisetypenavn` er navnet p\u00e5 matrisetypen din og `\/sti\/til\/bilde.png` er banen til bildefilen i forhold til rot-URL."
+        },
+        "13c443ba3bd36368131da869221d4f94": {
+            "text": "Hvis bildefiler er plassert i `%s`, kan du spesifisere bare bildefilnavnet som `bilde.png` og utelate banen."
+        },
+        "37269dd5ae103dca275d6ba5556e1f53": {
+            "text": "Stil(er)"
+        },
+        "edb29639677efd3999a34d78e9caf70f": {
+            "text": "Skriv inn stilattributtet for elementet som omslutter bilder."
+        },
+        "73aaf4ced08fd44bb24bc4fa805a3ea2": {
+            "text": "For eksempel `margin:10px; width:200px`; vil gi en marg p\u00e5 10 piksler mellom bildene og vise dem med en bredde p\u00e5 200 piksler."
+        },
+        "6a6d756a84e0248b3d8a9d1d984a2e60": {
+            "text": "Vil du vise tekstetiketter under bildene?"
+        },
+        "9f2f2be3b16c11b1389f17d7013e23c6": {
+            "text": "Matrisetyper for \u00e5 tillate \u00e5 legge til nye repeater-elementer"
+        },
+        "73849caa1e010a1227198289b2fa28ae": {
+            "text": "Dette lar deg vise noen typer og ikke andre. Dette er f\u00f8rst og fremst nyttig n\u00e5r du stiller inn for konteksten til forskjellige maler."
+        },
+        "d5e84d87daab8b28d602fe4c1b1e085c": {
+            "text": "Hvis ingen er valgt, er alle tillatt."
+        },
+        "0429f525fbe6f947885206493b9a8252": {
+            "text": "Vil du tillate endring av matrisetype for eksisterende elementer?"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "+"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "+"
+        },
+        "1702bbcf5b0b57b5f7febfb244d00310": {
+            "text": "Ja + \u201c%s\u201d"
+        },
+        "9c626e7915b9815dea3c18fc2d0f99fe": {
+            "text": "Alternativet \u201c%s\u201d lar et repeater-element ogs\u00e5 vise felt som brukes av ALLE typer."
+        },
+        "774997bf7b320746bd15befc08a51b20": {
+            "text": "Dette kan v\u00e6re nyttig som et midlertidig utvalg n\u00e5r innhold m\u00e5 kopieres\/limes inn blant felt f\u00f8r endelig typeendring."
         }
     }
 }

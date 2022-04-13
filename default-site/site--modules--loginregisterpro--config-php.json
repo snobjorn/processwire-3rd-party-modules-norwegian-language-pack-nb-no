@@ -313,6 +313,9 @@
         },
         "b0256c0aa686862da5fde9d8c4d432b2": {
             "text": "Forhindre at e-postaliaser (som foo+baz@bar.com) oppretter mer enn 1 konto"
+        },
+        "ddef4cece14e7180a5c2b2223d042a8b": {
+            "text": "Hindre e-postadresser fra \u00e5 vises i registrer\/bekreft URL-er"
         }
     }
 }

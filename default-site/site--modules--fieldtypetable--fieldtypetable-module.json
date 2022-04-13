@@ -68,12 +68,6 @@
         "ac5c16b421c7fca55af2210edf2547be": {
             "text": "Spesifiser et ProcessWire-felt som bruker CKEditor til \u00e5 bruke for innstillingene i denne kolonnen. Merk at i linjen-modus alltid brukes, uavhengig av feltinnstillinger."
         },
-        "8b97a0d900607c7c5dd0b0a3ad41bd7c": {
-            "text": "Bruk *Advanced Content Filter (ACF)*? Sterkt anbefalt. (1=Ja, 0=Nei)"
-        },
-        "1bae3aa4a9c43d0602361c51c4aed4ab": {
-            "text": "Bruk *HTML Purifier*? Sterkt anbefalt. (1=Ja, 0=Nei)"
-        },
         "af73ba6c28b839615bf6eaf1faf88d71": {
             "text": "Sidefelt(er) som kan brukes for valgbar etikett. Eksempler: \"title\" eller \"title|path\" (bruker f\u00f8rst ikke-tomme), eller \"{title}, {path}\" (bruker alle spesifiserte felter i ditt format)."
         },
@@ -107,9 +101,6 @@
         "5afa2ac32dd8fed9145a56024a67d38d": {
             "text": "\u00c5rrekke som skal vises i datovelger i formatet \"-10: +10\" hvor \"-10\" er antall \u00e5r tidligere og \"+10\" er antall \u00e5r i fremtiden."
         },
-        "aa094f6539636ed7062b81d7760a4070": {
-            "text": "Arve verdien fra standardspr\u00e5ket n\u00e5r spr\u00e5kverdien er blank? (1=Ja, 0=Nei)"
-        },
         "b04570f0593f6f731b7bf7736d13a8e1": {
             "text": "Validerer at sider i verdi samsvarer med velgeren din ved sidelagring."
         },
@@ -118,9 +109,6 @@
         },
         "e2960b01c82460b0b4a8cf7ec02ae4b6": {
             "text": "Du kan ogs\u00e5 overstyre alle andre CKEditor-feltinnstillinger ved \u00e5 spesifisere \"eiendom=verdi\" her."
-        },
-        "e42c99808181448716bfed10e9d41996": {
-            "text": "**Merk:** Bruk av CKEditor i et Table-felt krever ProcessWire 2.6.4 eller nyere."
         },
         "df39baa6720c26166ecec46c00675d2c": {
             "text": "Du kan ha s\u00e5 mange kolonner du vil. Hver gruppe kolonner som gir opptil 100 % bredde, plasseres p\u00e5 separate rader, slik at du kan ha flere inndatakolonner enn det som vanligvis passer i en tabell."
@@ -166,6 +154,54 @@
         },
         "52b1605eff065e9e0adbae5c02b42278": {
             "text": "Endringer i databaseskjema er utf\u00f8rt."
+        },
+        "01cd60e7ee8d25dabb1c403831d9d0f2": {
+            "text": "(1=Ja, 0=Nei)"
+        },
+        "662816535b19932ac73b47f7b18306ca": {
+            "text": "Etiketttype som skal brukes: 0=Ja\/Nei, 1=Sant\/Usant, 2=P\u00e5\/Av, 3=Aktivert\/Deaktivert, 100=Egendefinert"
+        },
+        "8dd30b07514db559cf319aa06cef04cd": {
+            "text": "Omvendt rekkef\u00f8lge p\u00e5 Ja\/Nei-alternativene?"
+        },
+        "96eb67ec92a555a1f02bdb8cca3b041d": {
+            "text": "Vil du bruke et tredje alternativ for \"Annet\"?"
+        },
+        "9c57e1fb74013b481d0dd20f5d03913d": {
+            "text": "Vil du tillate at veksler velges bort, slik at det er mulig \u00e5 ikke velge noe? Merk at verdien for ingen valg er tom streng."
+        },
+        "0762ff2c36818ad52f5a6cc83b5ea5c7": {
+            "text": "Standard valgt verdi, spesifiser \"nei\", \"ja\", \"annet\" eller \"ingen\"."
+        },
+        "8f0f278d1c6a43a1171745c19d35b5b7": {
+            "text": "Egendefinert ja\/p\u00e5-etikett (brukes bare n\u00e5r labelType er 100)."
+        },
+        "abfc1c9b6efd68dd0c1a3a907332ec03": {
+            "text": "Egendefinert nei\/off-etikett (brukes bare n\u00e5r labelType er 100)."
+        },
+        "12b60854d6a93c81b40d78432347ef3c": {
+            "text": "Etikett for alternativet \"Annet\" (brukes bare n\u00e5r useOther er 1)."
+        },
+        "d92c073ea02f7cabe68756b3d4fb7898": {
+            "text": "Bruk Advanced Content Filter (ACF)? Sterkt anbefalt."
+        },
+        "580bac08ca010fbcb783a76a4608e3ed": {
+            "text": "Bruk HTML Purifier? Sterkt anbefalt."
+        },
+        "f050d42cb1897833dfa83cca591c0b53": {
+            "text": "Arv verdi fra standardspr\u00e5k n\u00e5r spr\u00e5kverdien er tom?"
+        },
+        "b7db7940c6f754dba7c34e6bb46a1f4c": {
+            "text": "Verdien for et vekslefelt er `0` for \"Nei\", `1` for \"Ja\", `2` for \"Annet\" eller en tom streng for ingen valg."
+        },
+        "d5b5d478259e3e1d6396936fb22c1cfb": {
+            "text": "Vil du tillate klonehandling?"
+        },
+        "7b13bacdc996c77b793fe0ba7340544b": {
+            "text": "Dette lar deg klone eksisterende rader ved \u00e5 klikke p\u00e5 en klonehandling\/-ikon."
+        },
+        "8b27ba48f85949b4367a1ad0cc638afd": {
+            "text": "Eksperimentell, rapporter problemer med spesifikke inndatatyper."
         }
     }
 }

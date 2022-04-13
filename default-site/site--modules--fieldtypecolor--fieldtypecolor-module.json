@@ -43,6 +43,9 @@
         },
         "c12c44d673da8ad28a49f5ff7393763a": {
             "text": "BCMath-utvidelsen er n\u00f8dvendig hvis systemet ikke kan h\u00e5ndtere 64-biters heltallverdier."
+        },
+        "0ce1c16e5574cda2c96770318183d17e": {
+            "text": "array([0,255], [0,255], [0,255]) indeksert array: R,G,B"
         }
     }
 }
