@@ -514,6 +514,288 @@
         },
         "0ea26c8efc823bcc4d6a7cdaf016569f": {
             "text": "Som standard vil et delvis treff utf\u00f8res p\u00e5 alle verdier som er lagt ut i skjemaet."
+        },
+        "5dbbc5bf765fb1ab5c331d4f76e466fa": {
+            "text": "S\u00d8PPEL honningkrukke"
+        },
+        "4c37e70a3172175049f190005b850f43": {
+            "text": "Se merknadene nedenfor for detaljer om hvordan du kan bruke operat\u00f8rer til \u00e5 utf\u00f8re forskjellige typer treff eller bruke feltnavn for \u00e5 matche i spesifikke felt."
+        },
+        "8abb2f664b3d087d016630067726a8d3": {
+            "text": "Bruk operatorer til \u00e5 utf\u00f8re forskjellige typer treff:"
+        },
+        "386a0293c8370dccb5b6decdd0508166": {
+            "text": "For \u00e5 delvis matche ordet \u201ds\u00f8ppel\u201d hvor som helst, bruk `%=s\u00f8ppel` som vil matche \u201ds\u00f8ppel\u201d, \u201dantis\u00f8ppel\u201d og \u201ds\u00f8ppeldynga\u201d, for eksempel."
+        },
+        "ccdc58876ff973484f702d659230cb29": {
+            "text": "For \u00e5 matche hele ordet \u201ds\u00f8ppel\u201d (men ikke \u201dantis\u00f8ppel\u201d eller \u201ds\u00f8ppeldynga\u201d), bruk ~=s\u00f8ppel."
+        },
+        "f4d702c38e917e3d57ed4f20a1009ac5": {
+            "text": "For \u00e5 matche ord som begynner med \u201ds\u00f8ppel\u201d, bruk `*=s\u00f8ppel` (som vil samsvare med \u201ds\u00f8ppel\u201d og \u201ds\u00f8ppeldynga\u201d, men ikke \u201dantis\u00f8ppel\u201d)."
+        },
+        "4d268dbeb35e1f83a23359552fb58b62": {
+            "text": "For \u00e5 utf\u00f8re et eksakt samsvar for hele feltverdien, bruk `=s\u00f8ppel` og det vil bare samsvare hvis en feltverdi ikke inneholder annet enn ordet \u201ds\u00f8ppel\u201d."
+        },
+        "5b92f34e0f17a0169d7489229d361d84": {
+            "text": "For \u00e5 matche fra begynnelsen av en feltverdi, bruk bare `^=s\u00f8ppel`."
+        },
+        "13e22ea144add2f80d77da3c9438353f": {
+            "text": "For \u00e5 matche fra slutten av en feltverdi, bruk kun `$=s\u00f8ppel`."
+        },
+        "417c91b3821fe7f01528a9eb5cbbc1ed": {
+            "text": "For en IKKE-betingelse skal du sette `!` foran operat\u00f8ren, dvs. `!~=s\u00f8ppel` samsvarer bare hvis en feltverdi ikke inneholder hele ordet \u201ds\u00f8ppel\u201d."
+        },
+        "7a3c4da245bca9d0db6457938e5c594e": {
+            "text": "Hvis ingen operator er inkludert p\u00e5 noen linje, antas operatoren `%=` delvis samsvar."
+        },
+        "7ea742fe5b10319d601027c9a7c0ab03": {
+            "text": "Legg til feltnavn for \u00e5 begrense samsvar til spesifikt felt:"
+        },
+        "f3ff3c935f78d320dfb5963f4d9f71f9": {
+            "text": "For \u00e5 matche verdien bare i et bestemt felt (i stedet for alle felt), spesifiser feltnavnet, en operator og verdien som skal samsvare."
+        },
+        "afd2ae441f19c4bd084099f261ea5efc": {
+            "text": "`fornavn%=s\u00f8ppel` vil delvis samsvare med \u201cs\u00f8ppel\u201d hvor som helst i \u201cfornavn\u201d-feltet."
+        },
+        "de92f8466dac4717f016044b78c5a8f9": {
+            "text": "`kommentarer~=s\u00f8ppel` vil samsvare med hele ordet \u201cs\u00f8ppel\u201d hvor som helst i \"kommentarer\"-feltet."
+        },
+        "005a21c8206eacfc9a6037db01316fe2": {
+            "text": "`epost=s\u00f8ppeldynga@s\u00f8ppel.no` vil matche bare hvis e-postfeltets verdi samsvarer n\u00f8yaktig med den gitte verdien."
+        },
+        "a57e397304477db7c58df9b54a6367a9": {
+            "text": "`epost$=s\u00f8ppel.no` samsvarer bare hvis verdien for e-postfeltet slutter med \u201cs\u00f8ppel.no\u201d."
+        },
+        "41504a7015570245fcd629c520a40642": {
+            "text": "Turing-test"
+        },
+        "e2bd5f99f4c435c0c7b944ad758bc291": {
+            "text": "For \u00e5 bekrefte at en skjemainnsending er ekte, kan det v\u00e6re lurt \u00e5 legge til et felt som sp\u00f8r et enkelt sp\u00f8rsm\u00e5l som \"Hva er 2+1?\" Deretter kan du godta eller avsl\u00e5 skjemainnleveringen basert p\u00e5 svaret. Skriv inn navnet p\u00e5 et eksisterende felt i skjemaet og det n\u00f8dvendige svaret i dette formatet: \"felt=svar\". Du kan spesifisere mer enn \u00e9n \"felt=svar\"-betingelse om n\u00f8dvendig, men hver skal v\u00e6re p\u00e5 en egen linje."
+        },
+        "41e457555c4323e97f8585435d798b82": {
+            "text": "min_test=3"
+        },
+        "1f22b4bbf3656a3f1380948b7e5f16af": {
+            "text": "Akismet er en abonnementstjeneste som overv\u00e5ker kommentarer\/skjemainnsendinger for s\u00f8ppel. For \u00e5 bruke denne tjenesten m\u00e5 du matche noen av feltene dine med de som Akismet forventer (som er basert p\u00e5 bloggkommentarer)."
+        },
+        "d158fd676c9347d60eb22d288fe4e9c4": {
+            "text": "For at Akismet skal v\u00e6re aktivert, m\u00e5 et felt velges for hvert av elementene ovenfor."
+        },
+        "80b4f3d842a9ff8f29552a0568ca9b75": {
+            "text": "Felt med personens %s"
+        },
+        "8acca42690b6f238d9d5bcf63b56a820": {
+            "text": "Denne funksjonen er ikke tilgjengelig fordi du ikke har definert en Akismet API-n\u00f8kkel. For mer informasjon, g\u00e5 til Form Builder-modulinnstillingene."
+        },
+        "9dd3f1f1b2aff09a604edd47a007a289": {
+            "text": "Filtrer s\u00f8ppel"
+        },
+        "6d5f4392153243b4b79221e151440a7d": {
+            "text": "Send en e-post med automatisk svar til innsenderen"
+        },
+        "953ebc5932e35a94e0736fbbe99596a5": {
+            "text": "Send dupliserte kopier til en annen URL eller tredjepartstjeneste"
+        },
+        "4ad5a1a2b65d5142e7ccb25d1564c1db": {
+            "text": "Send til en annen nettadresse (omg\u00e5r behandling av Form Builder)"
+        },
+        "7329d2e16176035f080faaff0a36a34c": {
+            "text": "Velg \u00e9n eller flere skjemahandlinger"
+        },
+        "fde48a77f4462cb298d56faaf163d28a": {
+            "text": "Hver handling har n\u00f8dvendige konfigurasjonsinnstillinger. Disse vil vises nedenfor etter at hver boks er merket av."
+        },
+        "0e58c539cc44685247ff69e2ad944860": {
+            "text": "Felter som skal vises i oppf\u00f8ringslisten"
+        },
+        "8ded2fb0a6032c1cf66d13d35c46a3c6": {
+            "text": "Hvilke felter vil du vise i administratoroppf\u00f8ringene\/resultatlistene? Oppf\u00f8ringslistene er det du ser n\u00e5r du ser p\u00e5 flere oppf\u00f8ringer sammen. Det kan v\u00e6re lurt \u00e5 inkludere felt som brukes for grunnleggende identifikasjon som navn, plassering osv."
+        },
+        "0af72cabece5a08a6a3d53c9aa8b9576": {
+            "text": "Hvis du ikke \u00f8nsker at oppf\u00f8ringsdata skal forbli p\u00e5 serveren p\u00e5 ubestemt tid, kan du eventuelt f\u00e5 FormBuilder til \u00e5 slette dem automatisk etter et visst antall dager."
+        },
+        "6715ed94a4daf4a1cb906102c3d0401b": {
+            "text": "0 = Slett aldri oppf\u00f8ringer automatisk. Dette vedlikeholdet utf\u00f8res \u00e9n gang daglig. For \u00e5 kj\u00f8re den n\u00e5, bruk avmerkingsboksen nedenfor."
+        },
+        "b43324f532cd58e459211550c1aed191": {
+            "text": "Kj\u00f8r daglig vedlikehold n\u00e5"
+        },
+        "c02f751f6f7ac837c548d46b7af71091": {
+            "text": "For \u00e5 tilpasse e-postteksten, kopier malfilen %1$s til %2$s (opprett katalogen hvis den ikke allerede er der) og modifiser den for \u00e5 passe dine behov."
+        },
+        "a25050007f6b99864bb4bf1e20f93236": {
+            "text": "Hvis den er tom vil \"%s\" bli brukt."
+        },
+        "9a5593882d88f5230933a1f03f455a13": {
+            "text": "E-postadresser \u00e5 sende skjemaresultater til"
+        },
+        "6a0b2efc39674091de4b3bd2ad72924b": {
+            "text": "For \u00e5 sende e-post til \u00e9n person hver skjemainnsending, skriv inn e-postadressen deres nedenfor. For \u00e5 sende e-post til flere personer, skriv inn hver e-postadresse p\u00e5 en egen linje. Du kan betinget sende en e-post til en adresse basert p\u00e5 verdien av et felt ved \u00e5 spesifisere: \"felt=verdi? din@epost.no\" (se eksempler nedenfor)."
+        },
+        "5adeea844383d6f03969d22badfb8d36": {
+            "text": "resepsjon@firma.no"
+        },
+        "e634848d46d35126b7da6c6a23241093": {
+            "text": "kontakttype=Salg? salg@firma.no"
+        },
+        "b58e57ba9b6c0ff538173d1b18623f39": {
+            "text": "kontakttype=Supoprt? hjelp@firma.no"
+        },
+        "340938f3df3e8b68a10853d0f625ac76": {
+            "text": "Dette b\u00f8r v\u00e6re en e-postadresse knyttet til din webserver og\/eller SMTP-konto."
+        },
+        "329116dc387b3f178dc6804fa23097e4": {
+            "text": "Selv om du kan bruke hvilken som helst e-postadresse her, hjelper det \u00e5 bruke en som er tillatt avsender for \u00e5 sikre at e-poster ikke blir feilidentifisert som spam."
+        },
+        "8e4f0622ae37ff737f6624b5e9130e6e": {
+            "text": "N\u00e5r du sender inn et skjema via e-post til deg, kan vi eventuelt gj\u00f8re at \"svar til\" er en e-postadresse som er angitt i skjemaet (forutsatt at du har et e-postfelt til stede). Velg hvilket felt som skal inneholde avsenderens e-postadresse."
+        },
+        "9b86da2af8fff4101bccd2e60f39e1b0": {
+            "text": "Skjemainnlevering"
+        },
+        "c46dd9d40d6c9f44c6e5b157b47c98df": {
+            "text": "E-post emnefelt"
+        },
+        "52d6a76c880b19ce606a15b5693f9d54": {
+            "text": "Emnet kan eventuelt inkludere verdier for alle *obligatoriske* skjemafelt(er) ved \u00e5 spesifisere plassholdere i formatet `{feltnavn}`."
+        },
+        "b70ebd1c4cbcbb5647f93bf33536228c": {
+            "text": "Vil du legge til skjemaoppf\u00f8rings-ID til e-postemnet?"
+        },
+        "980a2120aabe307ce6ddba5b2a2a613b": {
+            "text": "Dette forhindrer at e-poster for innsending av skjemaer blir gruppert sammen (e-posttr\u00e5d) av Gmail og andre e-postleverand\u00f8rer."
+        },
+        "30bca683c6cdb60c60aceec416decb6d": {
+            "text": "E-posttekst"
+        },
+        "336d0e3f774d7ba6007c45fd602f0754": {
+            "text": "Hvordan h\u00e5ndtere opplastede filer?"
+        },
+        "d032cc0f99f9a8dfd188801725719551": {
+            "text": "Hvis det st\u00f8ttes av WireMail-modulinstallasjonen."
+        },
+        "8829c81299c0d0007a8115a9ebec1afc": {
+            "text": "Send http-lenker til filer i e-post"
+        },
+        "f026f23418bdee1b6e339b33e93752ff": {
+            "text": "Send filvedlegg i e-post"
+        },
+        "ae6664d34d38f2efabb294e5ee83efe3": {
+            "text": "Felt(er) som inneholder e-postadresse som autosvar skal sendes til"
+        },
+        "119b290875806e0bec621c0289ec2e35": {
+            "text": "Svar fra e-post"
+        },
+        "4d93e46f67b57c9d3bced682a326fbe8": {
+            "text": "Skriv inn e-postadressen som e-posten for autosvar kommer fra."
+        },
+        "1e90fac672e7eb382664cf61f8de5081": {
+            "text": "Svar fra navn"
+        },
+        "02f4600dab73c144b955c329e136d46a": {
+            "text": "Bedriftens eller personens for-\/etternavn som e-postsvareren skal vises \u201cfra\u201c."
+        },
+        "79b1b40862a8b5fec4daad76cb1b8e53": {
+            "text": "Svar svar p\u00e5 e-post"
+        },
+        "9a175787240ed01561ee60698afefa27": {
+            "text": "Adressen som vil bli besvart hvis brukeren velger \u00e5 svare."
+        },
+        "678e7dda894d38dda457329115192027": {
+            "text": "Emnelinje i autosvar-e-posten"
+        },
+        "a13bd25198599134c218e399313bd8f3": {
+            "text": "E-posttekst for autosvar"
+        },
+        "5800740e8aa44abe84cd41d7f9f93bf9": {
+            "text": "For \u00e5 skrive ut verdien til et skjemafelt i denne e-posten, skriv inn feltnavnet i [klammer]. For eksempel: [fornavn]"
+        },
+        "e7cbe91c7d856ca018a499c978a24fda": {
+            "text": "Del innsendte skjemadata med andre tjenester ved \u00e5 kryssposte de innsendte dataene til en annen URL og eventuelt endre det som sendes inn."
+        },
+        "589565698113d1d06e449ffdb107d876": {
+            "text": "Duplisert innsendings-URL"
+        },
+        "60ebd980becc3e7d1eec713c9711389a": {
+            "text": "Hvis du vil duplisere innsendingen av skjemaet ved \u00e5 legge ut til en annen URL, skriv inn URL-en nedenfor. Deretter trykker du p\u00e5 lagre og flere felt vises her som du kan fylle ut."
+        },
+        "1d3ab330d094bb8a1ff45b33e0c03b91": {
+            "text": "Hvis det er noen felter du vil legge til i duplikatinnsendingen, skriv inn ett per linje nedenfor i formatet: [mitt_feltnavn]=[min_verdi]"
+        },
+        "fb67644ea7cfc983f58b1732690b1e93": {
+            "text": "lead_kilde=Foresp\u00f8rselsskjema"
+        },
+        "bc1419b6f330eca9cd0a0ef0298cfc28": {
+            "text": "Hvis det er noen felter du \u00f8nsker \u00e5 fjerne fra duplikatinnleveringen, skriv inn navnene p\u00e5 disse feltene nedenfor (1 per linje), og de vil ikke bli sendt."
+        },
+        "0a35511a51eb8490179aa8208a71b884": {
+            "text": "Hvis det er noen felter du vil endre navnet p\u00e5 i duplikatinnsendingen, skriv inn ett per linje nedenfor i formatet: [feltnavn]=[nytt_feltnavn]"
+        },
+        "ced8084ac619b89de917f2518c07be42": {
+            "text": "fornavn=fornavn"
+        },
+        "f4660494ed79cfc4f23634096e9c9b38": {
+            "text": "epostadresse=epost"
+        },
+        "ab42cda2655f5b79125fa9602ecff9d6": {
+            "text": "Endre standardoppf\u00f8rselen til hvor skjemaet sendes inn."
+        },
+        "8dd1494633d4bf06d8d4a078cf4659ed": {
+            "text": "Innsendingsnettadressen til skjema"
+        },
+        "cd0d8d826f156bb4828ebc438d92fe19": {
+            "text": "Nettadressen du vil at skjemaet skal sendes til, hvis du trenger det. La st\u00e5 tomt eller \".\/\" for \u00e5 f\u00e5 FormBuilder til \u00e5 behandle skjemaene dine."
+        },
+        "c1dfae1fec54e406d9ab6fab5199dac1": {
+            "text": "Innsendingsmetoden til skjema"
+        },
+        "8977e1864e69e8348069e4555c39ec3e": {
+            "text": "POST-metoden er krevd hvis du vil at FormBuilder skal behandle resultatene dine. Hvis du planlegger \u00e5 f\u00e5 dette skjemaet til \u00e5 sende inn et annet sted, er GET-metoden gitt hvis du trenger det."
+        },
+        "4c6f18f42e8b8679271e303e2db576ae": {
+            "text": "Innsendingsm\u00e5let til skjema"
+        },
+        "f7752bf023503a21a6fb18ba89ddaa7a": {
+            "text": "Navnet p\u00e5 m\u00e5lvinduet for skjemainnsendingen. La feltet st\u00e5 tomt for standard oppf\u00f8rsel. Eksempler inkluderer \"_blank\", \"_parent\", \"_top\" eller navnet p\u00e5 en ramme."
+        },
+        "9cf98f351e64154ff01f97e6b5705e98": {
+            "text": "For \u00e5 bruke denne funksjonen m\u00e5 du ha [GoogleClientAPI](%1$s)-modulen installert og konfigurert med %2$s-omfanget."
+        },
+        "37ab67c7823bfb6a16f801dd9deffce5": {
+            "text": "GoogleClientAPI-modulen ER installert."
+        },
+        "aacc4be2e3d7b297808ffffd71803979": {
+            "text": "GoogleClientAPI-modulen er IKKE installert for \u00f8yeblikket, s\u00e5 denne funksjonen er ikke tilgjengelig."
+        },
+        "4e2b446b3d06d74a44f6dfe7d4f46305": {
+            "text": "Google Sheets-regneark"
+        },
+        "3aff1ba7e2282dd5d305248512ee8f12": {
+            "text": "Skriv inn en eksisterende nettadresse for Google Sheets-regneark eller skriv inn en tittel for et nytt regneark som skal opprettes."
+        },
+        "723ed8ab0a85c1d56f0c573b37cacff9": {
+            "text": "For \u00e5 oppretter et nytt regneark:"
+        },
+        "2ed3dcbc23f0959dd7fc12ec2d082d08": {
+            "text": "Skriv inn tittelen du vil bruke for det nye regnearket, s\u00e5 pr\u00f8ver vi \u00e5 lage det n\u00e5 og fylle ut URL-en for deg."
+        },
+        "522c2be84da58a85dfc13424f8febf55": {
+            "text": "For \u00e5 bruke et eksisterende regneark:"
+        },
+        "462e725ebd6eae1bef2294713971955b": {
+            "text": "\u00c5pne Google Sheets-regnearket du vil at skjemainnsendinger skal legge til rader til."
+        },
+        "effc0a50fddc7f6db52db980cd35f847": {
+            "text": "S\u00f8rger for at du er p\u00e5 det tiltenkte arket\/fanen."
+        },
+        "be1679eb72cbdf661be8decd0dba1608": {
+            "text": "Kopier nettadressen i adressefeltet og lim den inn her."
+        },
+        "16e663b68acd96fc5eab5b2b105f5b59": {
+            "text": "Nettadressen til regnearket skal ligne p\u00e5 eksemplet nedenfor:"
+        },
+        "5d4fd57e0470bccbbd14fd4bc38c8b33": {
+            "text": "I nettadressen ovenfor er de understrekede delene: 1) regneark-ID; og 2) valgfri ark\/fane-ID (ogs\u00e5 kjent som gid)."
         }
     }
 }
