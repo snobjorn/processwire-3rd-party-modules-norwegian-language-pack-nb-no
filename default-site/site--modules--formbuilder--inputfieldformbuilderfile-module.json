@@ -2,12 +2,6 @@
     "file": "site\/modules\/FormBuilder\/InputfieldFormBuilderFile.module",
     "textdomain": "site--modules--formbuilder--inputfieldformbuilderfile-module",
     "translations": {
-        "92eb5ffee6ae2fec3ad71c777531578f": {
-            "text": "="
-        },
-        "3e56c011b37f0bc78fb9eb175c1181c6": {
-            "text": "="
-        },
         "099af53f601532dbd31e0ea99ffdeb64": {
             "text": "+"
         },
@@ -38,8 +32,56 @@
         "44b0433ff903fcae0e41e4408b1c84a2": {
             "text": "Overstiger maks filst\u00f8rrelse p\u00e5 %d byte."
         },
-        "a8c7be94131212f13ae752d4d9619ea7": {
-            "text": "Antall filinnganger"
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "+"
+        },
+        "6954366cd14788b89d1357e644853328": {
+            "text": "+"
+        },
+        "bfffd777f6bb9388677058e9c0c1082e": {
+            "text": "Filst\u00f8rrelsen er for stor (maks=%s)"
+        },
+        "440e2190e83bcec774cd23307ac815eb": {
+            "text": "Ugyldig fil: Etternavnet tilsvarer ikke typen"
+        },
+        "ef5db075f5ef10fbe063c7108aa49b25": {
+            "text": "="
+        },
+        "7a40e771338351f0f22429028dd2e901": {
+            "text": "Maks antall tillatte filer"
+        },
+        "7c34010ba0878f3b404ab73615e44201": {
+            "text": "Antall rader for inndata for filbeskrivelse"
+        },
+        "073610da0043839e33531eec66593d59": {
+            "text": "Angi 1 for enkeltlinjeinntasting, 2 eller mer for tekstomr\u00e5deinntasting, eller 0 for \u00e5 deaktivere beskrivelsesinntasting."
+        },
+        "c2e74312c8d6f4aedc48c012476bf093": {
+            "text": "Maks tillatt lengde for hver filbeskrivelse."
+        },
+        "ce6f9cfe727cac33c22abc1da27cd813": {
+            "text": "Vil du vise \u00e9n filopplasting av gangen?"
+        },
+        "ba954e153c4fc54e402f93436f909143": {
+            "text": "N\u00e5r den er aktivert, vises f\u00f8rst \u00e9n filopplastingsinngang, og en annen vil bli vist hver gang brukeren velger en fil (opp til maks filgrense)."
+        },
+        "8c52d087a2b1bfdd5bd8f7bbfc8389c0": {
+            "text": "Dette alternativet anbefales kun for innebyggingsmetodene C og D. Ikke bruk det med innebyggingsmetode A eller B."
+        },
+        "52585969263fd526b4914747062db571": {
+            "text": "Vil du vise forh\u00e5ndsvisning for opplasting av bildefiler?"
+        },
+        "626cf4671e6a93869bfd15876c43f553": {
+            "text": "N\u00e5r aktivert, vil et forh\u00e5ndsvisningsminiatyrbilde vises etter at en bruker har valgt et bilde."
+        },
+        "e13fef3aefe281423cb76f8938226fed": {
+            "text": "Denne funksjonen er kun egnet for opplasting av bildefiler (jpg, png, gif)."
+        },
+        "355e12a063192ed24bbe9944891ccf99": {
+            "text": "Vil du vise en nummerert overskrift med hvert filelement?"
+        },
+        "7275746027cf60f96fa82d3148317dd7": {
+            "text": "Eksempel: %s"
         }
     }
 }

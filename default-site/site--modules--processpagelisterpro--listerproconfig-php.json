@@ -298,6 +298,12 @@
         },
         "65a17e253916f6301250ac8cdbd0336f": {
             "text": "Legg til en ny Lister eller administrer eksisterende fra [ListerPro-modulkonfigurasjonsskjermen](%s)."
+        },
+        "d0e500115b9add326a6bd6540f37d3fd": {
+            "text": "Gi nytt navn til denne listen"
+        },
+        "aeb08cfe350eae5ac4d04bcf11b63fee": {
+            "text": "Bruk kun tegn `-_a-z0-9`"
         }
     }
 }

@@ -2,9 +2,6 @@
     "file": "site\/modules\/FormBuilder\/frameworks\/FormBuilderFrameworkUikit3.php",
     "textdomain": "site--modules--formbuilder--frameworks--formbuilderframeworkuikit3-php",
     "translations": {
-        "f99fef17bc5abf05f96dce89a6ca727c": {
-            "text": "Velg fil #%d"
-        },
         "cda5132955c43b0ac7ae8adfa27cc35e": {
             "text": "Velg fil"
         },

@@ -1,0 +1,216 @@
+{
+    "file": "site\/modules\/FieldtypeTable\/config.php",
+    "textdomain": "site--modules--fieldtypetable--config-php",
+    "translations": {
+        "5e98bb273930f27e2c433d728d56183b": {
+            "text": "Antall kolonner"
+        },
+        "df39baa6720c26166ecec46c00675d2c": {
+            "text": "Du kan ha s\u00e5 mange kolonner du vil. Hver gruppe kolonner som gir opptil 100 % bredde, plasseres p\u00e5 separate rader, slik at du kan ha flere inndatakolonner enn det som vanligvis passer i en tabell."
+        },
+        "ae94523e1c8bcbeab04dc43115f7dfbd": {
+            "text": "Hvis du endrer denne verdien, trykker du p\u00e5 lagre for \u00e5 se flere inndata for kolonne."
+        },
+        "fc79d6220e08aa79bbd8d5fd02fec884": {
+            "text": "Kolonnedefinisjoner"
+        },
+        "7bce62284509b0a2e626ec43b8890e4c": {
+            "text": "Kolonne %d"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "+"
+        },
+        "10fe73b5ebca7034551dd7e0a83c8cde": {
+            "text": "Bruk bare sm\u00e5 boksaver: _a-z0-9"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "+"
+        },
+        "84ab5d945499e7c17917a11eb932b024": {
+            "text": "Enhver strengverdi"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "="
+        },
+        "992eda0d64a430fa5c7925d23ef9d0a3": {
+            "text": "Vennligst velg"
+        },
+        "1d3a25ea7e90fee12ddd71b9c26832d9": {
+            "text": "SLETT DENNE KOLONNEN"
+        },
+        "7f5572e648175cd2d26dfc25d12306db": {
+            "text": "% bredde"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "Sorter"
+        },
+        "99e4c19398ff323b1f7d851dbee48402": {
+            "text": "Valg (1 per linje)"
+        },
+        "ecd6f47940a93e1fb12de80f2e658add": {
+            "text": "Valgfritt: For \u00e5 spesifisere separate verdier og etiketter, angi **verdi=etikett** p\u00e5 linjen."
+        },
+        "385741feb340d540ab12b17fb3ddd03a": {
+            "text": "Hvilke sider skal kunne velges?"
+        },
+        "6c091cbc9493d28976b2e3e651ee0fd9": {
+            "text": "Definer velgeren som bestemmer hvilke sider som kan velges."
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "+"
+        },
+        "3e54d7d60497f5bc4f1f04966baf81d9": {
+            "text": "Bekreft endringer?"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "+"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "+"
+        },
+        "d5fbd3633c00462b921fd06057e77167": {
+            "text": "Det er bedt om endringer i databaseskjemaer som kan endre eller slette data. Bekreft disse endringene ved \u00e5 velge \"Ja\" nedenfor og lagre feltet. Hvis du ikke vil gjennomf\u00f8re disse endringene, velger du \"Nei\" og returnerer feltet\/feltene til deres forrige tilstand."
+        },
+        "b6c5f85fc8a92fb55beb8be956eec88d": {
+            "text": "Innstillinger og handlinger"
+        },
+        "b416aba7067608c1cc6b8c37ef3753a2": {
+            "text": "Gi nytt navn til kolonnen"
+        },
+        "70c2eb69c8e4ba10d5d6cce3c0bed5d0": {
+            "text": "Hvis du vil gi nytt navn til en kolonne, skriver du inn **gammel=ny** nedenfor, og erstatter **gammel** med gjeldende navn og **ny** med det nye navnet du vil bruke."
+        },
+        "52b1605eff065e9e0adbae5c02b42278": {
+            "text": "Endringer i databaseskjema er utf\u00f8rt."
+        },
+        "3f26f814da0ab5d12bdd0577457ee300": {
+            "text": "Aktivering av paginering gj\u00f8r det ogs\u00e5 mulig \u00e5 finne\/filtrere og sortere (etter kolonne) funksjoner i sideredigeringen."
+        },
+        "22909e7eae1a80cc9d6a65aa646e1336": {
+            "text": "Du m\u00e5 velge her hvis du angir en paginasjonsgrense."
+        },
+        "0a7034c424570912c8da58033859c83c": {
+            "text": "Hvis den er tom, brukes teksten \"Legg til rad\"."
+        },
+        "2a9a73daf37df8e07a532a0a56fb9566": {
+            "text": "Hvis den er tom, brukes teksten \"Legg til rad\"."
+        },
+        "ce85ad558fd53bf7ce2a30b589591ee3": {
+            "text": "Vil du tillate sletting av alle rader samtidig?"
+        },
+        "3307dae74d703d05dd9385ad80546a82": {
+            "text": "N\u00e5r dette er aktivert, vil dobbeltklikk p\u00e5 s\u00f8ppelikonet markere alle rader for sletting. Brukeren kan eventuelt slette alle rader p\u00e5 tvers av alle pagineringene (n\u00e5r de er i bruk) ved \u00e5 klikke p\u00e5 en egen avkrysningsrute."
+        },
+        "d5b5d478259e3e1d6396936fb22c1cfb": {
+            "text": "Vil du tillate klonehandling?"
+        },
+        "7b13bacdc996c77b793fe0ba7340544b": {
+            "text": "Dette lar deg klone eksisterende rader ved \u00e5 klikke p\u00e5 en klonehandling\/-ikon."
+        },
+        "b47ae826b108b0e4f16105d9b963b3a7": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at det ikke fungerer med alle kolonnetyper."
+        },
+        "01cd60e7ee8d25dabb1c403831d9d0f2": {
+            "text": "(1=Ja, 0=Nei)"
+        },
+        "662816535b19932ac73b47f7b18306ca": {
+            "text": "Etiketttype som skal brukes: 0=Ja\/Nei, 1=Sant\/Usant, 2=P\u00e5\/Av, 3=Aktivert\/Deaktivert, 100=Egendefinert"
+        },
+        "8dd30b07514db559cf319aa06cef04cd": {
+            "text": "Omvendt rekkef\u00f8lge p\u00e5 Ja\/Nei-alternativene?"
+        },
+        "96eb67ec92a555a1f02bdb8cca3b041d": {
+            "text": "Vil du bruke et tredje alternativ for \"Annet\"?"
+        },
+        "9c57e1fb74013b481d0dd20f5d03913d": {
+            "text": "Vil du tillate at veksler velges bort, slik at det er mulig \u00e5 ikke velge noe? Merk at verdien for ingen valg er tom streng."
+        },
+        "0762ff2c36818ad52f5a6cc83b5ea5c7": {
+            "text": "Standard valgt verdi, spesifiser \"nei\", \"ja\", \"annet\" eller \"ingen\"."
+        },
+        "8f0f278d1c6a43a1171745c19d35b5b7": {
+            "text": "Egendefinert ja\/p\u00e5-etikett (brukes bare n\u00e5r labelType er 100)."
+        },
+        "abfc1c9b6efd68dd0c1a3a907332ec03": {
+            "text": "Egendefinert nei\/off-etikett (brukes bare n\u00e5r labelType er 100)."
+        },
+        "12b60854d6a93c81b40d78432347ef3c": {
+            "text": "Etikett for alternativet \"Annet\" (brukes bare n\u00e5r useOther er 1)."
+        },
+        "ac5c16b421c7fca55af2210edf2547be": {
+            "text": "Spesifiser et ProcessWire-felt som bruker CKEditor til \u00e5 bruke for innstillingene i denne kolonnen. Merk at i linjen-modus alltid brukes, uavhengig av feltinnstillinger."
+        },
+        "d92c073ea02f7cabe68756b3d4fb7898": {
+            "text": "Bruk Advanced Content Filter (ACF)? Sterkt anbefalt."
+        },
+        "580bac08ca010fbcb783a76a4608e3ed": {
+            "text": "Bruk HTML Purifier? Sterkt anbefalt."
+        },
+        "af73ba6c28b839615bf6eaf1faf88d71": {
+            "text": "Sidefelt(er) som kan brukes for valgbar etikett. Eksempler: \"title\" eller \"title|path\" (bruker f\u00f8rst ikke-tomme), eller \"{title}, {path}\" (bruker alle spesifiserte felter i ditt format)."
+        },
+        "fb956f7a083d82dc22d53cb48775bb1b": {
+            "text": "Sidefelt(er) som du vil at autofullf\u00f8ringen skal s\u00f8ke i. Vanligvis vil dette v\u00e6re i samsvar med _labelField_."
+        },
+        "c494d84cfd5440fc16c68dd438537363": {
+            "text": "Spesifiser tekstformateringsmoduler som skal brukes p\u00e5 denne teksten for utdataformatering. For \u00e5 bruke flere, skill hver med komma. TextformatterEntities anbefales med mindre du trenger \u00e5 tillate markering eller foretrekker forskjellige tekstformat\u00f8rer."
+        },
+        "9bc54602186c6b5ba99545c2ecd194eb": {
+            "text": "Plassholdertekst for \u00e5 vise n\u00e5r ingen verdi er fylt ut."
+        },
+        "00d8c97a05907337324a59a28488aab7": {
+            "text": "Hvilken type datovelger som skal vises: 0=Ingen, 1=Vis p\u00e5 knappeklikk, 2=Vis alltid synlig innebygd datovelger, 3=Vis datovelger p\u00e5 feltfokus (anbefalt verdi)."
+        },
+        "a82ab9251b2775cf9c90fc1e9586d7a4": {
+            "text": "Datoformat som skal brukes til inndata n\u00e5r du redigerer siden."
+        },
+        "f9f31f40733c4cd1012e3539af40d382": {
+            "text": "Datoformat som skal brukes til utdata."
+        },
+        "0910b83776e397a72da23db35a7089d7": {
+            "text": "Tidsformat som skal brukes til inndata n\u00e5r du redigerer siden."
+        },
+        "c7d281a94db13a349f171c08c37e3cde": {
+            "text": "Tidsformat som skal brukes til utdata."
+        },
+        "c010d727e31d3e09f20f89c6418af246": {
+            "text": "Spesifiser 1 for \u00e5 gj\u00f8re nye roller standard til dato\/tid i dag, eller 0 for \u00e5 la v\u00e6re tomme."
+        },
+        "5afa2ac32dd8fed9145a56024a67d38d": {
+            "text": "\u00c5rrekke som skal vises i datovelger i formatet \"-10: +10\" hvor \"-10\" er antall \u00e5r tidligere og \"+10\" er antall \u00e5r i fremtiden."
+        },
+        "f050d42cb1897833dfa83cca591c0b53": {
+            "text": "Arv verdi fra standardspr\u00e5k n\u00e5r spr\u00e5kverdien er tom?"
+        },
+        "d6e785259b278cac5d110cf9f1387f5e": {
+            "text": "Totalt antall sifre"
+        },
+        "2f0a60be842f515b0f585ec33e4a8643": {
+            "text": "Antall sifre etter desimalen"
+        },
+        "6db9178e47e75bb5658f9e82a73d9781": {
+            "text": "Mellomromseparert streng med tillatte filutvidelser."
+        },
+        "a0d02b53bc135e1b7c06baeaf941d502": {
+            "text": "Dimensjoner for forh\u00e5ndsvisning av miniatyrbilde (bredde x h\u00f8yde). Bruk 0 for proporsjonal bredde eller h\u00f8yde."
+        },
+        "01cfebb8d10fcc58341eb88279f67fb6": {
+            "text": "Dimensjonene for forh\u00e5ndsvisning av miniatyrbilder som brukes p\u00e5 hidpi-enheter, b\u00f8r v\u00e6re det dobbelte av thumbSize. Tom for \u00e5 deaktivere."
+        },
+        "8d00f8486ba1fd0e68ba86cd1dbd050a": {
+            "text": "Maksimal byte for opplastet fil eller 0 for ingen maks (5000000 er 5 megabyte)."
+        },
+        "b04570f0593f6f731b7bf7736d13a8e1": {
+            "text": "Validerer at sider i verdi samsvarer med velgeren din ved sidelagring."
+        },
+        "412c1907e2047fa2f5ac74561529ca1d": {
+            "text": "Du kan ogs\u00e5 angi standard valgt side-ID (nummer). For flere, skille hver med komma."
+        },
+        "e2960b01c82460b0b4a8cf7ec02ae4b6": {
+            "text": "Du kan ogs\u00e5 overstyre alle andre CKEditor-feltinnstillinger ved \u00e5 spesifisere \"eiendom=verdi\" her."
+        },
+        "b7db7940c6f754dba7c34e6bb46a1f4c": {
+            "text": "Verdien for et vekslefelt er `0` for \"Nei\", `1` for \"Ja\", `2` for \"Annet\" eller en tom streng for ingen valg."
+        }
+    }
+}
