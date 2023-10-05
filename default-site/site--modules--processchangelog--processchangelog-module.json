@@ -1,5 +1,327 @@
 {
     "file": "site\/modules\/ProcessChangelog\/ProcessChangelog.module",
     "textdomain": "site--modules--processchangelog--processchangelog-module",
-    "translations": []
+    "translations": {
+        "ac4178144509a2ce3a271a9b7f1a5898": {
+            "text": "Alle operasjoner p\u00e5"
+        },
+        "4e97aeeaa8b15ca1180fcd1f3ac478d1": {
+            "text": "N\u00e5r"
+        },
+        "4ee972120bcda675f75222c87cb9d356": {
+            "text": "Hvem"
+        },
+        "124433700b3275084ede92789a9d83ef": {
+            "text": "Hva"
+        },
+        "1063e38cb53d94d386f21227fcd84717": {
+            "text": "Fjern"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mer"
+        },
+        "addec426932e71323700afa1911f8f1c": {
+            "text": "mer"
+        },
+        "e37e8d912e8f7b8f9b5ef9452ba47ff1": {
+            "text": "mindre"
+        },
+        "c26eff6d9568b20b8c7cbd4e7ce52a8d": {
+            "text": "Er du sikker p\u00e5 at du vil fjerne denne loggraden?"
+        },
+        "b4ec5922627dab22b56097d12d53a61c": {
+            "text": "Beklager, det mislyktes \u00e5 fjerne raden"
+        },
+        "bf1981220040a8ac147698c85d55334f": {
+            "text": "="
+        },
+        "35a8d672db4be9fa9311b8ac4ee6d774": {
+            "text": "Offentlig RSS"
+        },
+        "c49182dc0c7a70b9cd2e10853d9ec6c7": {
+            "text": "Endringslogg"
+        },
+        "45f4deb501a1841455c89188498026b9": {
+            "text": "En automatisk generert endringslogg for dette nettstedet."
+        },
+        "c6d95d5ec52a9ee4f2c0175f6e1fc0ac": {
+            "text": "Ingen data tilgjengelig."
+        },
+        "3e51c58c8ca21031a992644431426f0c": {
+            "text": "Mal ikke funnet: %s"
+        },
+        "0ee211921c48488fe0311a3f315a6ec2": {
+            "text": "Flagg st\u00f8ttes ikke: %s"
+        },
+        "863666c704f92615b102df726413df67": {
+            "text": "Filtrer etter brukernavn: %s"
+        },
+        "084e0343a0486ff05530df6c705c8bb4": {
+            "text": "gjest"
+        },
+        "68a5b4ace65f4333d803bb282c0b5453": {
+            "text": "Rediger bruker: %s"
+        },
+        "bbe4bd67a6809f4be1d558e0d205c721": {
+            "text": "slettet bruker"
+        },
+        "b60ed88355ac3f6898fd8a7ab1734d06": {
+            "text": "lagt til"
+        },
+        "11dfd868d93bc2b0e4ce0bee5756f8b1": {
+            "text": "fjernet"
+        },
+        "683dc5278b1fbbd98a996cecc3ffd06a": {
+            "text": "redigert"
+        },
+        "121e1d0f9e75bf8935a2238d20f2f864": {
+            "text": "kastet"
+        },
+        "acca362a48577269b87ef58cd46e2c3a": {
+            "text": "endret navn p\u00e5"
+        },
+        "273a9f24fbf78c0b07dba09fd638c6fa": {
+            "text": "gjenopprettet"
+        },
+        "8f888fedf6bd5ff7c93c6d76bb8dc21c": {
+            "text": "publisert"
+        },
+        "3ebd43fb0ca85e5d4aae6b6f19703a39": {
+            "text": "avpublisert"
+        },
+        "a2e4822a98337283e39f7b60acf85ec9": {
+            "text": "tom"
+        },
+        "f970e2767d0cfe75876ea857f92e319b": {
+            "text": "som"
+        },
+        "9198e2b68266f6b1f2575644d3ace20a": {
+            "text": "rediger side"
+        },
+        "9d376b9f941b56885e455eb6c9897b8f": {
+            "text": "Rediger side: %s"
+        },
+        "7a5115c2c1eb662308decbec83593494": {
+            "text": "vis side"
+        },
+        "6364c47521cc0b27177a328eb0032326": {
+            "text": "Vis side: %s"
+        },
+        "7c1e047749605f917dedd250134eec24": {
+            "text": "Systemmal"
+        },
+        "da602f0b162fccbf6b150cfcfc7a7379": {
+            "text": "slettet"
+        },
+        "cb784d38ab507d052d371480d8e959d7": {
+            "text": "Filtrer etter operasjon: %s"
+        },
+        "0f6969d7052da9261e31ddb6e88c136e": {
+            "text": "fjern"
+        },
+        "6d4f64aec19551a29dc3ff998be52a1e": {
+            "text": "fjern gjeldende rad"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Side"
+        },
+        "0176cac14dbaf018aa0ee1c3bab50447": {
+            "text": "Forrige sidenavn"
+        },
+        "f03ef9306f857f98f69e6393d99a81e6": {
+            "text": "Gjeldende sidenavn"
+        },
+        "c0a1f9eff88edb62c46edb084004e32b": {
+            "text": "Sidenavn"
+        },
+        "12cb401e3a068898222575c6a5ef5ece": {
+            "text": "Sidetittel"
+        },
+        "70a4bc2672e2e3912e6476a2bd7ba29b": {
+            "text": "Foreldreside"
+        },
+        "544b5402cc6840a103868186fbc5933c": {
+            "text": "Forrige foreldreside"
+        },
+        "a016a73836f5149a1fe5d2817d1de4bc": {
+            "text": "Sidenettadresse"
+        },
+        "2b20b329e216fbeb0c33623f80820c4f": {
+            "text": "Forrige nettadresse"
+        },
+        "595c273a666f09c506053e11d2ac2c80": {
+            "text": "Gjeldende nettadresse"
+        },
+        "bf12c71ab977edb4e5b3c2291b914717": {
+            "text": "Felter redigert"
+        },
+        "14e7dd71a82eb3c2500ac2687efef82b": {
+            "text": "Kall"
+        },
+        "329382d18f4553b4a23f573b28378503": {
+            "text": "Du har ikke tillatelsen som kreves av denne handlingen."
+        },
+        "2a78ed76450c3cb42320882b3e055b31": {
+            "text": "Operasjon"
+        },
+        "b3b32a2d422265cd25c3323ed0157f81": {
+            "text": "sider"
+        },
+        "52c3d0b33b03c5882b664388ae5a90d5": {
+            "text": "%s sider"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Mal"
+        },
+        "5bc7d88eaf3e820533223e34b4b28e26": {
+            "text": "sider"
+        },
+        "4ea7801f17a4e5485e8b050c052fb443": {
+            "text": "Flagg"
+        },
+        "df3f079de6961496f0460dcfdbf9bca3": {
+            "text": "av"
+        },
+        "fa9db95d213c8aa0e7510bdddc8ebc8d": {
+            "text": "modifisert av"
+        },
+        "5b72f89c48003bbadd87a87f38788d77": {
+            "text": "av bruker med"
+        },
+        "b2548af4c27d2c22cf86c70b795721c0": {
+            "text": "modifisert av bruker med"
+        },
+        "bbbabdbe1b262f75d99d62880b953be1": {
+            "text": "Rolle"
+        },
+        "29a7e96467b69a9f5a93332e29e9b0de": {
+            "text": "rolle"
+        },
+        "ee11cbb19052e40b07aac0ca060c23ee": {
+            "text": "bruker"
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Brukernavn"
+        },
+        "2942c466ae985c4fe2d8cc9d0c801501": {
+            "text": "mellom"
+        },
+        "f345e4e5e2ca099ba3db81deb3e8c2c8": {
+            "text": "Ikke relevant i denne sammenhengen"
+        },
+        "90215736428a766fad9e9350b800dab6": {
+            "text": "Viser kun resultater for \u00e9n side."
+        },
+        "4e638e2142ee5fc5467ba9b4c6c4c006": {
+            "text": "T\u00f8m sidefilter."
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filter"
+        },
+        "d529e941509eb9e9b9cfaeae1fe7ca23": {
+            "text": "ikke"
+        },
+        "e7348475d7dfc0978ce110da97d86334": {
+            "text": "F\u00e5 tilgang til endringslogg"
+        },
+        "79d9a3d64a95142939213402adc30a94": {
+            "text": "Hold oversikt over endringer (endringer, fjerninger, tillegg osv.)"
+        },
+        "91006ca608491718d9d3752491c032bb": {
+            "text": "Alle operasjoner"
+        },
+        "beb35cc92c4256ab515947adbe4307f5": {
+            "text": "med eventuelle flagg"
+        },
+        "c7a9ee9d1b110ad1bb0b7d7329baacd8": {
+            "text": "med systemflagg"
+        },
+        "7f407f3990f15284440aae7eefa07dd5": {
+            "text": "uten systemflagg"
+        },
+        "d33dbb9efc361be29ecf9f71d5abe494": {
+            "text": "n\u00e5r som helst"
+        },
+        "5ac84103a314206510430ab39deb96f3": {
+            "text": "innen en dag"
+        },
+        "18ddafc1c897496704f01412ba91cf06": {
+            "text": "innen en uke"
+        },
+        "73ff4b995d1250aca9bfecbceb4ecdd7": {
+            "text": "innen en m\u00e5ned"
+        },
+        "8c0ccab4482c98b58bce96f6d35babcf": {
+            "text": "innen et \u00e5r"
+        },
+        "08ee10c9fa141c53ae44667dcc1adf1e": {
+            "text": "Datoperiode"
+        },
+        "9dc0b7bdd32d5e30f4d71eb5abb6b8d4": {
+            "text": "Visningsinnstillinger"
+        },
+        "585ebff0fc5428e9b389c7386b28def7": {
+            "text": "Disse innstillingene styrer hvilken (og hvor mye) informasjon som vises p\u00e5 endringsloggsiden i admin."
+        },
+        "8b6f6d305407f0b686f1974206ad415c": {
+            "text": "Datoformat"
+        },
+        "858042656fb1f3c0eb1dad05185f00a3": {
+            "text": "Se funksjonsreferansen til %s for mer informasjon om hvordan du tilpasser dette formatet."
+        },
+        "9cbf38bcd4fe155645fecacde6c2b2a6": {
+            "text": "Radgrense"
+        },
+        "c6c778a2c60148e4f0f2b0b0c72a98a0": {
+            "text": "Antall rader som er synlige samtidig"
+        },
+        "fc0147ea6d0159c0fce95376537eded7": {
+            "text": "Radetikett"
+        },
+        "dcfa88f50e637b7fe535c96f1b09e92c": {
+            "text": "Hvilket felt skal brukes som radetikett?"
+        },
+        "641a6f4312e8aaa4c7037f0f8e963feb": {
+            "text": "Synlighetsinnstillinger"
+        },
+        "58172c5caa673bdf5802f9c7c0238be0": {
+            "text": "Disse innstillingene kontrollerer hvilke filtre og alternativer som vises p\u00e5 administratorsiden for endringsloggen."
+        },
+        "3b6091d76d401699d930779dfdeda865": {
+            "text": "Synlige filtre"
+        },
+        "e2f62e89f3459bea2f4ba610be041e8f": {
+            "text": "Hvis du fjerner merket for alle filtre, skjules filteromr\u00e5det fullstendig."
+        },
+        "75e4d77b07abc5a0a44c77f0ceee39ab": {
+            "text": "Verdier for skjulte filtre"
+        },
+        "3e788183854e2a125ef2514ef9ab9da0": {
+            "text": "Disse brukes som standardverdier for skjulte filtre."
+        },
+        "659a89e422a2315c9797969a2ae47e61": {
+            "text": "Filtre som ikke er oppf\u00f8rt her, ignoreres n\u00e5r de er skjult."
+        },
+        "376af8d431de78ef7e1a7aa315e4181f": {
+            "text": "RSS-innstillinger"
+        },
+        "c91cedb2ac46f74fb0542cf639a03f23": {
+            "text": "Dette er innstillingene som brukes n\u00e5r modulen gjengir RSS-feeder."
+        },
+        "6ad58a4d755b0382d7314a195115e02a": {
+            "text": "RSS-innholdstype"
+        },
+        "7cee6801e1812c9dc10a4ac70b4a5f15": {
+            "text": "Verdien av innholdstypeoverskriften som sendes med en RSS-feed."
+        },
+        "00c402f669f81ecdd943cd84af9e873a": {
+            "text": "slettet"
+        },
+        "87aa53e74311cad5a3bcbfb389aa839a": {
+            "text": "Fant \u00e9n samsvarende rad."
+        },
+        "885fc58133cb3f48c5feb0e8c8d26e50": {
+            "text": "%d samsvarende rader funnet."
+        }
+    }
 }

@@ -1,5 +1,231 @@
 {
     "file": "site\/modules\/ProcessChangelog\/ProcessChangelogHooks.module",
     "textdomain": "site--modules--processchangelog--processchangeloghooks-module",
-    "translations": []
+    "translations": {
+        "938d4b0b764cc51fd67fa3d85457bc67": {
+            "text": "Ignorer innstillinger"
+        },
+        "81061e31348df90e36144ffb6fc1c57a": {
+            "text": "Disse alternativene kontrollerer hvilke maler, felt, roller og brukere som *ikke* blir logget. Husk imidlertid at endringer her ikke vil slette eksisterende data."
+        },
+        "c49182dc0c7a70b9cd2e10853d9ec6c7": {
+            "text": "Endringslogg"
+        },
+        "db9c40b5f330cfa22879208a51ceb3a0": {
+            "text": "Vis historikk"
+        },
+        "0df840dfc2de85ac95f397dac4502671": {
+            "text": "Data ble beskj\u00e6rt i henhold til regler spesifisert av konfigurerte dataoppbevaringsinnstillinger."
+        },
+        "0749d339064949755166a3771a26da00": {
+            "text": "Modulinnstillinger ble lagret, men regler for oppbevaring av data ble ikke spesifisert, s\u00e5 ingen data ble beskj\u00e6rt."
+        },
+        "944c78b84bf934710b18134e822c9383": {
+            "text": "Kj\u00f8ring av databaseskjemaoppdatering %d mislyktes"
+        },
+        "a867e0ac74bad44a912af2aa2d8a53fc": {
+            "text": "ProcessChangelog har ventende databaseskjemaoppdatering (#%d). Denne oppdateringen kan ta en stund \u00e5 fullf\u00f8re. Hvis det oppst\u00e5r en feil, inneholder modul README-filen ytterligere instruksjoner. %s."
+        },
+        "8a4f89bf62b0858cffa2ec5bb959f914": {
+            "text": "Oppdater databaseskjemaet n\u00e5"
+        },
+        "85166c9881acdf2380c617fdff476a22": {
+            "text": "gjemt"
+        },
+        "f334aac035d57464f95a17b467498bb7": {
+            "text": "ugjemt"
+        },
+        "b60ed88355ac3f6898fd8a7ab1734d06": {
+            "text": "lagt til"
+        },
+        "11dfd868d93bc2b0e4ce0bee5756f8b1": {
+            "text": "flyttet"
+        },
+        "683dc5278b1fbbd98a996cecc3ffd06a": {
+            "text": "redigert"
+        },
+        "121e1d0f9e75bf8935a2238d20f2f864": {
+            "text": "kastet"
+        },
+        "acca362a48577269b87ef58cd46e2c3a": {
+            "text": "gitt nytt navn"
+        },
+        "da602f0b162fccbf6b150cfcfc7a7379": {
+            "text": "slettet"
+        },
+        "273a9f24fbf78c0b07dba09fd638c6fa": {
+            "text": "gjenopprettet"
+        },
+        "8f888fedf6bd5ff7c93c6d76bb8dc21c": {
+            "text": "publisert"
+        },
+        "3ebd43fb0ca85e5d4aae6b6f19703a39": {
+            "text": "upublisert"
+        },
+        "34c505d602852155d7815573f4dbb292": {
+            "text": "Disse innstillingene definerer hvilke handlinger og hva slags data som blir logget."
+        },
+        "456d0deba6a86c9585590550c797502d": {
+            "text": "Operasjoner"
+        },
+        "d82b6e3e0f73877d63800e7d56183bcb": {
+            "text": "Du kan velge hvilke operasjoner du vil holde styr p\u00e5 her."
+        },
+        "267411baa810925327af8635f8034a65": {
+            "text": "ProcessChangelog-databaseskjemaoppdatering brukt (#%d)."
+        },
+        "8db7df66ab1d7ab5f1dc947acdb5fae4": {
+            "text": "="
+        },
+        "10691524bf7f143fd11140b00861718a": {
+            "text": "Merk at hvis du fjerner merket for operasjoner senere, vil ikke rader som inneholder dem fjernes fra databasen. I stedet opprettes ikke nye rader av disse typene lenger, og eksisterende rader vil ikke lenger v\u00e6re synlige."
+        },
+        "cc49da45352e4787e34acec80b43b5e2": {
+            "text": "Kallogging"
+        },
+        "d9827e0900d3380c7538cbad93ed9925": {
+            "text": "Vil du aktivere logging av bane\/URL for skript som utl\u00f8ste handling?"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "+"
+        },
+        "f1669be3961fd5dee362ceb3cf15f4f8": {
+            "text": "Kun for eksterne kall (CLI og eksterne applikasjoner)"
+        },
+        "d8bea2103e28d465dee859db3c24baca": {
+            "text": "For alle kall (CLI, eksterne applikasjoner og selve ProcessWire)"
+        },
+        "133e0a540afedafc5a889978c556f665": {
+            "text": "Dette kan v\u00e6re nyttig n\u00e5r du pr\u00f8ver \u00e5 finne ut hvorfor en viss endring ble utl\u00f8st. P\u00e5 den annen side \u00f8ker den st\u00f8rrelsen p\u00e5 databasetabellen din og reduserer kj\u00f8ringen av skriptet litt, og det er derfor den er deaktivert som standard."
+        },
+        "dfc1aba09a3e8826726a2ac7e5d56a4d": {
+            "text": "Ignorerte maler"
+        },
+        "e68b58094eb4e272183ad5ca00d99f98": {
+            "text": "Ignorer disse malene n\u00e5r du logger endringer."
+        },
+        "2976dbb00b547cefbd1269ae2a603924": {
+            "text": "Ignorer disse malene n\u00e5r du logger endringer."
+        },
+        "e6a76011c078383da9abe95699b16b44": {
+            "text": "Ignorer disse feltene n\u00e5r du logger endringer."
+        },
+        "86b43565ecc9b2fc09c4fc3be21c9b5b": {
+            "text": "Ignorerte roller"
+        },
+        "5f4ac64bc164284ff476d4d7fa090876": {
+            "text": "Ignorer disse rollene n\u00e5r du logger endringer."
+        },
+        "80fde1a2ea3de041a7fa32170d9960da": {
+            "text": "Merk at \"gjest\" har en spesiell betydning her: med andre roller blir brukeren ignorert hvis de har noen av de ignorerte rollene, mens gjestebrukere bare ignoreres hvis de har gjesterollen *og ingen andre roller overhodet*."
+        },
+        "da252353a8f6a2995418f111ed9582ec": {
+            "text": "Ignorerte brukere"
+        },
+        "67ac3c2661c3ec8175acae0c03cc54e3": {
+            "text": "Ignorer disse brukerne n\u00e5r du logger endringer."
+        },
+        "b636d0c9991cfe3fee80ac092cce2cfe": {
+            "text": "Oppbevaring av data"
+        },
+        "7bb73f91aea20dde5ebf9166f07c57b9": {
+            "text": "Disse innstillingene definerer hvor lenge innsamlede data skal oppbevares i, samt omstendighetene de kan bli slettet under."
+        },
+        "a9b36f9fabadd5b967093de7f7e1480d": {
+            "text": "Maks alder p\u00e5 data"
+        },
+        "336f9c65317f2f65b1e8fac040528252": {
+            "text": "Hvor lenge b\u00f8r vi beholde innsamlede data?"
+        },
+        "c14ccc7a54c66791be39af14df8e1641": {
+            "text": "Automatisk opprydding krever LazyCron-modul, som for \u00f8yeblikket ikke er installert."
+        },
+        "705fbbd6e1667845569c00fd7523d343": {
+            "text": "1 uke"
+        },
+        "a9adf02fea7b0107b5a712a45e51076a": {
+            "text": "2 uker"
+        },
+        "1634e66b522edaa910370cc5581a47f1": {
+            "text": "1 m\u00e5ned"
+        },
+        "e6d19733e42320b3240bb706c16c832b": {
+            "text": "2 m\u00e5neder"
+        },
+        "de0353cab16c9faa68162dffe7b3ec08": {
+            "text": "3 m\u00e5neder"
+        },
+        "9f7aa8ce719604f269027cacec634cf1": {
+            "text": "6 m\u00e5neder"
+        },
+        "ca4c73c1f333c437a47c58afd0623530": {
+            "text": "1 \u00e5r"
+        },
+        "fe9e179b8597c5b1e7f1e2ff0644a5c8": {
+            "text": "Spesifiser antall dager"
+        },
+        "47df7ef299872bf6ab59d87b26beb26a": {
+            "text": "La st\u00e5 tomt for \u00e5 deaktivere automatisk opprydding."
+        },
+        "d2474f3293d913f4f9bb3459f2f2eeba": {
+            "text": "Maks alder p\u00e5 data i dager"
+        },
+        "befc25356bc9d1d4f8bc9d2555d3476e": {
+            "text": "Denne innstillingen gir mer detaljert kontroll over datalagringsperioden."
+        },
+        "1aa1808b47dc1c7637f9c329843d7a5d": {
+            "text": "Hvis du lar dette feltet st\u00e5 tomt, vil data bli oppbevart p\u00e5 ubestemt tid."
+        },
+        "ce7b4aa6b1f61db2d3abea9cf07e9e8d": {
+            "text": "Data maks. rader"
+        },
+        "64e98aecd19093018e6bfb8c644d61e6": {
+            "text": "Hvor mange rader med data skal vi beholde?"
+        },
+        "fc9db5066ad0d448287bf9f5edc5e17b": {
+            "text": "Beskj\u00e6r data n\u00e5?"
+        },
+        "0d1a3e8a7c0bcfcd4bbd5b316dba7776": {
+            "text": "Hvis du merker av for dette alternativet og lagrer modulinnstillingene, vil dataoppbevaringsinnstillingene bli brukt med en gang, noe som betyr at alle gamle data vil bli fjernet."
+        },
+        "821f3cfc88f5c7878a9253e3f0029e5b": {
+            "text": "Merk: Denne operasjonen kan ta lang tid."
+        },
+        "af307eeb6d70b14606bfa0c6efd33d5e": {
+            "text": "Tilleggsinnstillinger"
+        },
+        "5e029b68fa8021de4be819f8332fbe2e": {
+            "text": "Diverse innstillinger for justering av modulens oppf\u00f8rsel."
+        },
+        "bb456890a962478232794909ada31c03": {
+            "text": "Legg til endringslogg i sideredigeringsprogrammet"
+        },
+        "fc6df7b07853d54d1e42e3478e318f17": {
+            "text": "Vil du legge til en endringslogg-del til Innstillinger-fanen i sideredigeringsprogrammet?"
+        },
+        "515c9756dc6333683fc9a2ddb63eff1c": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at siden du ikke har spesifisert en maksimal alder eller maksimalt antall rader for endringsloggdataene dine, kan det v\u00e6re \u00e5 foretrekke \u00e5 deaktivere Endringslogg-delen. Ellers kan store mengder endringsloggdata f\u00f8re til langsomme lastetider for sideredigereren."
+        },
+        "58213b56376e45dd733efa6556cacb1a": {
+            "text": "For alle"
+        },
+        "b59e53dae4c21c46b63825ab44957b1f": {
+            "text": "For brukere med endringsloggtillatelse"
+        },
+        "1eea4a30b63f4326b44ea7aea8e9eb9f": {
+            "text": "Kun for superbrukere"
+        },
+        "887496e1745a28a577e43c42e5fe1223": {
+            "text": "Skjemaversjon"
+        },
+        "5870fb709fd9ddc778655274d79a596b": {
+            "text": "Under normale omstendigheter skal du aldri m\u00e5tte endre dette feltet manuelt. Den kan imidlertid brukes til \u00e5 hoppe over en spesifikk skjemaoppdatering, eller la Proces Changelog Hooks vite at du har brukt oppdateringen manuelt via databasen."
+        },
+        "60ad33abf4cab84e8dbd6e3796832ce1": {
+            "text": "%d redigering siden %s"
+        },
+        "fddd53f73dfa2fdfed393fac51182366": {
+            "text": "%d redigeringer siden %s"
+        }
+    }
 }
