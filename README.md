@@ -16,7 +16,6 @@ Linked modules should be completed. Unlinked modules are work in progress.
 
 ### Free modules
 
-- [Admin Actions – ProcessAdminActions](https://modules.processwire.com/modules/process-admin-actions/)
 - [Admin Restrict Branch – AdminRestrictBranch](https://modules.processwire.com/modules/admin-restrict-branch/)
 - [Changelog](https://processwire.com/modules/process-changelog/)
 - [Custom Admin Menus](https://processwire.com/modules/custom-admin-menus/)
