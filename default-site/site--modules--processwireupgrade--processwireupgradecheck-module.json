@@ -25,6 +25,12 @@
         },
         "4ad1a107963bcc746173406586cd34e1": {
             "text": "Sjekk at HTTP-foresp\u00f8rslene ikke er blokkert av serveren din."
+        },
+        "a95318ae83492384a683cbf8e3d01ed6": {
+            "text": "Oppgraderingssjekk"
+        },
+        "d8c9b7ecd52279c2d7fe0bb61b758e4b": {
+            "text": "Sjekker automatisk for kjerne- og installerte moduloppgraderinger med rutineintervaller."
         }
     }
 }

@@ -73,6 +73,222 @@
         },
         "33cd95b70e91cd838203f438c9d5bfc4": {
             "text": "Feil med tillatelse ved fjerne av sti (vennligst fjern manuelt): %s"
+        },
+        "b25ff34e6e643ae2e497da38eb8afa6a": {
+            "text": "Vi vil laste de nyeste kjerne- og modulversjonene fra ProcessWire-modulkatalogen."
+        },
+        "cc790f07d8f7a9cfd1d2c3d2b4813653": {
+            "text": "V\u00e6r t\u00e5lmodig, dette kan ta noen sekunder \u00e5 fullf\u00f8re."
+        },
+        "240f9686efc9548a1d556d924c143924": {
+            "text": "Oppgraderinger"
+        },
+        "edec83bc2b9e76005e2cb9501f7ab5a7": {
+            "text": "Verkt\u00f8y som hjelper deg med \u00e5 identifisere og installere kjerne- og moduloppgraderinger."
+        },
+        "5162986438456638ec940ec906ad26fb": {
+            "text": "Oppgraderingsfiler finnes allerede. Fjern dem f\u00f8r du fortsetter."
+        },
+        "fe1da7167d43eab138a8723539b3773d": {
+            "text": "PHP-en din er ikke kompilert med PDO-st\u00f8tte. PUD kreves av ProcessWire."
+        },
+        "702201bdc677c59107264a6b8bd77c3e": {
+            "text": "V\u00e6r oppmerksom p\u00e5 at din n\u00e5v\u00e6rende PHP-versjon ($phpVersion) ikke er tilstrekkelig for \u00e5 oppgradere til den nyeste ProcessWire."
+        },
+        "ac36ea87d4a6d3998ad38c9e03839c17": {
+            "text": "PHP-en din har ikke ZipArchive-st\u00f8tte. Dette er n\u00f8dvendig for \u00e5 installere kjerne- eller moduloppgraderinger med dette verkt\u00f8yet."
+        },
+        "b05e983a95ca7e3e2b86705d3a829a70": {
+            "text": "Du kan fortsatt bruke dette verkt\u00f8yet til \u00e5 identifisere nye versjoner og installere dem manuelt."
+        },
+        "0271947d1f03aa9b8ae163fc40a2d1e0": {
+            "text": "Selv om det er valgfritt, anbefaler vi at du aktiverer feils\u00f8kingsmodus under oppgraderingen, slik at du vil se detaljerte feilmeldinger hvis de skulle oppst\u00e5."
+        },
+        "489264abf385d2a1c7cee89b09b93db1": {
+            "text": "Gj\u00f8r dette ved \u00e5 redigere \/site\/config.php og sette feils\u00f8kingsalternativet til true. Eksempel: $config->debug = true;"
+        },
+        "694ad6895b4dee5ed809751d53bf7d85": {
+            "text": "Vil du laste ned og installere ProcessWire $branch[name] versjon $branch[version]?"
+        },
+        "9e20d890b95d5673f52d09b366b4392e": {
+            "text": "Den tilgjengelige versjonen ($branch[versjon]) er nyere enn den du har for \u00f8yeblikket ($config->versjon)."
+        },
+        "f23d3085fc573481016c01cfe71fc420": {
+            "text": "Den tilgjengelige versjonen ($branch[versjon]) er eldre enn den du har ($config->versjon)."
+        },
+        "7ede1132a04b60a66ee7cfd858c2191e": {
+            "text": "Den tilgjengelige versjonen er den samme som den du har for \u00f8yeblikket."
+        },
+        "cf636ca2a768635ab5f990ce33635337": {
+            "text": "Etter \u00e5 ha klikket p\u00e5 nedlastingsknappen, v\u00e6r t\u00e5lmodig, siden dette kan ta et minutt."
+        },
+        "60d7cefd133a97076875944e8e99e9a8": {
+            "text": "Sikkerhetskopiering lagret i $file ($bytes bytes) - V\u00e6r oppmerksom p\u00e5 denne plasseringen hvis du senere skulle m\u00e5tte gjenopprette den."
+        },
+        "ee9b1a6dad027edd692dcd79cda589e7": {
+            "text": "Sikkerhetskopiering av database mislyktes"
+        },
+        "e9bab7918560f19efdd50783ca4a31e8": {
+            "text": "Din versjon av ProcessWire st\u00f8tter automatisk sikkerhetskopiering av databaser.*"
+        },
+        "9225e6c9ffab8e7f553da13d10cb10b1": {
+            "text": "*Vi anbefaler ogs\u00e5 \u00e5 lage en uavhengig databasesikkerhetskopi, for eksempel med PhpMyAdmin."
+        },
+        "e63dc0e294361d0efdd6911d302a240c": {
+            "text": "Din n\u00e5v\u00e6rende versjon av ProcessWire st\u00f8tter ikke automatisk sikkerhetskopiering av databaser."
+        },
+        "1ebd2b7d089405e47b26675bb200a1c8": {
+            "text": "Vi anbefaler \u00e5 lage en sikkerhetskopi av databasen `$config->dbName` ved \u00e5 bruke et verkt\u00f8y som PhpMyAdmin."
+        },
+        "5e021a2a001cf0167758b363ecc815cf": {
+            "text": "Klikk p\u00e5 knappen nedenfor n\u00e5r du har lagret en sikkerhetskopi."
+        },
+        "948337f2a2f4df3d4e6d23726c53283d": {
+            "text": "Oppgraderingsfiler er kopiert"
+        },
+        "bb187fc5f455a10969676d786ded7c12": {
+            "text": "Vi har utarbeidet kopier av oppgraderingsfiler for installasjon. P\u00e5 dette punktet,"
+        },
+        "6e29594380dfd605e8c4f99f68e432a5": {
+            "text": "du kan installere dem selv ved \u00e5 erstatte den eksisterende `\/wire\/`-katalogen med `$wireNewLabel`,"
+        },
+        "8012d835bdcf04656bda3de3fcc6107d": {
+            "text": "og eventuelt `index.php` med `$indexNewLabel`, og `.htaccess` med `$htaccessNewLabel`."
+        },
+        "b6fd2af3db5384f3c024237ec33fdfa8": {
+            "text": "Eller siden filsystemet ditt er skrivbart, kan dette verkt\u00f8yet installere dem."
+        },
+        "2a794d9d4b81369036450c51078121be": {
+            "text": "Fullstendige instruksjoner er nedenfor."
+        },
+        "f280582e703fb1f0eac4a3ca75c04a04": {
+            "text": "`index.php`-filen din ser ut til \u00e5 v\u00e6re oppdatert, det b\u00f8r v\u00e6re greit \u00e5 la den eksisterende v\u00e6re p\u00e5 plass."
+        },
+        "e1efe8b2051c8a1ea7d6b78b7a34261c": {
+            "text": "`index.php`-filen din ser ut til \u00e5 trenge en oppdatering, sjekk at du ikke har gjort noen nettstedspesifikke tilpasninger til den f\u00f8r du erstatter den."
+        },
+        "16536c52a66f75ce450cf7612f75db88": {
+            "text": "`.htaccess`-filen din ser ut til \u00e5 v\u00e6re oppdatert, det b\u00f8r v\u00e6re greit \u00e5 la den eksisterende v\u00e6re p\u00e5 plass."
+        },
+        "39649b85980f9b515564d5d9eb39a263": {
+            "text": "`.htaccess`-filen din ser ut til \u00e5 trenge en oppdatering. Se etter eventuelle nettstedspesifikke tilpasninger f\u00f8r du erstatter den. Det kan v\u00e6re lurt \u00e5 bruke oppdateringer til den manuelt."
+        },
+        "323dfb58e83ab66da4097c2f832ee6dd": {
+            "text": "Siden `.htaccess`-filen ofte kan ha stedsspesifikke tilpasninger, ville det v\u00e6re best \u00e5 h\u00e5ndtere den manuelt, med mindre du vet at den er uendret."
+        },
+        "b8e3ccafe43a9dcc7bcd371f763fd56a": {
+            "text": "Vil du ha dette verkt\u00f8yet for \u00e5 installere oppgraderingen?"
+        },
+        "8abc8f9f793d962cb6623f003c8fff51": {
+            "text": "Merk av i boksene nedenfor for hva du vil at vi skal installere. $htaccessNote"
+        },
+        "f35185f52e2eafd465614969c6d93077": {
+            "text": "Filsystemet ditt er ikke skrivbart, s\u00e5 vi kan ikke automatisk installere oppgraderingsfilene for deg."
+        },
+        "c8dba33b373b668f670f8c9e3c5ab009": {
+            "text": "Men filene er klare til \u00e5 flytte til deres destinasjoner."
+        },
+        "553922a743c302172fcd34143ce1df4c": {
+            "text": "Sikkerhetskopier eksisterende filer"
+        },
+        "ce58539ac9babeae0a1593012ed0dc5c": {
+            "text": "Selv om det er valgfritt, anbefaler vi p\u00e5 det sterkeste \u00e5 ta sikkerhetskopier av alt som er erstattet, slik at du alltid kan g\u00e5 tilbake til det om n\u00f8dvendig."
+        },
+        "62cbd46e8c544cf0bec0c7f7b6d0e5e7": {
+            "text": "Vi anbefaler at du gj\u00f8r dette ved \u00e5 utf\u00f8re f\u00f8lgende filskifteoperasjoner:"
+        },
+        "41e3d4c519d6177f98b61b8374edbdb3": {
+            "text": "Gi nytt navn til `$old` til `$new`"
+        },
+        "0f6d03b45118045c08cacc05902945e3": {
+            "text": "Migrer de nye filene"
+        },
+        "3f2438b9463e52c0cc3466e4b69ee97c": {
+            "text": "N\u00e5 kan du migrere de nye filene ved \u00e5 gi dem nytt navn fra den midlertidige plasseringen til destinasjonen."
+        },
+        "d9aae3a1b345f1defff6cb27892adf51": {
+            "text": "N\u00e5r du har fullf\u00f8rt trinnene ovenfor, vil oppgraderingen v\u00e6re fullf\u00f8rt."
+        },
+        "e84342057eca4a2b3dd86bdd2a3ad8aa": {
+            "text": "*I mange tilfeller er det ikke n\u00f8dvendig \u00e5 oppgradere filene index.php og .htaccess siden de ikke alltid endres mellom versjoner."
+        },
+        "8a2fd8c5ed9dcab6a4d0c9739ded7ae4": {
+            "text": "Oppgradering fullf\u00f8rt"
+        },
+        "47848c1719ec055954e25c315109117d": {
+            "text": "Dobbeltsjekk at alt fungerer f\u00f8r du forlater denne siden"
+        },
+        "3d5dfd7d8caff6a80dc7fe80b84f1248": {
+            "text": "Databasen din ble sikkerhetskopiert til denne filen:<br \/>`$dbFile`"
+        },
+        "74e400c279cbbba6e449c47f0d1c6f93": {
+            "text": "Test ut b\u00e5de $frontEndLink og $adminLink p\u00e5 nettstedet ditt i sin helhet for \u00e5 sikre at alt fungerer."
+        },
+        "4b24440411df03a747c87054a69d0141": {
+            "text": "Installerte filer har tillatelse `$config->chmodFile` og kataloger `$config->chmodDir`. Dobbeltsjekk at disse er trygge hos webverten din, spesielt i et delt vertsmilj\u00f8."
+        },
+        "1283e2599e5a8e0ebf377352a95a1f8e": {
+            "text": "For produksjonssteder, husk \u00e5 sl\u00e5 av feils\u00f8kingsmodus n\u00e5r oppgraderingen er fullf\u00f8rt."
+        },
+        "da780c8e7f1998ed8d5d1bc6a663d6f6": {
+            "text": "Hvis oppgraderingen ikke fungerte..."
+        },
+        "eeb2241b7e3f3f60a7e8fcb54d02ef20": {
+            "text": "Hvis du st\u00f8ter p\u00e5 fatale feilmeldinger (i frontend- eller admin-lenkene ovenfor), trykker du p\u00e5 nytt\/oppdater i nettleserfanen til den forsvinner (2-3 ganger)."
+        },
+        "02cdc41cbfdc2b1abbe21e06411c391f": {
+            "text": "Det kan ta noen f\u00e5 foresp\u00f8rsler f\u00f8r ProcessWire bruker n\u00f8dvendige databaseskjemaendringer."
+        },
+        "b3951789f8049e77f419cacbedb69f66": {
+            "text": "Skulle du finne ut at oppgraderingen mislyktes av en eller annen grunn og du \u00f8nsker \u00e5 g\u00e5 tilbake til forrige versjon,"
+        },
+        "23170af64be19f2955dd81e264763ae8": {
+            "text": "nedenfor er trinnene for \u00e5 angre det som nettopp ble brukt."
+        },
+        "6afa2b1fc2e4b95e4d5dbd7222af2734": {
+            "text": "Trinn 1: Fjern de installerte oppdateringene ved \u00e5 gi dem nytt navn eller slette dem"
+        },
+        "59551290956f2ea22977fd72c18ad404": {
+            "text": "Slett `\/wire\/`-katalogen ELLER gi den nytt navn til `\/.wire-$newVersion\/`"
+        },
+        "58943554c12b33026a6bbcce5302f718": {
+            "text": "Hvis du erstattet `.htaccess`-filen: Slett `.htaccess` ELLER gi den nytt navn til `.htaccess-$newVersion`"
+        },
+        "c2db363804dd1c43af1fdc696e0f4cec": {
+            "text": "Hvis du erstattet filen `index.php`: Slett `index.php` ELLER gi den nytt navn til `.index-$newVersion.php`"
+        },
+        "fbbcaf06ec167d2265a485d4eb2d10b6": {
+            "text": "Trinn 2: Gjenopprett sikkerhetskopierte filer"
+        },
+        "f1284cb34c288e68e3cfa85efcc5492e": {
+            "text": "Gi nytt navn til katalogen `\/.wire-$oldVersion\/` til `\/wire\/`"
+        },
+        "47029c2c5051f006926b3beb3da034d1": {
+            "text": "Hvis aktuelt: Gi nytt navn til `.index-$oldVersion.php` til `index.php`"
+        },
+        "bee0c4f550db3a534f158df72af072e1": {
+            "text": "Trinn 3: Gjenopprett sikkerhetskopiert database (om n\u00f8dvendig)"
+        },
+        "c75e443aa855864458742f35d1a1ae4a": {
+            "text": "$_new eksisterer allerede (vi lot det v\u00e6re ur\u00f8rt)"
+        },
+        "85f37641141f5535e4a457799c4094be": {
+            "text": "Omd\u00f8pt $_old => $_new"
+        },
+        "e1e76170817beb62b229e46422d9bea7": {
+            "text": "Kan ikke gi nytt navn til $_old => $_new"
+        },
+        "b43bb8d559865de1ec30df0144154c7f": {
+            "text": "Oppgraderingen ble avbrutt. Kan ikke gi nytt navn til $_old => $_new"
+        },
+        "c9b8d336e779e23cb509d90565dd44c7": {
+            "text": "Omd\u00f8pt $newPath => $newPath2"
+        },
+        "ce2e3f69176b535dfde19ba7ea026efc": {
+            "text": "Omd\u00f8pt $old => $new"
+        },
+        "8c0437d3b15ee5df8a2fd9f2dfb766d5": {
+            "text": "Kan ikke gi nytt navn til $old => $new"
         }
     }
 }

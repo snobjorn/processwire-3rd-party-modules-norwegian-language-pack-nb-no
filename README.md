@@ -16,32 +16,18 @@ Linked modules should be completed. Unlinked modules are work in progress.
 
 ### Free modules
 
-- [404 Logger – Process404Logger](https://modules.processwire.com/modules/process404-logger/)
 - [Admin Actions – ProcessAdminActions](https://modules.processwire.com/modules/process-admin-actions/)
 - [Admin Restrict Branch – AdminRestrictBranch](https://modules.processwire.com/modules/admin-restrict-branch/)
-- [Color – FieldtypeColor](https://modules.processwire.com/modules/fieldtype-color/)
-- [ConnectPageFields – ConnectPageFields](https://processwire.com/modules/connect-page-fields/)
 - [Changelog](https://processwire.com/modules/process-changelog/)
 - [Custom Admin Menus](https://processwire.com/modules/custom-admin-menus/)
-- [Custom Upload Names – ProcessCustomUploadNames](https://modules.processwire.com/modules/process-custom-upload-names/)
-- [Dynamic Roles – DynamicRoles](https://github.com/ryancramerdesign/DynamicRoles)
 - [Email/SMS Two-Factor Authentication – TfaEmail](https://modules.processwire.com/modules/tfa-email/)
 - [Funky Functions – TextFormatterFunkyFunctions](https://github.com/blynx/TextformatterFunkyFunctions)
-- [Link Checker – ProcessLinkChecker](https://github.com/teppokoivula/ProcessLinkChecker)
-- [Map Marker – FieldtypeMapMarker](https://processwire.com/modules/fieldtype-map-marker/)
-- [Markup RSS Feed enhanced](https://processwire.com/modules/markup-rssenhanced/)
-- [Page Field Edit Links – AdminPageFieldEditLinks](https://modules.processwire.com/modules/admin-page-field-edit-links/)
-- [PDF Fieldtype – FieldtypePDF](https://modules.processwire.com/modules/fieldtype-pdf/)
 - [Persistent Login for users – LoginPersist](https://modules.processwire.com/modules/login-persist/)
-- [ProcessWire SVG Sanitizer](https://processwire.com/modules/file-validator-svg-sanitizer/)
 - [ProcessWire Upgrade – ProcessWireUpgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
-- [Range Slider – FieldtypeRangeSlider](https://modules.processwire.com/modules/range-slider/)
 - [Select Fields – FieldtypeFields](https://processwire.com/modules/fieldtype-fields/)
 - [TOTP two-factor authentication – TfaTotp](https://modules.processwire.com/modules/tfa-totp/)
 - [Version Control – VersionControl](https://modules.processwire.com/modules/version-control/)
-- [Video embed for YouTube/Vimeo – TextFormatterVideoEmbed](https://modules.processwire.com/modules/textformatter-video-embed/)
 - [WireMail: SendGrid](https://processwire.com/modules/wire-mail-send-grid/)
-- [WireMailSmtp](https://processwire.com/modules/wire-mail-smtp/)
 
 ### Pro modules
 
